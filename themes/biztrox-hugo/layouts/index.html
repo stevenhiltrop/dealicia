@@ -34,20 +34,20 @@
 {{ partial "skill.html" . }}
 {{ end }}
 
-{{ if $data.homepage.project.enable }}
+{{ if $data.homepage.product.enable }}
 {{ "<!-- work -->" | safeHTML }}
 <section class="section bg-gray">
 	<div class="container-fluid">
 		<div class="row">
 			<div class="col-lg-12 text-center">
-				<h5 class="section-title-sm">{{ i18n "project_subtitle" }}</h5>
-				<h2 class="section-title section-title-border-gray">{{ i18n "project_title" }}</h2>
+				<h5 class="section-title-sm">{{ i18n "product_subtitle" }}</h5>
+				<h2 class="section-title section-title-border-gray">{{ i18n "product_title" }}</h2>
 			</div>
 		</div>
 		{{ "<!-- work slider -->" | safeHTML }}
 		<div class="row work-slider">
-			{{ range $index, $element:= where .Site.RegularPages "Type" "project"}}
-			{{ .Render "project" }}
+			{{ range $index, $element:= where .Site.RegularPages "Type" "product"}}
+			{{ .Render "product" }}
 			{{ end }}
 		</div>
 	</div>

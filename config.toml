@@ -1,6 +1,6 @@
 ######################### default configuration ###############################
 baseURL = "http://examplesite.com"
-title = "Biztrox"
+title = "Tienda de repostería en la costa del Sol | d'Alicia • Delicias y Caprichos"
 theme = "biztrox-hugo"
 # post pagination
 paginate = "6"
@@ -9,7 +9,7 @@ summaryLength = "10"
 # disqus short name
 disqusShortname = "biztrox" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = [] # desable language from here
+disableLanguages = [] # disable language from here
 
 ############################# Plugins ##############################
 [params.plugins]
@@ -27,7 +27,7 @@ disableLanguages = [] # desable language from here
   URL = "plugins/themify-icons/themify-icons.css"
   [[params.plugins.css]]
   URL = "plugins/animate/animate.css"
-  
+
   # JS Plugins
   [[params.plugins.js]]
   URL = "plugins/jQuery/jquery.min.js"
@@ -45,64 +45,74 @@ disableLanguages = [] # desable language from here
 
 #################################### navigation ##################################
 [menu]
-    
+
   # main menu
   [[menu.main]]
   name = "About"
   URL = "about"
   weight = 1
-  
+
+  [[Languages.es.menu.main]]
+  name = "Conócenos"
+  URL = "about"
+  weight = 1
+
   [[menu.main]]
-  name = "Service"
-  URL = "service"
+  name = "Shop"
+  URL = "shop"
   weight = 2
-  
+
+  [[Languages.es.menu.main]]
+  name = "Tienda"
+  URL = "shop"
+  weight = 2
+
   [[menu.main]]
   name = "Blog"
   URL = "blog"
   weight = 3
-  
-  [[menu.main]]
-  name = "Team"
-  URL = "team"
-  weight = 4
-  
-  [[menu.main]]
-  name = "Pricing"
-  URL = "pricing"
-  weight = 5
-  
+
+  [[Languages.es.menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 3
+
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 6
+  weight = 4
 
-  [[menu.main]]
-  weight = 7
-  name = "Pages"
-  hasChildren = true
+  [[Languages.es.menu.main]]
+  name = "Contacto"
+  URL = "contact"
+  weight = 4
 
-    [[menu.main]]
-    parent = "Pages"
-    name = "Project"
-    URL = "project"
+#  [[menu.main]]
+#  weight = 5
+#  name = "Pages"
+#  hasChildren = true
+
+#    [[menu.main]]
+#    parent = "Pages"
+#    name = "product"
+#    URL = "product"
 
   # footer menu
   [[menu.footer]]
   name = "Legal"
   URL = "#"
   weight = 1
-  
+
   [[menu.footer]]
   name = "Sitemap"
   URL = "#"
   weight = 2
-  
+
   [[menu.footer]]
   name = "Privacy Policy"
   URL = "#"
   weight = 3
-  
+
   [[menu.footer]]
   name = "Terms & Conditions"
   URL = "#"
@@ -113,11 +123,11 @@ disableLanguages = [] # desable language from here
 [params]
 logo = "images/logo.png"
 logo_white = "images/logo-footer.png"
-mail = "info@companyname.com"
-mobile = "1234565523"
+mail = "hola@dealicia.com"
+mobile = "952 92 71 99"
 # Meta data
-description = "Airspace Hugo theme"
-author = "themefisher"
+description = "d'Alicia • Delicias y Caprichos"
+author = "normal media"
 # contact form
 contact_form_action = "#"
 # Google Analitycs
@@ -129,7 +139,7 @@ mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this co
 
 # nav Button
 [params.nav_button]
-enable = true
+enable = false
 link = "contact"
 
 # preloader
@@ -151,11 +161,8 @@ icon = "ti-mobile"
 icon = "ti-email"
 
   [[params.contacts.contact]]
-  contact_item = "info@biztrox.com"
+  contact_item = "hola@dealicia.com"
 
-  [[params.contacts.contact]]
-  contact_item = "biztrox@email.com"
-  
 [[params.contacts]]
 icon = "ti-map-alt"
 
@@ -214,7 +221,7 @@ link = "#"
 
 
 [Languages]
-  
+
   ################################### English language #####################################
   [Languages.en]
   languageName = "En"
@@ -232,25 +239,25 @@ link = "#"
   subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
 
   # copyright
-  copyright = "Copyright &copy; 2019 a hugo theme by [themefisher.com](https://themefisher.com)"
+  copyright = "Copyright &copy; 2020 a hugo theme by [themefisher.com](https://themefisher.com)"
 
 
 
-################################ Franch language ################################
-  [Languages.fr]
-  languageName = "Fr"
-  languageCode = "fr-fr"
-  contentDir = "content/french"
+################################ Spanish language ################################
+  [Languages.es]
+  languageName = "Es"
+  languageCode = "es-ES"
+  contentDir = "content/spanish"
   weight = 2
-  home = "Accueil"
+  home = "Home"
 
   # footer
-  [Languages.fr.params.footer]
-  content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
+  [Languages.es.params.footer]
+  content = "Spani Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
 
   # subscribe
   subscribe = "Subscribe Us"
   subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
 
   # copyright
-  copyright = "Copyright &copy; 2019 a hugo theme by [themefisher.com](https://themefisher.com)"
+  copyright = "Copyright &copy; 2020 a hugo theme by [themefisher.com](https://themefisher.com)"

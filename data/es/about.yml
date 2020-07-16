@@ -2,7 +2,7 @@
 philosophy:
   enable : true
   subtitle : Know About
-  title : Our Philosophy
+  title : Nuestra Filosofía
   content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in reprehenderivoluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat noproident sunt culpa qui officia deserunt mollit anim id est laborum.<br> Sed perspiciatis unde omnisiste natus error sit voluptatem accusantium.doloremque ladantium totam rem aperieaque ipsa quae ab illo inventore.veritatis. et quasi architecto beatae vitae dicta sunt explicabo.
   image : images/about/philosophy.jpg
 
@@ -18,26 +18,26 @@ ceo:
 
 ########################################### Mission ###################################
 mission:
-  enable : true
+  enable : false
   # mission content comes from "data/*/homepage.yml" file
 
 ###################################### funfacts ####################################
-funfacts: 
+funfacts:
   enable : true
   bg_image : images/background/cta.jpg
   counter:
-    - title : products Done
+    - title : Productos Done
       icon : ti-server # themify icon pack : https://themify.me/themify-icons
       count : 230
-      
+
     - title : Satisfied Clients
       icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
       count : 789
-      
+
     - title : Cup Of Coffee
       icon : ti-thumb-up # themify icon pack : https://themify.me/themify-icons
       count : 580
-      
+
     - title : Awards Win
       icon : ti-cup # themify icon pack : https://themify.me/themify-icons
       count : 130
