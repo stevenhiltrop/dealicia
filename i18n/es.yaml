@@ -2,8 +2,8 @@
   translation: pedir un presupuesto
 - id: service_subtitle
   translation: Best Service
-- id: service_title
-  translation: Service We Provide
+- id: offer_title
+  translation: Ofertas
 - id: product_subtitle
   translation: Our Works
 - id: product_title

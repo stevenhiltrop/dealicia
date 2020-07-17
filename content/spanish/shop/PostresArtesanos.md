@@ -1,10 +1,10 @@
 ---
-title: "Business Consulting"
-date: 2018-09-25T15:51:35+06:00
+title: "Postres Artesanos"
+date: 2018-09-29T11:51:17+06:00
 description : "This is meta description"
-image: images/service/service-1.jpg
+image: images/service/service-6.jpg
 bg_image: images/background/page-title.jpg
-icon: ti-bar-chart # themify icon pack : https://themify.me/themify-icons
+icon: ti-thought
 brochure: '#'
 regularDay: Sun-Tues
 regularTime: 08.00am - 06.00pm

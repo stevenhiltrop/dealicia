@@ -87,15 +87,15 @@ disableLanguages = [] # disable language from here
   URL = "contact"
   weight = 4
 
-#  [[menu.main]]
-#  weight = 5
-#  name = "Pages"
-#  hasChildren = true
+ [[menu.main]]
+ weight = 5
+ name = "Pages"
+ hasChildren = true
 
-#    [[menu.main]]
-#    parent = "Pages"
-#    name = "product"
-#    URL = "product"
+   [[menu.main]]
+   parent = "Pages"
+   name = "product"
+   URL = "product"
 
   # footer menu
   [[menu.footer]]
@@ -253,11 +253,11 @@ link = "#"
 
   # footer
   [Languages.es.params.footer]
-  content = "Spani Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
+  content = "Repostería artesanal a partir de recetas tradicionales y exclusivas."
 
   # subscribe
   subscribe = "Subscribe Us"
-  subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
+  subscribe_content = "Lorem ipsum dolore sit amet, consect etur adipisicing. elit sed do eiusmod."
 
   # copyright
   copyright = "Copyright &copy; 2020 a hugo theme by [themefisher.com](https://themefisher.com)"
