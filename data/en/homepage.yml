@@ -88,7 +88,7 @@ skill:
   # funfacts
   funfacts :
     - icon : ti-server # themify icon pack : https://themify.me/themify-icons
-      title : products Done
+      title : Projects Done
       count : 230
 
     - icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons

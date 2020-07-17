@@ -3,27 +3,27 @@
 - id: service_subtitle
   translation: Best Service
 - id: offer_title
-  translation: Ofertas
+  translation: Nuestras Ofertas
 - id: product_subtitle
   translation: Our Works
 - id: product_title
-  translation: Latest products
+  translation: Nuestros Productos
 - id: blog_subtitle
-  translation: Latest News
+  translation: Lo último de nuestro Blog
 - id: blog_title
-  translation: Company News
+  translation: Noticias
 - id: services
   translation: Services
 - id: quick_links
-  translation: Quick Links
+  translation: Links
 - id: contact_us
-  translation: Contact Us
+  translation: Contáctanos
 - id: contact_form
-  translation: Contact Form
+  translation: Formulario de Contacto
 - id: submit
   translation: Submit
 - id: buy_now
-  translation: Buy Now
+  translation: Comprar
 - id: service_brochure
   translation: Service Brochure
 - id: download_pdf
@@ -52,3 +52,7 @@
   translation: Posted By
 - id: share
   translation: Share
+- id: makeorder
+  translation: Haz Tu Pedido
+- id: seeproducts
+  translation: Ver Productos

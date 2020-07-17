@@ -6,19 +6,19 @@ bg_image: images/background/page-title.jpg
 image : images/product/product-8.jpg
 live_demo : "#"
 case_study : "#"
-category: marketing online
+categories: ["Envio"]
 
 # overview
 overview:
   - label : Client
     data : Baximco Ltd.
-    
+
   - label : Category
-    data : Market Strategy
-    
+    data : Envio
+
   - label : Expertise
     data : Mobile App
-    
+
   - label : Date
     data : 22 nov, 2019
 

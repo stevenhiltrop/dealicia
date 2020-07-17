@@ -18,6 +18,9 @@
                 {{ range .Params.Categories }}
                 <a class="text-primary" href="{{ `categories/` | relLangURL }}{{ . | lower }}"> {{ . | humanize }}</a>
                 {{ end }}
+                {{ range .Params.Pgroups }}
+                <a class="text-primary" href="{{ `pgroups/` | relLangURL }}{{ . | lower }}"> {{ . | humanize }}</a>
+                {{ end }}
               </li>
             </ul>
             <div class="post-content">

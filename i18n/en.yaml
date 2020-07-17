@@ -52,3 +52,5 @@
   translation: Posted By
 - id: share
   translation: Share
+- id: makeorder
+  translation: Order

@@ -18,9 +18,9 @@ slider:
     # slider item loop
     - bg_image : images/banner/banner-2.jpg
       animation_from : up
-      subtitle : Get your
-      title : Business Consultant
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
+      subtitle : Descubre las deliciosas
+      title : Mantequillas
+      content : de nueces
       pagination_icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
       pagination_name : Mantequillas
       button:
@@ -88,7 +88,7 @@ skill:
   # funfacts
   funfacts :
     - icon : ti-server # themify icon pack : https://themify.me/themify-icons
-      title : products Done
+      title : Projects Done
       count : 230
 
     - icon : ti-face-smile # themify icon pack : https://themify.me/themify-icons
@@ -138,7 +138,7 @@ mission:
 ##################################### Promo video ####################################
 promo_video:
   enable : false
-  title : "We Are Alawys <br> Comited"
+  title : "We Are Alawys <br> Commited"
   bg_image : "images/background/promo-video.jpg"
   video_URL : "https://www.youtube.com/watch?v=jrkvirglgaQ"
   video_title : "Lorem ipsum dolor <br> sit amet con."
@@ -166,10 +166,10 @@ testimonial:
 cta:
   enable : true
   bg_image : "images/background/cta.jpg"
-  title : "Biztrox give the smart solution for your business"
+  title : "Barritas de Avena"
   button:
     enable : true
-    label : "presupuesto"
+    label : "Comprar"
     link : "contacto"
 
 ########################################## blog ####################################
@@ -181,3 +181,27 @@ blog:
 clients_logo_slider:
   enable : false
   # clients logo comes from "config.toml" folder
+
+############################## service_dets ###################################
+service_dets:
+  enable : false
+  serviceDetsItem:
+    # service item loop
+    - title : "Envios Gratis"
+      icon : "ti-truck" # themify icon pack : https://themify.me/themify-icons
+      content : "en compras superiores a 99€"
+
+    # service item loop
+    - title : "Pagos fáciles"
+      icon : "ti-wallet" # themify icon pack : https://themify.me/themify-icons
+      content : "Paga con Tarjeta o Paypal"
+
+    # service item loop
+    - title : "Compras seguras"
+      icon : "ti-shield" # themify icon pack : https://themify.me/themify-icons
+      content : "100% protegidas por SSL"
+
+    # service item loop
+    - title : "Envios"
+      icon : "ti-alarm-clock" # themify icon pack : https://themify.me/themify-icons
+      content : "Entre 5 y 7 dias"

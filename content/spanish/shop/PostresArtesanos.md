@@ -1,5 +1,5 @@
 ---
-title: "Postres Artesanos"
+title: "Consumo en Tienda"
 date: 2018-09-29T11:51:17+06:00
 description : "This is meta description"
 image: images/service/service-6.jpg

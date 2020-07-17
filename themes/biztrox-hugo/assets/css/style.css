@@ -235,6 +235,7 @@ button {
 }
 
 .section-title {
+  margin-top: 20px;
   margin-bottom: 55px;
 }
 
@@ -1046,7 +1047,7 @@ code{
 }
 
 .hero-slider.slick-slider {
-  margin-bottom: 80px;
+  margin-bottom: 0px;
 }
 
 .hero-slider [data-animation-in] {
@@ -1058,6 +1059,7 @@ code{
   background-position: center center;
   background-size: cover;
   outline: 0;
+  height: 600px;
 }
 
 .hero-slider .prevArrow,

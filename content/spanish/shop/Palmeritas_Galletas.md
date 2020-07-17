@@ -1,5 +1,5 @@
 ---
-title: "Palmeritas y Galletas"
+title: "Recogida en Tienda"
 date: 2018-09-29T11:54:02+06:00
 description : "This is meta description"
 image: images/service/service-5.jpg

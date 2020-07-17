@@ -9,18 +9,18 @@ bio : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod t
 
 # information
 information:
-  - label : products Done
+  - label : Projects Done
     icon : ti-notepad
     data : 32
-    
+
   - label : Success Rate
     icon : ti-medall
     data : 96%
-    
+
   - label : Experience Of
     icon : ti-flag-alt
     data : 13 Years
-    
+
   - label : From
     icon : ti-location-pin
     data : San Diago. NY
@@ -29,10 +29,10 @@ information:
 contacts:
   - icon : ti-mobile
     id : +88 525 325 22
-    
+
   - icon : ti-email
     id : philipwilson@biztrox.com
-    
+
   - icon : ti-location-pin
     id : 2/A Southampton, Sandiago, USA.
 
@@ -40,10 +40,10 @@ contacts:
 skill:
   - label : Branding
     percentage : 85%
-    
+
   - label : Consulting
     percentage : 90%
-    
+
   - label : Business
     percentage : 75%
 
@@ -51,13 +51,13 @@ skill:
 social:
   - icon : ti-facebook
     link : "#"
-    
+
   - icon : ti-twitter-alt
     link : "#"
-    
+
   - icon : ti-vimeo-alt
     link : "#"
-    
+
   - icon : ti-linkedin
     link : "#"
 

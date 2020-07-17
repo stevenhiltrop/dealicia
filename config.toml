@@ -11,6 +11,7 @@ disqusShortname = "biztrox" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # disable language from here
 
+
 ############################# Plugins ##############################
 [params.plugins]
 

@@ -1,4 +1,4 @@
-################################## Satisfied clients ###############################
+################################## Products ###############################
 products:
   enable : true
   bg_image : images/background/clients-bg.jpg
@@ -12,4 +12,3 @@ products:
     - images/client-logo/client-logo-3-white.png
     - images/client-logo/client-logo-5-white.png
     - images/client-logo/client-logo-3-white.png
-    
