@@ -48,14 +48,11 @@ DefaultContentLanguage = "es"
 #################################### navigation ##################################
 [menu]
 
+### English ###
+
   # main menu
   [[menu.main]]
   name = "About"
-  URL = "about"
-  weight = 1
-
-  [[Languages.es.menu.main]]
-  name = "Conócenos"
   URL = "about"
   weight = 1
 
@@ -64,28 +61,13 @@ DefaultContentLanguage = "es"
   URL = "shop"
   weight = 2
 
-  [[Languages.es.menu.main]]
-  name = "Tienda"
-  URL = "shop"
-  weight = 2
-
   [[menu.main]]
-  name = "Blog"
-  URL = "blog"
-  weight = 3
-
-  [[Languages.es.menu.main]]
   name = "Blog"
   URL = "blog"
   weight = 3
 
   [[menu.main]]
   name = "Contact"
-  URL = "contact"
-  weight = 4
-
-  [[Languages.es.menu.main]]
-  name = "Contacto"
   URL = "contact"
   weight = 4
 
@@ -118,6 +100,47 @@ DefaultContentLanguage = "es"
   [[menu.footer]]
   name = "Terms & Conditions"
   URL = "#"
+  weight = 4
+
+  ### Spanish ###
+  [[Languages.es.menu.main]]
+  name = "Conócenos"
+  URL = "about"
+  weight = 1
+
+  [[Languages.es.menu.main]]
+  name = "Tienda"
+  URL = "shop"
+  weight = 2
+
+  [[Languages.es.menu.main]]
+  name = "Blog"
+  URL = "blog"
+  weight = 3
+
+  [[Languages.es.menu.main]]
+  name = "Contacto"
+  URL = "contact"
+  weight = 4
+
+  [[Languages.es.menu.footer]]
+  name = "Aviso Legal"
+  URL = "legal/avisolegal"
+  weight = 1
+
+  [[Languages.es.menu.footer]]
+  name = "Política de Privacidad"
+  URL = "legal/politica_privacidad"
+  weight = 2
+
+  [[Languages.es.menu.footer]]
+  name = "Política de Cookies"
+  URL = "legal/politica_cookies"
+  weight = 3
+
+  [[Languages.es.menu.footer]]
+  name = "Condiciones de Compra"
+  URL = "legal/condiciones_compra"
   weight = 4
 
 
@@ -229,7 +252,7 @@ link = "#"
   languageName = "En"
   languageCode = "en-us"
   contentDir = "content/english"
-  weight = 1
+  weight = 2
   home = "Home"
 
   # footer
@@ -250,7 +273,7 @@ link = "#"
   languageName = "Es"
   languageCode = "es-ES"
   contentDir = "content/spanish"
-  weight = 2
+  weight = 1
   home = "Home"
 
   # footer
@@ -258,7 +281,7 @@ link = "#"
   content = "Repostería artesanal a partir de recetas tradicionales y exclusivas."
 
   # subscribe
-  subscribe = "Subscribe Us"
+  subscribe = "Suscribete"
   subscribe_content = "Lorem ipsum dolore sit amet, consect etur adipisicing. elit sed do eiusmod."
 
   # copyright

@@ -1,0 +1,21 @@
+{{ define "main" }}
+
+{{ $data := index .Site.Data .Site.Language.Lang }}
+
+{{ partial "pageTitle.html" . }}
+
+{{ "<!-- legal -->" | safeHTML }}
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-lg-12">
+        <div class="post-content">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+{{ "<!-- /legal -->" | safeHTML }}
+
+{{ end }}
