@@ -10,6 +10,7 @@ summaryLength = "10"
 disqusShortname = "biztrox" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # disable language from here
+DefaultContentLanguage = "es"
 
 
 ############################# Plugins ##############################
@@ -240,7 +241,7 @@ link = "#"
   subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
 
   # copyright
-  copyright = "Copyright &copy; 2020 a hugo theme by [themefisher.com](https://themefisher.com)"
+  copyright = "Copyright &copy; 2020 d'Alicia & site made by [normal](https://normalmedia.com)"
 
 
 
@@ -261,4 +262,4 @@ link = "#"
   subscribe_content = "Lorem ipsum dolore sit amet, consect etur adipisicing. elit sed do eiusmod."
 
   # copyright
-  copyright = "Copyright &copy; 2020 a hugo theme by [themefisher.com](https://themefisher.com)"
+  copyright = "Copyright &copy; 2020 d'Alicia & site made by [normal](https://normalmedia.com)"
