@@ -21,12 +21,5 @@
 </section>
 {{ "<!-- /servie -->" | safeHTML }}
 
-{{ if $data.service.satisfied_clients.enable }}
-{{ partial "satisfiedClients.html" . }}
-{{ end }}
-
-{{ if $data.service.testimonial.enable }}
-{{ partial "testimonial.html" . }}
-{{ end }}
 
 {{ end }}
