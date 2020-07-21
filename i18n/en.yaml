@@ -53,4 +53,8 @@
 - id: share
   translation: Share
 - id: makeorder
-  translation: Order
+  translation: Create Order
+- id: seeproducts
+  translation: See Products
+- id: addcart
+  translation: Add to Cart

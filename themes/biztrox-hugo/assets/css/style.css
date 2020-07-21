@@ -25,6 +25,31 @@ h1, .h1 {
   font-size: 60px;
 }
 
+.snipcart-checkout i {
+    display: inline-block;
+    opacity: 1;
+    visibility: visible;
+    vertical-align: middle;
+    padding: 10px;
+    background-color: #eee;
+    border-radius: 100%;
+    width: 35px;
+    height: 35px;
+    text-align: center;
+    margin-top: 36px;
+    margin-left: 10px;
+}
+
+
+.dropdown.cart-nav.dropdown-slide:hover .cart-dropdown{
+    display: block;
+    opacity: 1;
+    z-index: 9999;
+    visibility: visible;
+    margin-top: -5px;
+}
+
+
 @media (max-width: 400px) {
   h1, .h1 {
     font-size: 30px;
@@ -1760,7 +1785,7 @@ img.arrow-bottom {
 }
 
 .product-content p{
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .product-content img{

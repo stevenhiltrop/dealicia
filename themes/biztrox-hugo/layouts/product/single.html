@@ -16,20 +16,32 @@
 						<li class="py-3 border-bottom"><span class="d-inline-block" style="width: 140px;">{{ .label }}:</span>{{ .data }}</li>
 						{{ end }}
 					</ul>
-					{{ if .Params.Live_demo }}
-					<a href="{{ .Params.live_demo | safeURL }}" class="btn btn-primary">{{ i18n "live_demo" }}</a>
-					{{ end }}
-				</div>
-				{{ "<!-- case study -->" | safeHTML }}
-				{{ if .Params.Case_study }}
-				<div class="rounded bg-gray border py-3 px-4 mb-50">
-					<i class="d-inline-block mr-1 text-dark ti-files" style="font-size: 20px;"></i>
-					<h4 class="mb-1 d-inline-block">{{ i18n "case_study" }}</h4>
-					<a class="font-secondary text-color d-block ml-4"
-						href="{{ .Params.Case_study | safeURL }}">{{ i18n "download_pdf" }}</a>
-				</div>
-				{{ end }}
+					<!-- Product available in stock ? -->
+	{{if not .Params.stock }}
+		<b>No hay en stock</b><br>
+			{{ else }}
+				 <b>En Stock</b><br>
+					<button class="snipcart-add-item btn btn-primary btn-small mt-5"
+					 data-item-id="{{ .Title | urlize }}__{{ .Params.Price }}"
+					 data-item-name="{{ .Title }}"
+					 data-item-image="{{ with .Params.Images }} {{ range first 1 .}} {{ . | absURL }}{{ end }}{{ end }}"
+						data-item-price="{{ .Params.Price }}"
+						data-item-url="{{ .Permalink }}"
+						data-item-description="{{ .Params.Description | markdownify }}"
+						{{ if .Params.Colors }}
+						data-item-custom1-name="Choose Color"
+						data-item-custom1-options="{{ range $index, $element:= .Params.Colors }}{{ if eq $index 0 }}{{ . | title }}{{ else }}|{{ . | title }}{{ end }}{{ end }}"
+						{{ end }}
+						{{ if .Params.Sizes }}
+						data-item-custom2-name="Choose Size"
+						data-item-custom2-options="{{ range $index, $element:= .Params.Sizes }}{{ if eq $index 0 }}{{ . | title | upper }}{{ else }}|{{ . | title | upper }}{{ end }}{{ end }}"
+						{{ end }}>
+					  {{ i18n "addcart" }}
+					</button>
+ {{ end }}
 
+				</div>
+				
 				<!-- <div class="mb-50">
 					<h5 class="mb-20">{{ i18n "free_consultation" }}</h5>
 					<form action="{{ .Site.Params.contact_form_action | safeURL }}" class="row">
@@ -53,7 +65,7 @@
 			</aside>
 			{{ "<!-- product content -->" | safeHTML }}
 			<div class="col-lg-8 order-lg-2 order-1">
-				<img class="img-fluid w-100 mb-60" src="{{ .Params.Image | absURL }}" alt="product image">
+				<!-- <img class="img-fluid w-100 mb-60" src="{{ .Params.Image | absURL }}" alt="product image"> -->
 				<div class="product-content">
 					{{ .Content }}
 				</div>

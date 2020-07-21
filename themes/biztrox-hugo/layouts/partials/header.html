@@ -53,10 +53,14 @@
             </li>
             {{ end }}
             {{ end }}
+            <li class="dropdown cart-nav dropdown-slide list-inline-item">
+              <a class="snipcart-checkout"><i class="ti-shopping-cart"></i></a>
+            </li>
+
           </ul>
           <!-- Language List -->
-        {{ if .IsTranslated }}
-          <select class="m-2 border-0" id="select-language" onchange="location = this.value;">
+          {{ if .IsTranslated }}
+          <select class="hidden m-2 border-0" id="select-language" onchange="location = this.value;">
             {{ $siteLanguages := .Site.Languages}}
             {{ $pageLang := .Page.Lang}}
             {{ range .Page.AllTranslations }}

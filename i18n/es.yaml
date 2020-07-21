@@ -13,7 +13,7 @@
 - id: blog_title
   translation: Noticias
 - id: services
-  translation: Services
+  translation: Servicios
 - id: quick_links
   translation: Links
 - id: contact_us
@@ -31,15 +31,15 @@
 - id: opening_hours
   translation: Opening Hours
 - id: contact_info
-  translation: Contact Information
+  translation: Información de Contacto
 - id: follow_on_social
   translation: Follow on Social
 - id: cv
   translation: Professional CV
 - id: overview
-  translation: Overview
+  translation: Detalles
 - id: product_name
-  translation: product Name
+  translation: Producto
 - id: live_demo
   translation: Watch Live Demo
 - id: case_study
@@ -56,3 +56,5 @@
   translation: Haz Tu Pedido
 - id: seeproducts
   translation: Ver Productos
+- id: addcart
+  translation: Añadir al Carrito

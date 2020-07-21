@@ -121,6 +121,20 @@
 	ga('send', 'pageview');
 </script>
 {{ end }}
+<!-- Snipcart public key -->
+<div hidden id="snipcart" data-api-key="{{ .Site.Params.snipcartAPI }}"></div>
+
+<script src="https://cdn.snipcart.com/themes/v3.0.17/default/snipcart.js"></script>
+
+<!-- Snipcart locales -->
+<script>
+  document.addEventListener('snipcart.ready'), () {
+    Snipcart.api.session.setLanguage('es');
+  });
+</script>
+
+
+
 
 </body>
 
