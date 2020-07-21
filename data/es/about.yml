@@ -1,14 +1,27 @@
 ###################################### philosophy ####################################
 philosophy:
   enable : true
-  subtitle : Know About
-  title : Nuestra Filosofía
-  content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in reprehenderivoluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat noproident sunt culpa qui officia deserunt mollit anim id est laborum.<br> Sed perspiciatis unde omnisiste natus error sit voluptatem accusantium.doloremque ladantium totam rem aperieaque ipsa quae ab illo inventore.veritatis. et quasi architecto beatae vitae dicta sunt explicabo.
+  subtitle : Sobre nosotros
+  title : Conócenos
+  content : "Han pasado más de 15 años desde la apertura de nuestro primer local físico en Guadalmina, una de las zonas más exclusivas de la **Costa del Sol** y en pleno corazón del municipio de **Marbella**, desde el primer día tuvimos claro que queríamos enfocar nuestros servicios a clientes que demandasen lo mejor y que además estuviese presentado de una forma original y **cumpliendo los más altos estándares** es por esto que en **d’Alicia** contamos con **productos frescos, naturales y sanos** que además están elaborados de manera artesanal a base de recetas tanto tradicionales como originales.\n
+
+  Los años han transcurrido deprisa y hoy en día contamos ya con 4 locales que se han extendido hasta zonas tan emblemáticas como **Sotogrande** en centro comercial Sotomarket y también estamos en el municipio de **Estepona** en el centro comercial El Pilar, ademas de continuar en **Guadalmina** en el municipio de San Pedro de Alcántara en el centro comercial Guadalmina Alta, donde los clientes pueden degustar nuestras **«delicias y caprichos»** que siguen contando con la misma calidad y sabor."
+
+  image : images/about/philosophy.jpg
+
+onlineshop:
+  enable : true
+  subtitle : 
+  title : Nuestra Tienda Online
+  content : "Además desde hace tan solo un par de años, se trata de los nuevos helados artesanos que nuestros clientes pueden disfrutar durante las épocas estivales en nuestros locales, incluso las galletas, tulipas o conos están hechos artesanalmente a base de mantequilla natural y vainilla natural.\n
+
+Nuestra última aventura es expandirnos nuestro negocio a internet, hemos querido tratar esta nueva tienda on-line de repostería con el mismo cariño y devoción como a cualquiera nuestros establecimientos, contando con la inestimable colaboración de una empresa especializada en este tipo de negocios on-line y que gracias a sus sus 15 años de experiencia en este sector contamos nos ha desarrollado un comercio o tienda on-line segura, funcional y que cumple con todas las normas de usabilidad y optimización actuales."
+
   image : images/about/philosophy.jpg
 
 ###################################### ceo ########################################
 ceo:
-  enable : true
+  enable : false
   bg_image : images/about/ceo.jpg
   title : We are efficient to <br> make your business rise
   content : Lorem ipsum dolor sit amet consectetur adipisicing elit sed eiusmod tempor didunt laboris nisi ut aliquip ex commodo consequat. duis aute irure dolor in reprehenderit voluptate velit esse cillum dolore fugiat nulla pariatur.Excepteur sint ocaecat cupidatat non proident sunt culpa qui officia deserunt mollit anim id est laborum.
@@ -44,5 +57,5 @@ funfacts:
 
 ########################################### skill ###################################
 skill:
-  enable : true
+  enable : false
   # skill content comes from "data/*/homepage.yml" file

@@ -8,6 +8,10 @@
 {{ partial "philosophy.html" . }}
 {{ end }}
 
+{{ if $data.about.onlineshop.enable }}
+{{ partial "onlineshop.html" . }}
+{{ end }}
+
 {{ if $data.about.ceo.enable }}
 {{ partial "ceo.html" . }}
 {{ end }}
