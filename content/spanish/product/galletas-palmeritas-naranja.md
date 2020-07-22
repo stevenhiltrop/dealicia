@@ -4,6 +4,17 @@ date: 2020-05-25T13:39:07+06:00
 draft: false
 type: product
 
+# Overview
+overview:
+  - label : Categoría
+    data : Galletas Dulces
+
+  - label : Peso
+    data : "100g"
+
+  - label : Precio
+    data : 3.10€
+
 # meta description
 description : "Deliciosas palmeritas de naranja"
 
@@ -29,5 +40,6 @@ productWeight : "100g"
 stock: si
 
 ---
+![Palmeritas de Naranja](/images/product/galletas-palmeritas-naranja.jpg "Palmeritas de Naranja")
 
 Deliciosas palmeritas de naranja.

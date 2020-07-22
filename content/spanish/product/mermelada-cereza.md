@@ -4,6 +4,17 @@ date: 2020-05-26T13:39:07+06:00
 draft: false
 type: product
 
+# Overview
+overview:
+  - label : Categoría
+    data : Mermeladas
+
+  - label : Peso
+    data : "250g"
+
+  - label : Precio
+    data : 3.60€
+
 # meta description
 description : "Todas las mermeladas y confituras disponibles en d´Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano."
 
@@ -29,4 +40,6 @@ productWeight : "250g"
 stock: si
 
 ---
+![Mermelada de cereza](/images/product/mermelada-cereza.jpg "Mermelada de cereza")
+
 Todas las mermeladas y confituras disponibles en d´Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano.

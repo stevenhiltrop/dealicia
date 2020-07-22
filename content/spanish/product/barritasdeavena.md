@@ -15,6 +15,18 @@ image : "images/product/BarritasDeAvena.jpeg"
 images:
   - "images/product/BarritasDeAvena.jpeg"
 
+# Overview
+overview:
+  - label : "Categoría"
+    data : Galletas Dulces
+
+  - label : Unidades
+    data : "2 por paquete"
+
+  - label : Precio
+    data : 3.00€
+
+
 # product Price
 price: "3.00"
 priceBefore: ""
@@ -29,10 +41,8 @@ productWeight : "100g"
 stock: si
 
 ---
+![Barritas de Avena](/images/product/BarritasDeAvena.jpeg "Barritas de Avena")
 
 Barritas de Avena hechas con avena ecológica, panela, mantequilla, nuez moscada, coco y miel.
 
-#### Product Features
-
-* Ideales para un snack o aperitivo energético.
-* 2 unidades por paquete
+Ideales para un snack o aperitivo energético.

@@ -1,11 +1,19 @@
 ---
-title: "Tartaletas de Dulce de Leche y Chocolate negro"
+title: "Tartaletas de Dulce de Leche y Chocolate Negro"
 date: 2020-05-25T13:39:07+06:00
 draft: false
 type: product
 
+# Overview
+overview:
+  - label : Categoría
+    data : Postres
+
+  - label : Precio
+    data : 2.75€
+
 # meta description
-description : "eceta exclusiva d´Alicia de tarta de chocolate negro rellena de dulce de leche."
+description : "Receta exclusiva d´Alicia de tarta de chocolate negro rellena de dulce de leche."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
 image : "images/product/postres-tartaletas-dulce-de-leche-chocolate-negro.jpg"
@@ -26,5 +34,7 @@ category: "Postres"
 stock: si
 
 ---
+![Tartaletas de Dulce de Leche y Chocolate negro](/images/product/postres-tartaletas-dulce-de-leche-chocolate-negro.jpg "Tartaletas de Dulce de Leche y Chocolate negro")
+
 Receta exclusiva d´Alicia de tarta de chocolate negro rellena de dulce de leche.
 Desarrollada por y para golosos: Tartaleta de crujiente pasta quebrada de almendra rellena de dulce de leche y Ganache de chocolate negro.

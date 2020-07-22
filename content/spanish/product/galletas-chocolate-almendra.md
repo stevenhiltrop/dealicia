@@ -4,6 +4,17 @@ date: 2020-05-25T13:39:07+06:00
 draft: false
 type: product
 
+# Overview
+overview:
+  - label : Categoría
+    data : Galletas Dulces
+
+  - label : Peso
+    data : "100g"
+
+  - label : Precio
+    data : 2.90€
+
 # meta description
 description : "Galletas de almendra con chocolate. Clásica galletita de mantequilla con trocitos de almendra y chocolate negro."
 
@@ -29,4 +40,6 @@ productWeight : "100g"
 stock: si
 
 ---
+![Galletas de Chocolate y Almendra](/images/product/galletas-chocolate-almendra.jpg "Galletas de Chocolate y Almendra")
+
 Galletas de almendra con chocolate. Clásica galletita de mantequilla con trocitos de almendra y chocolate negro.

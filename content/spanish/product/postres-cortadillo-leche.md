@@ -4,6 +4,17 @@ date: 2020-05-25T13:39:07+06:00
 draft: false
 type: product
 
+# Overview
+overview:
+  - label : Categoría
+    data : Postres de Temporada
+
+  - label : Peso
+    data : "80g"
+
+  - label : Precio
+    data : 1.45€
+
 # meta description
 description : "Cortadillos de dulce de leche. Receta exclusiva, combinando un exquisito sablé de mantequilla prácticamente sin azúcar con dulce de leche cremoso."
 
@@ -26,9 +37,10 @@ category: "Postres, De temporada"
 productWeight : "80g"
 
 # in stock? (accepts true/false | yes/no | si/no | 1/0)
-stock: si
+stock: no
 
 ---
+![Cortadillo de Leche](/images/product/postres-cortadillo-leche.jpg "Cortadillo de Leche")
 
 Cortadillos de dulce de leche. Receta exclusiva, combinando un exquisito sablé de mantequilla prácticamente sin azúcar con dulce de leche cremoso. Estos irresistibles pastelillos van envueltos en papel parafinado, recordando los tradicionales «Cortadillos de Cidra», de ahí el nombre…
 

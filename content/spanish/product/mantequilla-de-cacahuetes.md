@@ -4,6 +4,14 @@ date: 2020-05-25T13:39:07+06:00
 draft: false
 type: product
 
+# Overview
+overview:
+  - label : Categoría
+    data : Mantequillas de Frutos Secos
+
+  - label : Precio
+    data : 2.50€
+
 # meta description
 description : "Mantequilla de cacahuetes frito con sal, sin conservantes, su propia grasa le permite tener una conservación natural."
 
@@ -26,4 +34,6 @@ category: "Mantequillas de Frutos Secos"
 stock: si
 
 ---
+![Mantequilla de Cacahuetes con sal](/images/product/mantequillas-frutos-secos.jpg "Mantequilla de Cacahuetes con sal")
+
 Mantequilla de cacahuetes frito con sal, sin conservantes, su propia grasa le permite tener una conservación natural.

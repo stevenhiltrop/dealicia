@@ -4,6 +4,18 @@ date: 2020-05-25T13:39:07+06:00
 draft: false
 type: product
 
+# Overview
+overview:
+  - label : Categoría
+    data : Galletas Dulces
+
+  - label : Peso
+    data : "100g"
+
+  - label : Precio
+    data : 2.90€
+
+
 # meta description
 description : "Galletitas de mantequilla con trocitos de avellana tostada y chocolate, sin azúcar, edulcoradas con sucralosa y maltitol, sin conservantes."
 
@@ -29,4 +41,6 @@ productWeight : "100g"
 stock: si
 
 ---
+![Galletitas de Chocolate Negro y Avellanas sin azúcar](/images/product/galletas-chocolate-negro-avellanas-sinazucar.jpg "Galletitas de Chocolate Negro y Avellanas sin azúcar")
+
 Galletitas de mantequilla con trocitos de avellana tostada y chocolate, sin azúcar, edulcoradas con sucralosa y maltitol, sin conservantes.

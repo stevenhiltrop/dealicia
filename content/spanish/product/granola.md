@@ -4,8 +4,16 @@ date: 2020-05-25T13:39:07+06:00
 draft: false
 type: product
 
+# Overview
+overview:
+  - label : Categoría
+    data : Granola
+
+  - label : Precio
+    data : 5.60€
+
 # meta description
-description : "Barritas de Avena hechas con avena ecológica, panela, mantequilla, nuez moscada, coco y miel."
+description : "Granola d’Alicia Café"
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
 image : "images/product/granola.jpg"
@@ -29,4 +37,6 @@ productWeight : "100g"
 stock: si
 
 ---
+![Granola](/images/product/granola.jpg "Granola")
+
 Granola d’Alicia Café ideal para consumir con yogur, fruta, leche o miel.

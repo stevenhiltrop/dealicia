@@ -7,17 +7,6 @@ type: product
 category: "Galletas, Dulce"
 tags: "Online"
 
-# meta description
-description : "Palmeritas hojaldre de mantequilla, azúcar vainilla."
-
-# needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/galletas-florentinas.jpg"
-
-# product Images
-# first image will be shown in the product page
-Images:
-  - "images/product/galletas-florentinasB.jpg"
-
 # Overview
 overview:
   - label : Categoría
@@ -28,6 +17,17 @@ overview:
 
   - label : Precio
     data : 5.10€
+
+# meta description
+description : "Florentinas de almendra caramelizada"
+
+# needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
+image : "images/product/thumbs/galletas-florentinas.jpg"
+
+# product Images
+# first image will be shown in the product page
+Images:
+  - "images/product/galletas-florentinasB.jpg"
 
 # product Price
 price: "5.10"

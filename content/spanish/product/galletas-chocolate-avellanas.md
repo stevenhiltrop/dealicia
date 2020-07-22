@@ -4,6 +4,18 @@ date: 2020-05-25T13:39:07+06:00
 draft: false
 type: product
 
+# Overview
+overview:
+  - label : Categoría
+    data : Galletas Dulces
+
+  - label : Peso
+    data : "100g"
+
+  - label : Precio
+    data : 2.90€
+
+
 # meta description
 description : "Clásica galletita de mantequilla con trocitos de avellana y chocolate con leche."
 
@@ -29,4 +41,6 @@ productWeight : "100g"
 stock: si
 
 ---
+![Galletas de Chocolate y Avellanas](/images/product/galletas-chocolate-avellana.jpg "Galletas de Chocolate y Avellanas")
+
 Clásica galletita de mantequilla con trocitos de avellana y chocolate con leche.
