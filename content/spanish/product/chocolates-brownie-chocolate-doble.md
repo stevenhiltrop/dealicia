@@ -1,54 +1,32 @@
 ---
 title: "Brownie de doble Chocolate"
 date: 2020-05-25T13:39:07+06:00
-description : "Auténtico Brownie de doble chocolate meloso."
-bg_image: images/background/page-title.jpg
-type: product
-category: "Brownie, Postres"
-tags: "Envio"
 draft: false
+type: product
 
-
-# Overview
-overview:
-  - label : Desto
-    data : La Cosa
-
-  - label : Category
-    data : Envio
-
-  - label : Expertise
-    data : Mobile App
-
-  - label : Date
-    data : 22 nov, 2019
-
-# type
-type : product
+# meta description
+description : "Palmeritas hojaldre de mantequilla, azúcar vainilla."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
 image : "images/product/chocolates-brownie-doble.jpg"
 
-# Overview
-overview:
-  - label : Categoría
-    data : Brownie
-
-  - label : Peso
-    data : "600g"
-
-  - label : Precio
-    data : 9.68€
+# product Images
+# first image will be shown in the product page
+images:
+  - "images/product/chocolates-brownie-doble.jpg"
 
 # product Price
 price: "9.68"
 priceBefore: ""
 
+# categories
+category: "Brownie, Postres"
+
 # weight
 productWeight : "600g"
 
 # in stock? (accepts true/false | yes/no | si/no | 1/0)
-stock: yes
+stock: si
 
 ---
 

@@ -1,0 +1,32 @@
+---
+title: "Galletitas de Chocolate Negro y Avellanas sin azúcar"
+date: 2020-05-25T13:39:07+06:00
+draft: false
+type: product
+
+# meta description
+description : "Galletitas de mantequilla con trocitos de avellana tostada y chocolate, sin azúcar, edulcoradas con sucralosa y maltitol, sin conservantes."
+
+# needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
+image : "images/product/galletas-chocolate-negro-avellanas-sinazucar.jpg"
+
+# product Images
+# first image will be shown in the product page
+images:
+  - "images/product/galletas-chocolate-negro-avellanas-sinazucar.jpg"
+
+# product Price
+price: "2.90"
+priceBefore: ""
+
+# categories
+category: "Galletas Dulces"
+
+# weight
+productWeight : "100g"
+
+# in stock? (accepts true/false | yes/no | si/no | 1/0)
+stock: si
+
+---
+Galletitas de mantequilla con trocitos de avellana tostada y chocolate, sin azúcar, edulcoradas con sucralosa y maltitol, sin conservantes.
