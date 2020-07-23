@@ -31,8 +31,8 @@ slider:
     # slider item loop
     - bg_image : images/banner/banner-3.jpg
       animation_from : down
-      subtitle : Start your
-      title : Future Plan
+      subtitle : Descubre nuestras
+      title : Tartas
       content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
       pagination_icon : ti-money # themify icon pack : https://themify.me/themify-icons
       pagination_name : Tartas
@@ -44,8 +44,8 @@ slider:
     # slider item loop
     - bg_image : images/banner/banner-4.jpg
       animation_from : right
-      subtitle : We are always
-      title : Be Inspired By Best
+      subtitle : Deliciosos
+      title : Panes
       content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
       pagination_icon : ti-package # themify icon pack : https://themify.me/themify-icons
       pagination_name : Panes
