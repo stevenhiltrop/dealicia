@@ -1,5 +1,5 @@
 ######################### default configuration ###############################
-baseURL = "http://examplesite.com"
+baseURL = "https://master--practical-dubinsky-07541a.netlify.app/"
 title = "Tienda de repostería en la costa del Sol | d'Alicia • Delicias y Caprichos"
 theme = "biztrox-hugo"
 # post pagination
