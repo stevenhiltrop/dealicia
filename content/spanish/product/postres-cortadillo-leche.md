@@ -19,7 +19,7 @@ overview:
 description : "Cortadillos de dulce de leche. Receta exclusiva, combinando un exquisito sablé de mantequilla prácticamente sin azúcar con dulce de leche cremoso."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/postres-cortadillo-leche.jpg"
+image : "images/product/thumbs/postres-cortadillo-leche.jpg"
 
 # product Images
 # first image will be shown in the product page

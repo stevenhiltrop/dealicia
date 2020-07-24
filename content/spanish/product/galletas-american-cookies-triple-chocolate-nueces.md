@@ -16,7 +16,7 @@ overview:
 description : "El cookie para los amantes del chocolate"
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/galletas-american-cookie-triple-chocolate-nueces.jpg"
+image : "images/product/thumbs/galletas-american-cookie-triple-chocolate-nueces.jpg"
 
 # product Images
 # first image will be shown in the product page

@@ -16,7 +16,7 @@ overview:
 description : "Mantequilla de cacahuete tostado sin sal. Hecho solo con cacahuetes tostados. Hecha con un proceso natural que conserva todas sus propiedades integras."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/mantequillas-frutos-secos.jpg"
+image : "/images/product/thumbs/mantequillas-frutos-secos.jpg"
 
 # product Images
 # first image will be shown in the product page

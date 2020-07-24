@@ -19,7 +19,7 @@ overview:
 description : "Receta belga muy apreciada. Cortadas muy finas, estas galletas de azúcar moreno y almendras con un toque de canela, resultan crujientes y sabrosas. Irresistibles."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/galletas-hojitas-belgas.png"
+image : "images/product/thumbs/galletas-hojitas-belgas.png"
 
 # product Images
 # first image will be shown in the product page

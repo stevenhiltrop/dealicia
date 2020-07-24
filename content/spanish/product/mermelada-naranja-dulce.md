@@ -19,7 +19,7 @@ overview:
 description : "Mermelada de naranja dulce de Málaga. Todas las mermeladas y confituras disponibles en d´Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano. Utilizamos un mínimo de 50% de naranjas enteras, azúcar y pectina de manzana. Nuestra mermelada de naranjas dulces, al llevar cascara, tiene el toque amargo característico de la mermelada de naranja amarga con un aroma intenso de naranja."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/mermelada-naranja-dulce.jpg"
+image : "images/product/thumbs/mermelada-naranja-dulce.jpg"
 
 # product Images
 # first image will be shown in the product page

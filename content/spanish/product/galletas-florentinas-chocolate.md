@@ -19,7 +19,7 @@ overview:
 description : "Palmeritas hojaldre de mantequilla, azúcar vainilla."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/florentina-chocolate.jpg"
+image : "images/product/thumbs/florentina-chocolate.jpg"
 
 # product Images
 # first image will be shown in the product page

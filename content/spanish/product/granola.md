@@ -16,7 +16,7 @@ overview:
 description : "Granola d’Alicia Café"
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/granola.jpg"
+image : "images/product/thumbs/granola.jpg"
 
 # product Images
 # first image will be shown in the product page

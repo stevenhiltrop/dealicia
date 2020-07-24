@@ -19,7 +19,7 @@ overview:
 description : "Todas las mermeladas y confituras disponibles en d´Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano. Utilizamos un mínimo de 60% de higos con un poco de zumo y cascara de naranja, azúcar y pectina de manzana. Conseguimos una confitura menos dulce y mas aromática."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/mermelada-higos-naranja.jpg"
+image : "images/product/thumbs/mermelada-higos-naranja.jpg"
 
 # product Images
 # first image will be shown in the product page

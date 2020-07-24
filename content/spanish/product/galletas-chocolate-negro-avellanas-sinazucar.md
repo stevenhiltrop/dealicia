@@ -15,12 +15,11 @@ overview:
   - label : Precio
     data : 2.90€
 
-
 # meta description
 description : "Galletitas de mantequilla con trocitos de avellana tostada y chocolate, sin azúcar, edulcoradas con sucralosa y maltitol, sin conservantes."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/galletas-chocolate-negro-avellanas-sinazucar.jpg"
+image : "images/product/thumbs/galletas-chocolate-negro-avellanas-sinazucar.jpg"
 
 # product Images
 # first image will be shown in the product page

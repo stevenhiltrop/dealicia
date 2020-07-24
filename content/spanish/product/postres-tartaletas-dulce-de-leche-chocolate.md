@@ -16,7 +16,7 @@ overview:
 description : "Receta exclusiva d´Alicia de tarta de chocolate con leche rellena de dulce de leche."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/postres-tartaletas-dulce-de-leche-chocolate.jpg"
+image : "images/product/thumbs/postres-tartaletas-dulce-de-leche-chocolate.jpg"
 
 # product Images
 # first image will be shown in the product page

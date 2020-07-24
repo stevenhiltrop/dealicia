@@ -16,7 +16,7 @@ overview:
 description : "Nuestra versión de una tarta de almendras horneada: base de pasta quebrada de mantequilla y almendra, rellena de suave financier de almendra y recubierta de aromáticos piñones españoles."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/postres-tartaletas-almendras-pinones.jpg"
+image : "images/product/thumbs/postres-tartaletas-almendras-pinones.jpg"
 
 # product Images
 # first image will be shown in the product page

@@ -8,7 +8,7 @@ type: product
 description : "Barritas de Avena hechas con avena ecológica, panela, mantequilla, nuez moscada, coco y miel."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/BarritasDeAvena.jpeg"
+image : "images/product/thumbs/BarritasDeAvena.jpeg"
 
 # product Images
 # first image will be shown in the product page

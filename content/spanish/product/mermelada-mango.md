@@ -19,7 +19,7 @@ overview:
 description : "Todas las mermeladas y confituras disponibles en d´Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano. "
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/mermeladas.jpg"
+image : "images/product/thumbs/mermeladas.jpg"
 
 # product Images
 # first image will be shown in the product page

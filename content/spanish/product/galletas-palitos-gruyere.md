@@ -19,7 +19,7 @@ overview:
 description : "Clásico palito de rico hojaldre de mantequilla con Gruyère Suizo, realzado con un toque de sal y pimienta. Ideales para aperitivos o como acompañamiento de cremas de verduras."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/galletas-palitos-gruyere.jpg"
+image : "images/product/thumbs/galletas-palitos-gruyere.jpg"
 
 # product Images
 # first image will be shown in the product page

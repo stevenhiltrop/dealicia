@@ -19,7 +19,7 @@ overview:
 description : "Las naranjitas son una de nuestras especialidades. Elaboramos nuestras naranjitas siguiendo un proceso exclusivo y 100% manual. "
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/mermelada-naranjitas.jpg"
+image : "images/product/thumbs/mermelada-naranjitas.jpg"
 
 # product Images
 # first image will be shown in the product page
