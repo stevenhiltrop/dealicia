@@ -17,10 +17,10 @@ Se ha convertido parte de la tradición regalar huevos o conejos de chocolate a 
 
 Este año en d’Alicia podrás disfrutar de nuestros chocolates de Pascua hechos sin conservantes, ni colorantes, ni saborizantes:
 
-* Huevo grande de chocolate con leche
-* Pato de Pascua
-* Dinosaurio de Pascua
-* Piruletas de conejos y ositos
-* Bolsas de mini huevos de chocolate
-* Galletas en forma de huevo de sabré de avellana bañadas en chocolate con leche
-* Os deseamos una feliz semana y que disfrutéis de esta tradición con la familia y amigos.
+- Huevo grande de chocolate con leche
+- Pato de Pascua
+- Dinosaurio de Pascua
+- Piruletas de conejos y ositos
+- Bolsas de mini huevos de chocolate
+- Galletas en forma de huevo de sabré de avellana bañadas en chocolate con leche
+- Os deseamos una feliz semana y que disfrutéis de esta tradición con la familia y amigos.
