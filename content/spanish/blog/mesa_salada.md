@@ -13,7 +13,11 @@ Todo lo que necesitas para tu mesa salada
 
 Las cenas con amigos, una despedida, un evento, un cumpleaños, las mesas saladas normalmente se suelen preparar para un almuerzo o cena.
 
+![](/images/blog/banner_mesa-salada-blog-dealicia-pasteleria-2.png)
+
 Te proponemos una posibilidad de montar tu propia mesa salada con pocos objetos que tengas en casa o que puedas reutilizar y productos saludables que puedes encontrar en todas nuestras tiendas.
+
+![](/images/blog/banner_mesa-salada-blog-dealicia-pasteleria-3.png)
 
 Y de comer …
 
@@ -33,3 +37,20 @@ En la propuesta de mesa salada, sugerimos diferentes opciones, todas con la posi
 - Brioche sorpresa
 - Galletas de comino y queso gouda
 - Ensaladas
+
+![](/images/blog/banner_mesa-salada-blog-dealicia-pasteleria-4.png)
+![](/images/blog/banner_mesa-salada-blog-dealicia-pasteleria-6.png)
+
+**Decoración**
+
+Una mesa bonita, si es de madera puedes dejarla sin mantel o poner un mantel liso, los de lino suelen quedar muy bonitos y relajados, dando un ambiente desenfadado.
+
+Para poner las galletas, croissants, ensaladas y sandwiches.
+
+- Fuentes para ensaladas
+- Cesta de mimbre (en las tiendas d’Alicia tenemos muchas bonitas)
+- Platos de diferentes tamaños combinado con algunos de plata o mimbre
+
+También te puede interesar nuestro artículo de Mesa Dulce  y Mesa de Cumpleaños
+
+En todas las tiendas tenemos un libro de mesas que puedes pedir para ver.  (Libro Mesas d’Alicia)
