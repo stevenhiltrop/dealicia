@@ -1,7 +1,7 @@
 ################################## Products ###############################
 products:
   enable : true
-  bg_image : images/background/clients-bg.jpg
+  bg_image : images/background/sclients-bg.jpg
   subtitle : Our Some
   title : Satisfied Clients
   content : Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis. natus error sit voluptem accusantium doloremqu laudantium totam remaperiam eaque ipsa quae
