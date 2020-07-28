@@ -12,6 +12,9 @@ disqusShortname = "biztrox" # get your shortname form here : https://disqus.com
 disableLanguages = "en" # disable language from here
 DefaultContentLanguage = "es"
 
+[taxonomies]
+  category = "categories"
+  tema = "temas"
 
 ############################# Plugins ##############################
 [params.plugins]
