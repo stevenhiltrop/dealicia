@@ -5,7 +5,7 @@ date: 2019-01-09T11:11:24+06:00
 description: "Quiche de Invierno"
 author: Yareri Aguilar
 image: images/blog/quiche-de-invierno.jpg
-temas: ["quiches"]
+temas: ["Quiches"]
 tags: ["tartas saladas"]
 type: post
 ---
