@@ -3,6 +3,7 @@ title: "Barritas de Avena"
 date: 2020-05-25T13:39:07+06:00
 draft: false
 type: product
+category: galletas
 
 # meta description
 description : "Barritas de Avena hechas con avena ecológica, panela, mantequilla, nuez moscada, coco y miel."
@@ -17,8 +18,6 @@ images:
 
 # Overview
 overview:
-  - label : "Categoría"
-    data : Galletas Dulces
 
   - label : Unidades
     data : "2 por paquete"
