@@ -5,11 +5,10 @@ date: 2019-03-02T11:11:24+06:00
 description: "Aprender de la gastronomía de otras culturas en las vacaciones con niños"
 author: Yareri Aguilar
 image: images/blog/dealicia-desayuno.jpg
-temas: ["Gastronomía"]
-tags: ["Niños"]
+temas: ["Cultura"]
+tags: ["niños"]
 type: post
 ---
-
 Para introducir los sabores de otras culturas es importante tomar en cuenta que los cambios de rutina suelen afectar a algunos niños, si lo piensas hasta un cambio de silla en la mesa a la hora de comer, suele distorsionar un poco su rutina, no todos los niños pero si algunos, obsérvalos y ve como reaccionan para evitar expectativas y simplemente aceptar su ritmo, algún día probará todo si respetas su ritmo, además de respetar que algún alimento no les guste, a todos nos pasa.
 
 Cuando vamos de viaje nos enfrentamos a nuevos sabores, nuevas formas de servir la comida, nuevas tradiciones y horarios, si eres de los padres que te gustaría fomentar en tus hijos la cultura de la gastronomía, para disfrutar del encanto y tradiciones de cada lugar sigue leyendo.

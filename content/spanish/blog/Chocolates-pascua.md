@@ -6,7 +6,7 @@ description: "Chocolates de Pascua"
 author: Yareri Aguilar
 image: images/blog/chocolates-pascua.jpg
 temas: ["Dulces"]
-tags: ["Chocolate"]
+tags: ["chocolate"]
 type: post
 ---
 Los huevos y conejos de pascua simbolizan la época de la Pascua, se dice también que con la Pascua regresa la primavera, ocurre el retoño de los campos y los animales comienzan a reproducirse, el huevo se vincula como el símbolo de la nueva vida, de la fertilidad del suelo y las cosechas.

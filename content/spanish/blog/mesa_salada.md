@@ -5,17 +5,31 @@ date: 2019-07-28T11:11:24+06:00
 description : "This is meta description"
 author: Yareri Aguilar
 image: images/blog/mesa_salada.jpg
-temas: ["Consultancy"]
-tags: ["Consultancy","Marketing","Finance"]
+temas: ["Mesa Salada"]
+tags: ["quiches""galletas""tartas""brioche""sandwiches"]
 type: post
 ---
+Todo lo que necesitas para tu mesa salada
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex. Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+Las cenas con amigos, una despedida, un evento, un cumpleaños, las mesas saladas normalmente se suelen preparar para un almuerzo o cena.
 
->Excepteur sint occaecat cupidatat non proident sunt culpa officia deserunt mollit anim id est laborum.Sed ut perspiciatis unde omnis.
+Te proponemos una posibilidad de montar tu propia mesa salada con pocos objetos que tengas en casa o que puedas reutilizar y productos saludables que puedes encontrar en todas nuestras tiendas.
 
-1. Business Services
-2. Audit & Assurance
-3. IT Control Solutions
+Y de comer …
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex. Commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt.
+En la propuesta de mesa salada, sugerimos diferentes opciones, todas con la posibilidad de poder consumir de un bocado o con la mano, es una mesa enfocada a que la gente pueda sentarse dónde quiera o bien estar de pie. Esta mesa da libertad de movimiento así como de comer lo que quieran. Te sugerimos:
+
+- Mermeladas, mantequillas frutos secos
+- Galletas de queso y mostaza
+- Sandwiches con relleno a elegir
+- Frutos secos
+- Quiches de verduras
+- Medias noches
+- Croissants de mantequilla
+- Palitos de queso gruyère
+- Cesta de panes artesanos
+- Pan multicereales sorpresa
+- Ensaladas
+- Brioche sorpresa
+- Galletas de comino y queso gouda
+- Ensaladas

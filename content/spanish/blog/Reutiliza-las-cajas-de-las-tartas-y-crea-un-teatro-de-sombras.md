@@ -5,8 +5,8 @@ date: 2019-08-20T11:07:10+06:00
 description: "Reutiliza las cajas de las tartas y crea un teatro de sombras"
 author: Yareri Aguilar
 image: images/blog/caja-de-tartas-dealicia-reciclada-libro-versos-para-ilustrar-elena-mayorga.jpeg
-temas: ["Desayunos"]
-tags: ["Reciclar"]
+temas: ["Reutilizar"]
+tags: ["reciclar"]
 type: post
 ---
 Reutilizar es darle una segunda oportunidad y larga vida a cosas que posiblemente tiraríamos a la basura, es ayudar y fomentar el hábito de reutilizar todo lo que se pueda con el fin de generar menos basura en nuestro mundo y una consciencia sana a nuestros hijos e hijas.

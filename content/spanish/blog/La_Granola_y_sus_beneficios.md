@@ -6,7 +6,7 @@ description : "This is meta description"
 author: Yareri Aguilar
 image: images/blog/granola-dealicia-sinconservantes-pasteleria-guadalmina-sotogrande-estepona-marbella.jpeg
 temas: ["Desayunos"]
-tags: ["Granola"]
+tags: ["granola"]
 type: post
 
 images:
