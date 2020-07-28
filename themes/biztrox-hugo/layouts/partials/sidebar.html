@@ -3,13 +3,13 @@
 	<div class="bg-white px-4 py-100 sidebar-box-shadow">
 		{{ "<!-- categories -->" | safeHTML }}
 		<div class="mb-50">
-			<h4 class="mb-3">Categories</h4>
-			{{- if isset .Site.Taxonomies "categories" }}
-			{{- if not (eq (len .Site.Taxonomies.categories) 0) }}
+			<h4 class="mb-3">Temas</h4>
+			{{- if isset .Site.Taxonomies "temas" }}
+			{{- if not (eq (len .Site.Taxonomies.temas) 0) }}
 			<ul class="list-unstyled mb-0">
-				{{- range $name, $items := .Site.Taxonomies.categories }}
+				{{- range $name, $items := .Site.Taxonomies.temas }}
 				<li class="border-bottom">
-					<a href="{{ `categories/` | relLangURL }}{{ $name | urlize | lower }}"
+					<a href="{{ `temas/` | relLangURL }}{{ $name | urlize | lower }}"
 						class="d-block text-color py-10">{{ $name | title | humanize }}</a>
 				</li>
 				{{- end }}
