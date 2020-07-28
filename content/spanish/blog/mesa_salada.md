@@ -3,7 +3,7 @@ title: "Mesa Salada"
 bg_image: images/background/page-title.jpg
 date: 2019-07-28T11:11:24+06:00
 description : "This is meta description"
-author: John Doe
+author: Yareri Aguilar
 image: images/blog/mesa_salada.jpg
 categories: ["Consultancy"]
 tags: ["Consultancy","Marketing","Finance"]
