@@ -176,7 +176,7 @@ link = "contact"
 
 # preloader
 [params.preloader]
-enable = true
+enable = false
 preloader = "images/preloader.gif"
 
 ############################ Contact information ############################
