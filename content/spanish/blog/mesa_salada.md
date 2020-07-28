@@ -6,7 +6,7 @@ description : "This is meta description"
 author: Yareri Aguilar
 image: images/blog/banner_MesaSalada.jpg
 temas: ["Mesa Salada"]
-tags: ["quiches""galletas""tartas""brioche""sandwiches"]
+tags: ["quiches","galletas","tartas","brioche","sandwiches"]
 type: post
 ---
 Todo lo que necesitas para tu mesa salada
