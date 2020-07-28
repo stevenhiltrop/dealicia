@@ -53,9 +53,3 @@ Galletas Florentinas están caramelizadas y bañadas con chocolate. Esta receta 
 Disponibles en época de chocolate (Invierno)
 
 Finos y crujientes discos de laminas de almendra de Málaga caramelizadas y bañadas en chocolates Blanco (Ivoire de Valrhona), leche (Jivara lactée de Valrhona) y Negro (Guanaja 70% cacao de Valrhona).
-
-#### Product Features
-
-* Mapped with 3M™ Thinsulate™ Insulation [40G Body / Sleeves / Hood]
-* Embossed Taffeta Lining
-* DRYRIDE Durashell™ 2-Layer Oxford Fabric [10,000MM, 5,000G]

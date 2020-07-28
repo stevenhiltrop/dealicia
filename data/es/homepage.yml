@@ -3,19 +3,6 @@ slider:
   enable : true
   slider_Item:
     # slider item loop
-    - bg_image : images/banner/banner-1.jpg
-      animation_from : left
-      subtitle : Descubre nuestras
-      title : mermeladas
-      content : fabricadas a base de productos naturales
-      pagination_icon : ti-comments # themify icon pack : https://themify.me/themify-icons
-      pagination_name : Mermeladas
-      button:
-        enable : true
-        label: Detalles
-        link : "about"
-
-    # slider item loop
     - bg_image : images/banner/banner-2.jpg
       animation_from : up
       subtitle : Descubre las deliciosas
@@ -29,12 +16,51 @@ slider:
         link : "about"
 
     # slider item loop
+    - bg_image : images/banner/banner-1.jpg
+      animation_from : left
+      subtitle : Descubre nuestras
+      title : mermeladas
+      content : fabricadas a base de productos naturales
+      pagination_icon : ti-comments # themify icon pack : https://themify.me/themify-icons
+      pagination_name : Mermeladas
+      button:
+        enable : true
+        label: Detalles
+        link : "about"
+
+    # slider item loop
     - bg_image : images/banner/banner-3.jpg
       animation_from : down
       subtitle : Descubre nuestras
-      title : Tartas
+      title : Galletas
       content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
       pagination_icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      pagination_name : Galletas
+      button:
+        enable : true
+        label: More details
+        link : "about"
+
+    # slider item loop
+    - bg_image : images/banner/banner-4.jpg
+      animation_from : right
+      subtitle : Opciones saludables
+      title : Avena y más
+      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
+      pagination_icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      pagination_name : Avena
+      button:
+        enable : true
+        label: More details
+        link : "about"
+
+    # slider item loop
+    - bg_image : images/banner/banner-4.jpg
+      animation_from : right
+      subtitle : Deliciosas
+      title : Tartas
+      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
+      pagination_icon : ti-package # themify icon pack : https://themify.me/themify-icons
       pagination_name : Tartas
       button:
         enable : true
