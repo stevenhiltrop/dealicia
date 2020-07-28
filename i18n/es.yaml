@@ -49,7 +49,7 @@
 - id: all
   translation: All
 - id: posted_by
-  translation: Posted By
+  translation: Publicado por 
 - id: share
   translation: Share
 - id: makeorder
