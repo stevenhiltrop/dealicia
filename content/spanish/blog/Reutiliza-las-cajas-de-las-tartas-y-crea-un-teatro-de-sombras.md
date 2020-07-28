@@ -8,8 +8,8 @@ image: images/blog/caja-de-tartas-dealicia-reciclada-libro-versos-para-ilustrar-
 categories: ["Desayunos"]
 tags: ["Reciclar"]
 type: post
+---
 ###Reutiliza las cajas de las tartas y crea un teatro de sombras.
-
 Reutilizar es darle una segunda oportunidad y larga vida a cosas que posiblemente tiraríamos a la basura, es ayudar y fomentar el hábito de reutilizar todo lo que se pueda con el fin de generar menos basura en nuestro mundo y una consciencia sana a nuestros hijos e hijas.
 
 Les proponemos crear un teatro de sombras con las cajas de tartas inspirado en el libro de «Versos para Ilustrar» de Elena Mayorga. Es un libro ilustrado por Adriana una niña de 10 años, lo que nos parece fascinante que existan este tipo de libros que motiven a las niñas y niños para confiar es sus propias habilidades con el acompañamiento de sus padres. El libro explica más a a detalle sobre los teatros de sombras y propone una actividad de cómo utilizar el teatro de sombras, una actividad en familia. En d’Alicia nos encanta promover los momentos para compartir en familia o con amigos al mismo tiempo nos gusta promover el arte y la cultura. El libro contiene mucha información sobre datos culturales, así como de arte, seguidos de un verso relacionado con cada tema.
