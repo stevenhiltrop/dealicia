@@ -5,7 +5,7 @@ date: 2019-03-02T11:11:24+06:00
 description: "Aprender de la gastronomía de otras culturas en las vacaciones con niños"
 author: Yareri Aguilar
 image: images/blog/dealicia-desayuno.jpg
-categories: ["Gastronomía"]
+temas: ["Gastronomía"]
 tags: ["Niños"]
 type: post
 ---
@@ -34,7 +34,7 @@ Podemos sugerirte pan cristal que es una mezcla de harinas de trigo, centeno y c
 
 Además de la posibilidad de llevarte a casa o a tu paseo unas galletas, barritas de avena, mantequillas de frutos secos o pastelitos para el postre y si también estas celebrando tu cumpleaños o bien les apetece celebrar las vacaciones, puedes pedir un mensaje en tu tarta para compartir como en casa. Una quiche para almorzar o llevarla para cenar juntos después de un día lleno de emociones tras haber descubierto nuevos lugares.
 
-Sabores de otros países en d’Alicia Café
+**Sabores de otros países en d’Alicia Café**
 
 En d’Alicia Café tienes la oportunidad de descubrir nuevos sabores que te llevarán a conectar con diferentes países como a Francia con los exquisitos croissant, frangipane, la galette des rois y las quichés;  la cramiqué de  Bélgica; el original brownie y las crujientes american cookie de Estados Unidos; el placentero apple struddel de Alemania, las tradicionales tostadas y el cafelito para desayunar de España.
 

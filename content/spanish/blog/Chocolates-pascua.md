@@ -5,7 +5,7 @@ date: 2019-04-07T11:07:10+06:00
 description: "Chocolates de Pascua"
 author: Yareri Aguilar
 image: images/blog/chocolates-pascua.jpg
-categories: ["Dulces"]
+temas: ["Dulces"]
 tags: ["Chocolate"]
 type: post
 ---
