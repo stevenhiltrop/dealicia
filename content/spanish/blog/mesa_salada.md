@@ -4,7 +4,7 @@ bg_image: images/background/page-title.jpg
 date: 2019-07-28T11:11:24+06:00
 description : "This is meta description"
 author: Yareri Aguilar
-image: images/blog/mesa_salada.jpg
+image: images/blog/banner_MesaSalada.jpg
 temas: ["Mesa Salada"]
 tags: ["quiches""galletas""tartas""brioche""sandwiches"]
 type: post
