@@ -3,24 +3,11 @@ slider:
   enable : true
   slider_Item:
     # slider item loop
-    - bg_image : images/banner/banner-2.jpg
-      animation_from : up
-      subtitle : Descubre las deliciosas
-      title : Mantequillas
-      content : de nueces
-      pagination_icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
-      pagination_name : Mantequillas
-      button:
-        enable : true
-        label: More details
-        link : "about"
-
-    # slider item loop
     - bg_image : images/banner/banner-1.jpg
       animation_from : left
-      subtitle : Descubre nuestras
+      subtitle : Naturales
       title : mermeladas
-      content : fabricadas a base de productos naturales
+      content : hechas con fruta fresca sin conservantes, ni colorantes
       pagination_icon : ti-comments # themify icon pack : https://themify.me/themify-icons
       pagination_name : Mermeladas
       button:
@@ -29,11 +16,24 @@ slider:
         link : "about"
 
     # slider item loop
+    - bg_image : images/banner/banner-2.jpg
+      animation_from : up
+      subtitle : Nutritivas
+      title : Mantequillas
+      content : de almendras, cacahuete y anacardos hechas con un solo ingrediente
+      pagination_icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
+      pagination_name : Mantequillas
+      button:
+        enable : true
+        label: More details
+        link : "about"
+
+    # slider item loop
     - bg_image : images/banner/banner-3.jpg
       animation_from : down
-      subtitle : Descubre nuestras
+      subtitle : Exquisitas
       title : Galletas
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
+      content : dulces o saladas hechas sin conservantes para compartir
       pagination_icon : ti-money # themify icon pack : https://themify.me/themify-icons
       pagination_name : Galletas
       button:
@@ -44,11 +44,11 @@ slider:
     # slider item loop
     - bg_image : images/banner/banner-4.jpg
       animation_from : right
-      subtitle : Opciones saludables
-      title : Avena y más
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
+      subtitle : Productos
+      title : Saludables
+      content : Granola, frutos secos, mezcla de semillas y barritas de avena para tu despensa
       pagination_icon : ti-package # themify icon pack : https://themify.me/themify-icons
-      pagination_name : Avena
+      pagination_name : Saludables
       button:
         enable : true
         label: More details
@@ -57,9 +57,9 @@ slider:
     # slider item loop
     - bg_image : images/banner/banner-4.jpg
       animation_from : right
-      subtitle : Deliciosas
+      subtitle : Auténticas
       title : Tartas
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
+      content : Hechas con ingredientes naturales, mezcla de sabores que dejan huella
       pagination_icon : ti-package # themify icon pack : https://themify.me/themify-icons
       pagination_name : Tartas
       button:
@@ -70,9 +70,9 @@ slider:
     # slider item loop
     - bg_image : images/banner/banner-4.jpg
       animation_from : right
-      subtitle : Deliciosos
-      title : Panes
-      content : Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor <br> incididunt ut labore et dolore magna aliqua.
+      subtitle : Artesano
+      title : Pan
+      content : Hecho con masa madre y fermentación lenta
       pagination_icon : ti-package # themify icon pack : https://themify.me/themify-icons
       pagination_name : Panes
       button:

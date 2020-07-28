@@ -9,7 +9,7 @@ temas: ["Cultura"]
 tags: ["pan"]
 type: post
 ---
-Es una tradición mexicana que se ha elegido en d’Alicia Café con el fin de ofrecer una nueva alternativa en los productos de Halloween, el objetivo de los productos de Halloween es poder celebrar con la familia y amigos en la mesa el día de todos los santos, una manera de recordar a los que ya no están presentes y que se reúnen para celebrarlos.
+Es una tradición mexicana que se ha elegido en d’Alicia Café con el fin de ofrecer una nueva alternativa en los productos de Halloween. El objetivo de los productos de Halloween es poder celebrar con la familia y amigos en la mesa el día de todos los santos, una manera de recordar a los que ya no están presentes, de los que se reúnen para celebrarlos.
 
 El pan de muerto es parte del ritual de esta temporada, se acompaña con una ofrenda donde se pone la foto del fallecido con la comida que más le gustaba y una vela. Este pan es un reflejo de la alegría de los pueblos mexicanos por festejar a la muerte y el tradicional uso del trigo en el mundo católico europeo.
 
