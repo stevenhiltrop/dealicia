@@ -5,7 +5,7 @@ date: 2018-06-25T11:07:10+06:00
 description: "Quiche de verano"
 author: Yareri Aguilar
 image: images/blog/quiche-de-verano.jpg
-temas: ["Quiche"]
+temas: ["Quiches"]
 tags: ["almuerzo"]
 type: post
 ---
