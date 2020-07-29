@@ -42,7 +42,7 @@ slider:
         link : "about"
 
     # slider item loop
-    - bg_image : images/banner/banner-4.jpg
+    - bg_image : images/banner/granola.jpg
       animation_from : right
       subtitle : Productos
       title : Saludables
@@ -55,7 +55,7 @@ slider:
         link : "about"
 
     # slider item loop
-    - bg_image : images/banner/banner-4.jpg
+    - bg_image : images/banner/tartas.jpg
       animation_from : right
       subtitle : Auténticas
       title : Tartas
@@ -68,7 +68,7 @@ slider:
         link : "about"
 
     # slider item loop
-    - bg_image : images/banner/banner-4.jpg
+    - bg_image : images/banner/pan.jpg
       animation_from : right
       subtitle : Artesano
       title : Pan
