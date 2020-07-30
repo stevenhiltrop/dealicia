@@ -60,7 +60,7 @@ slider:
       subtitle : Auténticas
       title : Tartas
       content : Hechas con ingredientes naturales, mezcla de sabores que dejan huella
-      pagination_icon : images/icons/birthday-cake.png
+      pagination_icon : ti-package
       pagination_name : Tartas
       button:
         enable : true
