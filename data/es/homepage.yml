@@ -60,7 +60,7 @@ slider:
       subtitle : Auténticas
       title : Tartas
       content : Hechas con ingredientes naturales, mezcla de sabores que dejan huella
-      pagination_icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      pagination_icon : images/icons/birthday-cake.png
       pagination_name : Tartas
       button:
         enable : true
@@ -68,7 +68,7 @@ slider:
         link : "about"
 
     # slider item loop
-    - bg_image : images/banner/pan.jpg
+    - bg_image : images/banner/pan.tjpg
       animation_from : right
       subtitle : Artesano
       title : Pan

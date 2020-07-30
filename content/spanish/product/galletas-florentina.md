@@ -1,7 +1,6 @@
 ---
 title: "Florentinas"
 date: 2020-05-25T13:39:07+06:00
-bg_image: images/background/page-title.jpg
 draft: false
 type: product
 category: "Galletas, Dulce"
