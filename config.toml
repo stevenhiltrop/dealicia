@@ -16,6 +16,19 @@ DefaultContentLanguage = "es"
   category = "categories"
   tema = "temas"
 
+[related]
+threshold = 80.0
+includeNewer = true
+toLower = false
+
+  [[related.indices]]
+  name = "type"
+  weight = 1.0
+
+  [[related.indices]]
+  name = "category"
+  weight = 10.0
+
 ############################# Plugins ##############################
 [params.plugins]
 
@@ -252,6 +265,8 @@ link = "#"
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
 link = "#"
+
+
 
 
 [Languages]
