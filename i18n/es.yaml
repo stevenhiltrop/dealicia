@@ -49,7 +49,7 @@
 - id: all
   translation: All
 - id: posted_by
-  translation: Publicado por 
+  translation: Publicado por
 - id: share
   translation: Share
 - id: makeorder
@@ -58,3 +58,5 @@
   translation: Ver Productos
 - id: addcart
   translation: Añadir al Carrito
+- id: seealso
+  translation: Productos Relacionados
