@@ -29,7 +29,7 @@ price: "9.68"
 priceBefore: ""
 
 # categories
-category: "Brownie, Postres"
+category: "Postres"
 
 # weight
 productWeight : "600g"

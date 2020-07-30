@@ -31,7 +31,7 @@ price: "1.45"
 priceBefore: ""
 
 # categories
-category: "Postres, De temporada"
+category: "Postres"
 
 # weight
 productWeight : "80g"

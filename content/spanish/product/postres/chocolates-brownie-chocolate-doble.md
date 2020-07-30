@@ -3,7 +3,7 @@ title: "Brownie de doble Chocolate"
 date: 2020-05-25T13:39:07+06:00
 description : "Auténtico Brownie de doble chocolate meloso."
 type: product
-category: "Brownie, Postres"
+category: "Postres"
 tags: "Envio"
 draft: false
 

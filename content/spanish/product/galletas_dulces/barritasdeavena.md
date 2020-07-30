@@ -3,7 +3,13 @@ title: "Barritas de Avena"
 date: 2020-05-25T13:39:07+06:00
 draft: false
 type: product
-category: galletas
+category: "Galletas Dulces"
+# product Dets
+price: "3.00"
+priceBefore: ""
+productWeight : "100g"
+# in stock? (accepts true/false | yes/no | si/no | 1/0)
+stock: si
 
 # meta description
 description : "Barritas de Avena hechas con avena ecológica, panela, mantequilla, nuez moscada, coco y miel."
@@ -24,20 +30,6 @@ overview:
 
   - label : Precio
     data : 3.00€
-
-
-# product Price
-price: "3.00"
-priceBefore: ""
-
-# categories
-category: "Barritas de Avena"
-
-# weight
-productWeight : "100g"
-
-# in stock? (accepts true/false | yes/no | si/no | 1/0)
-stock: si
 
 ---
 ![Barritas de Avena](/images/product/BarritasDeAvena.jpeg "Barritas de Avena")
