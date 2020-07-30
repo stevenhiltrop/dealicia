@@ -13,7 +13,7 @@ slider:
       button:
         enable : true
         label: Detalles
-        link : "about"
+        link : "product/mermeladas"
 
     # slider item loop
     - bg_image : images/banner/banner-2.jpg
@@ -25,8 +25,8 @@ slider:
       pagination_name : Mantequillas
       button:
         enable : true
-        label: More details
-        link : "about"
+        label: Detalles
+        link : "product/mantequillas_de_frutos_secos"
 
     # slider item loop
     - bg_image : images/banner/banner-3.jpg
@@ -38,8 +38,8 @@ slider:
       pagination_name : Galletas
       button:
         enable : true
-        label: More details
-        link : "about"
+        label: Detalles
+        link : "product/galletas_dulces"
 
     # slider item loop
     - bg_image : images/banner/granola.jpg
@@ -51,7 +51,7 @@ slider:
       pagination_name : Saludables
       button:
         enable : true
-        label: More details
+        label: Detalles
         link : "about"
 
     # slider item loop
@@ -64,7 +64,7 @@ slider:
       pagination_name : Tartas
       button:
         enable : true
-        label: More details
+        label: Detalles
         link : "about"
 
     # slider item loop
@@ -77,7 +77,7 @@ slider:
       pagination_name : Panes
       button:
         enable : true
-        label: More details
+        label: Detalles
         link : "about"
 
 ########################################## Service ####################################
