@@ -68,7 +68,7 @@ slider:
         link : "about"
 
     # slider item loop
-    - bg_image : images/banner/pan.tjpg
+    - bg_image : images/banner/pan.jpg
       animation_from : right
       subtitle : Artesano
       title : Pan
