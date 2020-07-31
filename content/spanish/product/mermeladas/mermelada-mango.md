@@ -16,7 +16,7 @@ overview:
     data : 3.60€
 
 # meta description
-description : "Todas las mermeladas y confituras disponibles en d´Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano. "
+description : "Todas las mermeladas y confituras disponibles en d´Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
 image : "images/product/thumbs/mermeladas.jpg"
