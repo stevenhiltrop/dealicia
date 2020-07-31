@@ -3,7 +3,7 @@
   <div class="position-relative">
     <img class="img-fluid w-100" src="{{ .Params.Image | absURL }}" alt="product-image">
     <div class="product-info">
-      <a href="{{ .Permalink }}" class="h4">{{ .Title }}</a>
+      <a href="{{ .Permalink }}" class="h4 smallprod">{{ .Title }}</a>
       <p>{{ .Params.price | humanize }}€</p>
     </div>
   </div>

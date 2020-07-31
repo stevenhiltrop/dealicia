@@ -2478,4 +2478,8 @@ blockquote{
   display: block;
 }
 
+.h4.smallprod {
+  margin-left: -5px;
+  display: block;
+}
 /*# sourceMappingURL=maps/style.css.map */
