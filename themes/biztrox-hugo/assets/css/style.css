@@ -2458,4 +2458,18 @@ blockquote{
   outline: 0;
 }
 
+
+.post-content ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  margin-bottom: 20px;
+}
+.post-content ul li {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  position: relative;
+  margin-bottom: 2px;
+  color: #666;
+}
+
 /*# sourceMappingURL=maps/style.css.map */
