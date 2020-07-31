@@ -7,7 +7,7 @@ category: "Mermeladas"
 image : "images/product/thumbs/mermelada-higos-naranja.jpg"
 ---
 
-### Las mermeladas d’Alicia está hechas con fruta fresca y sin conservantes, siendo su conservante natural el azúcar.
+### Las mermeladas d’Alicia están hechas con fruta fresca y sin conservantes, siendo su conservante natural el azúcar.
 
 #### Historia de la mermelada
 
