@@ -2464,12 +2464,18 @@ blockquote{
   padding-left: 20px;
   margin-bottom: 20px;
 }
+
 .post-content ul li {
   font-family: "Open Sans", sans-serif;
   font-size: 15px;
   position: relative;
   margin-bottom: 2px;
   color: #666;
+}
+
+.post-content strong {
+  margin: 20px 0px -10px 0px;
+  display: block;
 }
 
 /*# sourceMappingURL=maps/style.css.map */
