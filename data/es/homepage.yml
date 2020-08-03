@@ -66,7 +66,7 @@ slider:
       button:
         enable : true
         label: Detalles
-        link : "about"
+        link : "product/tartas"
 
     # slider item loop
     - bg_image : images/banner/pan.jpg
@@ -79,7 +79,7 @@ slider:
       button:
         enable : true
         label: Detalles
-        link : "about"
+        link : "product/panes"
 
 ########################################## Service ####################################
 service:
