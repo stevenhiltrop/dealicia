@@ -76,7 +76,7 @@ toLower = false
 
   [[menu.main]]
   name = "Shop"
-  URL = "shop"
+  URL = "product"
   weight = 2
 
   [[menu.main]]
@@ -128,7 +128,7 @@ toLower = false
 
   [[Languages.es.menu.main]]
   name = "Tienda"
-  URL = "shop"
+  URL = "product"
   weight = 2
 
   [[Languages.es.menu.main]]
