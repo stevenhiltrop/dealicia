@@ -197,7 +197,7 @@ cta:
   button:
     enable : true
     label : "Comprar"
-    link : "contacto"
+    link : "product/galletas_dulces/barritasdeavena/"
 
 ########################################## blog ####################################
 blog:
