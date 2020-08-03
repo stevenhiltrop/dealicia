@@ -7,7 +7,7 @@
 				<ol class="breadcrumb">
 					<li><a href="{{ .Site.BaseURL }}">{{ .Site.Params.home }}</a></li>
  				<!-- categories breadcrumb dont urlize correctly hyphens to underscores. -->
-				<!--	<li><a href="{{ .Site.BaseURL }}product/{{ .Params.Category | urlize }}">{{ .Params.Category }}</a></li>-->
+					<li><a href="{{ .Site.BaseURL }}product/{{ .Params.Category | urlize }}">{{ .Params.Category }}</a></li>
 					<li>{{ .Title }}</li>
 				</ol>
 			</div>
