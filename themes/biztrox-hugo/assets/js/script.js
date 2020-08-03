@@ -1,7 +1,7 @@
 (function ($) {
 	'use strict';
 
-	// Preloader js    
+	// Preloader js
 	$(window).on('load', function () {
 		$('.preloader').fadeOut(700);
 	});
@@ -24,9 +24,9 @@
 		nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'ti-arrow-right\'></i></button>',
 		dots: true,
 		customPaging: function (slider, i) {
-			var icon = $(slider.$slides[i]).data('icon');
+			var customicon = $(slider.$slides[i]).data('customicon');
 			var text = $(slider.$slides[i]).data('text');
-			return '<a><i class="' + icon + '"></i><span>' + text + '</span></a>';
+			return '<a><span>' + text + '</span></a>';
 		},
 		responsive: [{
 			breakpoint: 576,

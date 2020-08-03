@@ -9,6 +9,7 @@ slider:
       title : mermeladas
       content : hechas con fruta fresca sin conservantes, ni colorantes
       pagination_icon : ti-comments # themify icon pack : https://themify.me/themify-icons
+      pagination_customicon : "ti-comments.png" # themify icon pack : https://themify.me/themify-icons
       pagination_name : Mermeladas
       button:
         enable : true
