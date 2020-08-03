@@ -37,7 +37,7 @@ category: "Mermeladas, Chocolates"
 productWeight : "250g"
 
 # in stock? (accepts true/false | yes/no | si/no | 1/0)
-stock: si
+stock: no
 
 ---
 ![Naranjitas](/images/product/mermelada-naranjitas.jpg "Naranjitas")
