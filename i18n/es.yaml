@@ -8,6 +8,8 @@
   translation: Our Works
 - id: product_title
   translation: Nuestros Productos
+- id: products
+  translation: Productos
 - id: blog_subtitle
   translation: Lo último de nuestro Blog
 - id: blog_title
