@@ -20,7 +20,7 @@
 						</ul>
 					</div>
 				</div>
-				{{ "<!-- footer links -->" | safeHTML }}
+				{{ "<!-- footer product links -->" | safeHTML }}
 				<div class="col-lg-2 col-md-4 col-6">
 					<h4 class="text-white mb-4">{{ i18n "products" }}</h4>
 					<ul class="footer-links">
@@ -50,7 +50,14 @@
 				{{ "<!-- subscribe form -->" | safeHTML }}
 				<div class="col-lg-3 col-md-12 offset-lg-1">
 					<div class="mt-5 mt-lg-0 text-center text-md-left">
-						{{ with .Site.Params.footer.subscribe}} <h4 class="mb-4 text-white">{{ . }}</h4> {{ end }}
+						<h4 class="mb-4 text-white">Horario</h4>
+						<ul class="pl-0 list-unstyled mb-5 text-white">
+							{{ range .Site.Params.footer.openingHour }}
+							<li class="">{{ .day }} <span>{{ .time }}</span></li>
+							{{ end }}
+						</ul>
+
+						<!-- {{ with .Site.Params.footer.subscribe}} <h4 class="mb-4 text-white">{{ . }}</h4> {{ end }}
 						{{ with .Site.Params.footer.subscribe_content}} <p class="text-white mb-4">{{ . }}</p> {{ end }}
 						<div id="mc_embed_signup">
 							<form action="{{ .Site.Params.mailchimp_form_action }}" method="post" id="mc-embedded-subscribe-form"
@@ -66,7 +73,7 @@
 									</div>
 								</div>
 							</form>
-						</div>
+						</div> -->
 					</div>
 				</div>
 			</div>
