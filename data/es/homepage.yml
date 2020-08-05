@@ -40,7 +40,7 @@ slider:
       button:
         enable : true
         label: Detalles
-        link : "product/galletas_dulces"
+        link : "product/galletas-dulces"
 
     # slider item loop
     - bg_image : images/banner/granola.jpg
