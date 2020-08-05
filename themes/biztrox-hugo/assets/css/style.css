@@ -597,7 +597,7 @@ button {
 }
 
 .bg-primary {
-  background-color: #ef476f !important;
+  background-color: #fdfdfd !important;
 }
 
 .bg-secondary {
@@ -2349,7 +2349,7 @@ blockquote{
   width: 40px;
   border-radius: 50%;
   background: transparent;
-  border: 1px solid #fff;
+  border: 1px solid grey;
   text-align: center;
   transition: .2s ease;
   display: inline-block;
@@ -2357,7 +2357,7 @@ blockquote{
 
 .social-icon-outline i {
   line-height: 40px;
-  color: #fff;
+  color: grey;
   font-size: 14px;
 }
 
@@ -2365,7 +2365,7 @@ blockquote{
   border-color: #ef476f;
 }
 
-/* 25.2 footer link */
+/* 25.2  link */
 .footer-links {
   padding-left: 18px;
 }
@@ -2383,11 +2383,11 @@ blockquote{
   left: -20px;
   height: 12px;
   width: auto;
-  color: #fff;
+  color: grey;
 }
 
 .footer-links li a {
-  color: #fff;
+  color: grey;
   font-family: "Open Sans", sans-serif;
   font-size: 14px;
   transition: .2s ease;

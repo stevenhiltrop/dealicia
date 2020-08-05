@@ -285,7 +285,14 @@ link = "https://www.pinterest.es/dealicia_cafe/"
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UCNxq6F5v3u2R06gFaQfmoBg/"
 
+# opening hours
+[[params.footer.openingHour]]
+day = "Lunes-Sábado"
+time = "08.30-14.30"
 
+[[params.footer.openingHour]]
+day = "Domingo"
+time = "Cerrado"
 
 
 [Languages]
@@ -322,6 +329,11 @@ link = "https://www.youtube.com/channel/UCNxq6F5v3u2R06gFaQfmoBg/"
   # footer
   [Languages.es.params.footer]
   content = "Repostería artesanal a partir de recetas tradicionales y exclusivas."
+  address = "C.C. El Pilar, Local 9. Ctra. Nacional 340, 29680 Estepona (Málaga). España"
+  day = "Lunes-Sábado"
+  time = "08.30-14.30"
+  day2 = "Domingo"
+  time2 = "Cerrado"
 
   # subscribe
   subscribe = "Suscribete"
