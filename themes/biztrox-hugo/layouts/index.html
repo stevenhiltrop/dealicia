@@ -46,7 +46,7 @@
 		</div>
 		{{ "<!-- work slider -->" | safeHTML }}
 		<div class="row work-slider">
-			{{ range $index, $element:= where .Site.RegularPages "Type" "product"}}
+			{{ range $index, $element:= where .Site.RegularPages.Reverse "Type" "product"}}
 			{{ .Render "product" }}
 			{{ end }}
 		</div>
