@@ -341,3 +341,10 @@ time = "Cerrado"
 
   # copyright
   copyright = "Copyright &copy; 2020 d'Alicia • web creada por [normal](https://normalmedia.com)"
+
+  [[languages.es.params.footer.openingHour]]
+    day = "Monday-Saturday"
+    time = "08.30-14.30"
+  [[languages.es.params.footer.openingHour]]
+    day = "Sunday"
+    time = "Closed"
