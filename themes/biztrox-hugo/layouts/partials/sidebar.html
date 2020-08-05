@@ -20,7 +20,7 @@
 
 		{{ "<!-- Widget Recent Post -->" | safeHTML }}
 		<div class="mb-50">
-			<h4 class="mb-3">Recent News</h4>
+			<h4 class="mb-3">El blog d'Alicia</h4>
 			{{ range first 3 (where .Site.Pages "Type" "post") }}
 			{{ "<!-- post -->" | safeHTML }}
 			<div class="d-flex py-3 border-bottom">
@@ -39,7 +39,7 @@
 			{{ end }}
 		</div>
 		{{ "<!-- tags -->" | safeHTML }}
-		<div class="mb-50">
+<!--		<div class="mb-50">
 			<h4 class="mb-3">Tags</h4>
 			{{- if isset .Site.Taxonomies "tags" }}
 			{{- if not (eq (len .Site.Taxonomies.tags) 0) }}
@@ -51,11 +51,11 @@
 			</ul>
 			{{- end }}
 			{{- end }}
-		</div>
+		</div> -->
 
 		{{ "<!-- Widget Newsletter -->" | safeHTML }}
 		<div class="newsletter">
-			<h4 class="mb-3">Stay Updated</h4>
+			<h4 class="mb-3">Suscríbete!</h4>
 			<div id="mc_embed_signup">
 				<form action="{{ .Site.Params.mailchimp_form_action }}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank"
 				novalidate>

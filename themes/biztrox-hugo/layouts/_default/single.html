@@ -13,10 +13,10 @@
             <h3>{{ .Title | markdownify }}</h3>
             <ul class="list-inline d-block pb-4 border-bottom mb-3">
               <li class="list-inline-item text-color">{{ i18n "posted_by" }} <a class="text-primary" href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}">{{ .Params.Author | title }}</a></li>
-              <li class="list-inline-item text-color">On {{ .PublishDate.Format "02 Jan" }}</li>
-              <li class="list-inline-item text-color">Category:
-                {{ range .Params.Categories }}
-                <a class="text-primary" href="{{ `categories/` | relLangURL }}{{ . | lower }}"> {{ . | humanize }}</a>
+              <li class="list-inline-item text-color">| {{ .PublishDate.Format "02.01.2006" }}</li>
+              <li class="list-inline-item text-color">Temas:
+                {{ range .Params.Temas }}
+                <a class="text-primary" href="{{ `temas/` | relLangURL }}{{ . | lower }}"> {{ . | humanize }}</a>
                 {{ end }}
                 {{ range .Params.Pgroups }}
                 <a class="text-primary" href="{{ `pgroups/` | relLangURL }}{{ . | lower }}"> {{ . | humanize }}</a>
