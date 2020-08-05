@@ -252,19 +252,19 @@ link = "https://examplesite.com"
 ########################### social icon #####################################
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+link = "https://www.facebook.com/dealicia.cafe/"
 
 [[params.social]]
-icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.instagram.com/dealicia_cafe/"
 
 [[params.social]]
-icon = "ti-vimeo-alt" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+icon = "ti-pinterest" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.pinterest.es/dealicia_cafe/"
 
 [[params.social]]
-icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
-link = "#"
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.youtube.com/channel/UCNxq6F5v3u2R06gFaQfmoBg/"
 
 
 
