@@ -199,10 +199,13 @@ preloader = "images/preloader.gif"
 icon = "ti-mobile"
 
   [[params.contacts.contact]]
-  contact_item = "+88 0123 456 789"
+  contact_item = "952 92 71 99 - El Pilar"
 
   [[params.contacts.contact]]
-  contact_item = "+88 987 654 3210"
+  contact_item = "952 88 56 51 - Guadalmina"
+
+  [[params.contacts.contact]]
+  contact_item = "956 79 67 79 - Sotogrande"
 
 [[params.contacts]]
 icon = "ti-email"
@@ -212,13 +215,29 @@ icon = "ti-email"
 
 [[params.contacts]]
 icon = "ti-map-alt"
+title = "El Pilar"
 
   [[params.contacts.contact]]
-  contact_item = "24/B Garden Street. <br> Northambia, Weals, UK"
+  contact_item = "C.C. El Pilar, Local 9, Urb. El Pilar, KM. 168. Ctra. Nacional 340, Estepona, 29680, Málaga"
+
+[[params.contacts]]
+icon = "ti-map-alt"
+title = "Guadalmina"
+
+  [[params.contacts.contact]]
+  contact_item = "C.C. Guadalmina, Edif. 1, Local 4, San Pedro de Alcántara, 29680, Málaga"
+
+[[params.contacts]]
+icon = "ti-map-alt"
+title = "Sotogrande"
+
+  [[params.contacts.contact]]
+  contact_item = "C.C. Sotomarket, Local 6, Autopista A7, KM 130. Sotogrande, 11310, Cádiz"
+
 
 ############################ google map #####################################
 [params.gmap]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
