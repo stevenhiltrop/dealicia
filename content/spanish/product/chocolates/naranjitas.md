@@ -31,7 +31,7 @@ price: "5.60"
 priceBefore: ""
 
 # categories
-category: "Mermeladas, Chocolates"
+category: "Chocolates"
 
 # weight
 productWeight : "250g"
