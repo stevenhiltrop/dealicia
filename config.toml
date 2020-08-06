@@ -215,17 +215,17 @@ icon = "ti-email"
 
 [[params.contacts]]
 icon = "ti-map-alt"
-title = "El Pilar"
-
-  [[params.contacts.contact]]
-  contact_item = "C.C. El Pilar, Local 9, Urb. El Pilar, KM. 168. Ctra. Nacional 340, Estepona, 29680, Málaga"
-
-[[params.contacts]]
-icon = "ti-map-alt"
 title = "Guadalmina"
 
   [[params.contacts.contact]]
   contact_item = "C.C. Guadalmina, Edif. 1, Local 4, San Pedro de Alcántara, 29680, Málaga"
+
+[[params.contacts]]
+icon = "ti-map-alt"
+title = "El Pilar"
+
+  [[params.contacts.contact]]
+  contact_item = "C.C. El Pilar, Local 9, Urb. El Pilar, KM. 168. Ctra. Nacional 340, Estepona, 29680, Málaga"
 
 [[params.contacts]]
 icon = "ti-map-alt"
