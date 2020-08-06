@@ -478,7 +478,7 @@ button {
   font-family: "Poppins", sans-serif;
   font-weight: 600;
   font-size: 12px;
-  margin: 0 10px;
+  margin: 0 5px 0 10px;
 }
 
 .breadcrumb a {
@@ -488,7 +488,7 @@ button {
 .breadcrumb a::before {
   position: absolute;
   content: '/';
-  right: -17px;
+  right: -22px;
   top: 2px;
   height: 12px;
 }
@@ -598,6 +598,7 @@ button {
 
 .bg-primary {
   background-color: #eee !important;
+  border-top: solid 1px #d7d7d7;
 }
 
 .bg-secondary {
@@ -650,6 +651,10 @@ button {
 
 .font-secondary {
   font-family: "Open Sans", sans-serif;
+}
+
+a.font-secondary {
+  color: #666;
 }
 
 .mb-10 {
@@ -2437,10 +2442,10 @@ blockquote{
   width: 50px;
   border-radius: 50%;
   color: #fff;
-  background: #303032;
+  background: #999;
   top: -25px;
   right: 10px;
-  border: 1px solid #454547;
+  border: 1px solid #999;
   text-align: center;
   display: block;
   transition: .2s ease;
