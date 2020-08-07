@@ -3,6 +3,19 @@ slider:
   enable : true
   slider_Item:
     # slider item loop
+    - bg_image : images/banner/banner-2.jpg
+      animation_from : up
+      subtitle : Nutritivas
+      title : Mantequillas
+      content : de almendras, cacahuete y anacardos hechas con un solo ingrediente
+      pagination_icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
+      pagination_name : Mantequillas
+      button:
+        enable : true
+        label: Detalles
+        link : "product/mantequillas"
+
+    # slider item loop
     - bg_image : images/banner/banner-1.jpg
       animation_from : left
       subtitle : Naturales
@@ -15,19 +28,6 @@ slider:
         enable : true
         label: Detalles
         link : "product/mermeladas"
-
-    # slider item loop
-    - bg_image : images/banner/banner-2.jpg
-      animation_from : up
-      subtitle : Nutritivas
-      title : Mantequillas
-      content : de almendras, cacahuete y anacardos hechas con un solo ingrediente
-      pagination_icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
-      pagination_name : Mantequillas
-      button:
-        enable : true
-        label: Detalles
-        link : "product/mantequillas"
 
     # slider item loop
     - bg_image : images/banner/banner-3.jpg
@@ -53,7 +53,7 @@ slider:
       button:
         enable : true
         label: Detalles
-        link : "about"
+        link : "product/saludables"
 
     # slider item loop
     - bg_image : images/banner/tartas.jpg
