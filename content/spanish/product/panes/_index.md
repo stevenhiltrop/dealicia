@@ -62,7 +62,7 @@ Hoy en día existe un amplio abanico de panes: de centeno, integral, blanco, foc
 
 ### Recetas
 - Italia: Pan estilo pizza
-- México: Receta para cenar
-- Pan sorpresa
+- México: [Receta para cenar](https://youtu.be/DI9VhFnoBZw)
+- [Pan sorpresa](https://youtu.be/OGZPtYwKSMM)
 - Espelta para cremas
 - Pan para fondue
