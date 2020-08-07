@@ -17,6 +17,8 @@
         {{ range .Data.Pages }}
         {{ .Render "product" }}
         {{ end }}
+
+        <img src=“{{ .Params.Image2 | absURL }}”>
       </div>
     </div>
   </div>
