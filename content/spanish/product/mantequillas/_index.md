@@ -39,15 +39,12 @@ Recuerda que todas las mantequillas vegetales pueden ser sustituidas por la mant
 #### Recetas con las mantequillas
 
 **Desayuno o merienda “Dulce almendras d’Alicia”**
-
 Pan tostado con mantequilla de almendras y mermeladas roja ya sea fresas, frambuesas o cerezas (Se recomienda con mermelada roja pues la combinación es más exquisita)
 
 **Desayuno o merienda “Power d’Alicia”**
-
 Pan tostado con mantequilla de cacahuete sin sal y rodajas de plátano también se puede poner pepitas de chocolate negro.
 
 **Crema de calabacín**
-
 Poner un poco de cebolla y ajo a sofreír con aceite de oliva
 Una vez sofrito incorporamos el calabacín en rodajas grandes
 Lo dejamos sofreír unos dos minutos con la cebolla y ajo
@@ -61,3 +58,7 @@ El toque de mantequilla de almendras lo notarás en el paladar, si te ha gustado
 Snack
 Untar la mantequilla de almendras o cacahuete en una tostadita de maíz
 Dejar como dipp la mantequilla para consumir con tiras de pepino o zanahoria.
+
+**Snack**
+- Untar la mantequilla de almendras o cacahuete en una tostadita de maíz
+- Dejar como dipp la mantequilla para consumir con tiras de pepino o zanahoria
