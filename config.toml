@@ -199,10 +199,10 @@ preloader = "images/preloader.gif"
 icon = "ti-mobile"
 
   [[params.contacts.contact]]
-  contact_item = "952 92 71 99 - El Pilar"
+  contact_item = "952 88 56 51 - Guadalmina"
 
   [[params.contacts.contact]]
-  contact_item = "952 88 56 51 - Guadalmina"
+  contact_item = "952 92 71 99 - El Pilar"
 
   [[params.contacts.contact]]
   contact_item = "956 79 67 79 - Sotogrande"

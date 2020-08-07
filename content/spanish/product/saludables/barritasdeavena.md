@@ -3,7 +3,7 @@ title: "Barritas de Avena"
 date: 2020-05-25T13:39:07+06:00
 draft: false
 type: product
-category: "Galletas Dulces"
+category: "Saludables"
 # product Dets
 price: "3.00"
 priceBefore: ""

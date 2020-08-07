@@ -1,9 +1,9 @@
 ---
 title: "Panes"
 date: 2018-07-12T18:19:33+06:00
-bg_image: images/background/page-title.jpg
+bg_image: images/product/headers/panes.jpg
 description : "This is meta description"
-image : "images/product/thumbs/chocolates-brownie.jpg"
+image : "images/product/thumbs/panes.jpg"
 ---
 
 ## Panes
@@ -62,7 +62,7 @@ Hoy en día existe un amplio abanico de panes: de centeno, integral, blanco, foc
 
 ### Recetas
 - Italia: Pan estilo pizza
-- México: Receta para cenar
-- Pan sorpresa
+- México: [Receta para cenar](https://youtu.be/DI9VhFnoBZw)
+- [Pan sorpresa](https://youtu.be/OGZPtYwKSMM)
 - Espelta para cremas
 - Pan para fondue

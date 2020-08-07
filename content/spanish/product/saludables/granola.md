@@ -7,7 +7,7 @@ type: product
 # Overview
 overview:
   - label : Categoría
-    data : Granola
+    data : Saludable
 
   - label : Precio
     data : 5.60€
@@ -28,7 +28,7 @@ price: "5.60"
 priceBefore: ""
 
 # categories
-category: "Granola"
+category: "Saludables"
 
 # weight
 productWeight : "100g"

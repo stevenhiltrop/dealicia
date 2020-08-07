@@ -16,7 +16,7 @@ overview:
     data : 3.60€
 
 # meta description
-description : "Todas las mermeladas y confituras disponibles en d´Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano. Utilizamos un mínimo de 60% de fruta, azúcar y pectina de manzana. Conseguimos una confitura menos dulce y mas aromática. Utilizamos un mínimo de 60% de fruta, azúcar y pectina de manzana. La combinación de Frambuesas con Ruibarbo es típica de Bélgica."
+description : "Todas las mermeladas y confituras disponibles en d'Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano. Utilizamos un mínimo de 60% de fruta, azúcar y pectina de manzana. Conseguimos una confitura menos dulce y mas aromática. Utilizamos un mínimo de 60% de fruta, azúcar y pectina de manzana. La combinación de Frambuesas con Ruibarbo es típica de Bélgica."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
 image : "images/product/thumbs/mermelada-frutasdelbosque.jpg"
@@ -43,6 +43,6 @@ stock: si
 ![Mermelada de Frutas del Bosque](/images/product/mermelada-frutasdelbosque.jpg "Mermelada de Frutas del Bosque")
 
 Mermelada de un surtido de Frambuesas, cerezas, Moras y Grosellas
-Todas las mermeladas y confituras disponibles en d´Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano. Utilizamos un mínimo de 60% de fruta, azúcar y pectina de manzana. Conseguimos una confitura menos dulce y mas aromática.
+Todas las mermeladas y confituras disponibles en d'Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano. Utilizamos un mínimo de 60% de fruta, azúcar y pectina de manzana. Conseguimos una confitura menos dulce y mas aromática.
 
 Utilizamos un mínimo de 60% de fruta, azúcar y pectina de manzana. La combinación de Frambuesas con Ruibarbo es típica de Bélgica.

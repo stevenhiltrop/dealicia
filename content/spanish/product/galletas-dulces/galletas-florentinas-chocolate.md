@@ -48,7 +48,7 @@ stock: si
 ---
 ![Florentinas de Chocolate](/images/product/florentina-chocolate.jpg "Florentinas de Chocolate")
 
-Galletas Florentinas están caramelizadas y bañadas con chocolate. Esta receta fue creada en Florencia, bajo la influencia de la pastelería del imperio Austro – Húngaro. En d´Alicia hemos recuperado y adaptado la receta de estas galletas florentinas, utilizando almendras malagueñas y formando unos discos extremadamente finos, que bañados en chocolate con leche, blanco y chocolate negro dan como resultado unas Florentinas únicas e irresistibles.
+Galletas Florentinas están caramelizadas y bañadas con chocolate. Esta receta fue creada en Florencia, bajo la influencia de la pastelería del imperio Austro – Húngaro. En d'Alicia hemos recuperado y adaptado la receta de estas galletas florentinas, utilizando almendras malagueñas y formando unos discos extremadamente finos, que bañados en chocolate con leche, blanco y chocolate negro dan como resultado unas Florentinas únicas e irresistibles.
 
 Disponibles en época de chocolate (Invierno)
 
