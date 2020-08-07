@@ -15,10 +15,12 @@
       </div>
       <div class="row img-fluid col-lg-6">
         {{ range .Data.Pages }}
-       {{ .Render "product" }} 
+        {{ .Render "product" }}
         {{ end }}
 
+        {{ if .Params.Image2 }}
         <img src=" {{ .Params.Image2 | absURL }} ">
+        {{ end }}
       </div>
     </div>
   </div>
