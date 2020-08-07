@@ -8,14 +8,14 @@
 <section class="section">
   <div class="container">
     <div class="row">
-      <div class="col-lg-6" style="padding-right: 40px;">
+      <div class="col-lg-6">
         <div class="post-content mb-5">
           {{ .Content }}
         </div>
       </div>
-      <div class="row filtr-container col-lg-6">
+      <div class="row img-fluid col-lg-6">
         {{ range .Data.Pages }}
-        {{ .Render "product" }}
+       {{ .Render "product" }} 
         {{ end }}
 
         <img src=" {{ .Params.Image2 | absURL }} ">
