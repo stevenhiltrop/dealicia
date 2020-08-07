@@ -42,4 +42,4 @@ stock: si
 ---
 ![Chutney de Mango](/images/product/mermelada-chutney-mango.jpg "Chutney de Mango")
 
-Todas las mermeladas y confituras disponibles en d´Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano.
+Todas las mermeladas y confituras disponibles en d'Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano.

@@ -13,7 +13,7 @@ overview:
     data : 2.75€
 
 # meta description
-description : "Receta exclusiva d´Alicia de tarta de chocolate con leche rellena de dulce de leche."
+description : "Receta exclusiva d'Alicia de tarta de chocolate con leche rellena de dulce de leche."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
 image : "images/product/thumbs/postres-tartaletas-dulce-de-leche-chocolate.jpg"
@@ -36,4 +36,4 @@ stock: si
 ---
 ![Tartaletas de Dulce de Leche y Chocolate](/images/product/postres-tartaletas-dulce-de-leche-chocolate.jpg "Tartaletas de Dulce de Leche y Chocolate")
 
-Receta exclusiva d´Alicia de tarta de chocolate con leche rellena de dulce de leche. Desarrollada por y para golosos: Tartaleta de crujiente pasta quebrada de almendra rellena de dulce de leche y Ganache de chocolate con leche.
+Receta exclusiva d'Alicia de tarta de chocolate con leche rellena de dulce de leche. Desarrollada por y para golosos: Tartaleta de crujiente pasta quebrada de almendra rellena de dulce de leche y Ganache de chocolate con leche.
