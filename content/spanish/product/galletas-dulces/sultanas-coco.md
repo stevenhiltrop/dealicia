@@ -31,7 +31,7 @@ price: "0.70"
 priceBefore: ""
 
 # categories
-category: "De temporada"
+category: "Galletas Dulces"
 
 # weight
 productWeight : "100g"
