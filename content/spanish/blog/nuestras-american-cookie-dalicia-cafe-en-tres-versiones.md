@@ -12,15 +12,25 @@ type: post
 images:
 - "images/blog/americanCookie_chocolate_dealicia_cafe.jpg"
 ---
-#### Cuando los errores son un acierto como es el caso del brownie
+Si pudieran oler ahora mismo, este intenso sabor a chocolate, combinado con mantequilla o coco con chocolate … mmm … no podrían resistir a probarlas! Para todos los gustos, crujientes o calientes blanditas acompañadas con helado de vainilla en sus tres versiones: American Cookie de chocolate, american cookie de coco o para los más caprichosos american cookie triple chocolate y nueces!
 
-¿Cual es el origen del brownie? ¿Sabías que fue un error culinario? Sí, el cocinero olvido poner levadura al pastel de chocolate que estaba haciendo, así fue como quedó un pastel crujiente por fuera y jugosamente tierno por dentro, su nombre se denomino brownie por su color marrón oscuro. El brownie es típico de la gastronomía de Estados Unidos.
+#### Galletas American Choc Chip Cookies
+Estas galletas gigantes se toman en los EUA calentitas con un poco de helado y a veces, salsa de chocolate caliente. Calentando la galleta unos segundos en microondas se vuelve tierna como un Brownie. También están muy ricas tomadas como una galleta, resultando crujiente y rica en sabores por la almendra y los trocitos de chocolate negro.
 
-Nuestro brownie d’Alicia Cafe es un tierno pastel de chocolate 70% cacao de Callebaut, en sus dos versiones, brownie de chocolate con nueces y brownies de doble chocolate.
+![](/images/product/galletas-american-cookie.jpg)
+
+#### Galletas American Cookies Triple Chocolate Y Nueces
+Es el cookie para los amantes del chocolate: trocitos de chocolate recubiertos de cookie de cacao. Se puede comer como galleta o calentándola unos segundos en el microondas para que adquiera consistencia de Brownie.
+
+![](/images/product/galletas-american-cookie-triple-chocolate-nueces.jpg)
+
+#### Galletas American Cookie De Coco Y Chocolate Con Leche
+Deliciosa combinación de coco y chocolate con leche en una galleta.
+
+![](/images/product/galletas-american-cookie-coco-chocolate.jpg)
 
 
-Es recomendable consumir a temperatura ambiente aunque la mejor opción es templado con helado de vainilla y salsa de chocolate o también se puede acompañar con nata y frutas del bosque o fresas.
 
-Aqui te dejamos algunos videos de postres a los que puedes añadir brownie.
+Una excelente opción para compartir con vuestros invitados, en una cena, comida o merienda.
 
-[Postres con merengue](https://youtu.be/qBgYMTsxRZI?list=PLyZCLKhIQzn03ClplgAVD9c089unqiUuQ) y helado y [aquí otro postre](https://youtu.be/0UJSiZnY-SI?list=PLyZCLKhIQzn03ClplgAVD9c089unqiUuQ) que puedes añadir brownie.
+Un souvenir o regalo perfecto para dar en los cumpleaños, bautizos o comuniones de los peques. Libre de químicos  y conservantes artificiales.
