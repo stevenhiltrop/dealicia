@@ -4,7 +4,7 @@
     <img class="img-fluid w-100" src="{{ .Params.Image | absURL }}" alt="product-image">
     <div class="product-info">
       <a href="{{ .Permalink }}" class="h4 smallprod">{{ .Title }}</a>
-      <p>{{ .Params.price | humanize }}€</p>
+      <p>{{ if .Params.price}}{{ .Params.price | humanize }}€{{ end }}</p>
     </div>
   </div>
 </div>
