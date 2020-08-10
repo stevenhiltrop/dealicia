@@ -7,13 +7,14 @@
 {{ "<!-- product -->" | safeHTML }}
 <section class="section">
   <div class="container">
-    <div class="row">
+    <div class="row align-items-start">
       <div class="col-lg-6">
         <div class="post-content mb-5">
           {{ .Content }}
         </div>
       </div>
-      <div class="row position-relative col-lg-6" style="height: 0;">
+      <div class="row  col-lg-6">
+
           {{ range .Data.Pages }}
           {{ .Render "product" }}
           {{ end }}
