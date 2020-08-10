@@ -7,17 +7,15 @@ philosophy:
 
   Los años han transcurrido deprisa y hoy en día contamos ya con 4 locales que se han extendido hasta zonas tan emblemáticas como **Sotogrande** en centro comercial Sotomarket y también estamos en el municipio de **Estepona** en el centro comercial El Pilar, ademas de continuar en **Guadalmina** en el municipio de San Pedro de Alcántara en el centro comercial Guadalmina Alta, donde los clientes pueden degustar nuestras **«delicias y caprichos»** que siguen contando con la misma calidad y sabor."
 
-  image : images/about/philosophy.jpg
+  image : images/about/de-alicia-cafe-el-pilar-estepona-02.jpg
 
 onlineshop:
   enable : true
-  subtitle : 
+  subtitle :
   title : Nuestra Tienda Online
-  content : "Además desde hace tan solo un par de años, se trata de los nuevos helados artesanos que nuestros clientes pueden disfrutar durante las épocas estivales en nuestros locales, incluso las galletas, tulipas o conos están hechos artesanalmente a base de mantequilla natural y vainilla natural.\n
+  content : "xNuestra última aventura es expandirnos nuestro negocio a internet, hemos querido tratar esta nueva tienda on-line de repostería con el mismo cariño y devoción como a cualquiera nuestros establecimientos, contando con la inestimable colaboración de una empresa especializada en este tipo de negocios on-line y que gracias a sus sus 15 años de experiencia en este sector contamos nos ha desarrollado un comercio o tienda on-line segura, funcional y que cumple con todas las normas de usabilidad y optimización actuales."
 
-Nuestra última aventura es expandirnos nuestro negocio a internet, hemos querido tratar esta nueva tienda on-line de repostería con el mismo cariño y devoción como a cualquiera nuestros establecimientos, contando con la inestimable colaboración de una empresa especializada en este tipo de negocios on-line y que gracias a sus sus 15 años de experiencia en este sector contamos nos ha desarrollado un comercio o tienda on-line segura, funcional y que cumple con todas las normas de usabilidad y optimización actuales."
-
-  image : images/about/philosophy.jpg
+  image : images/about/dalicia_healthy.jpg
 
 ###################################### ceo ########################################
 ceo:
@@ -36,7 +34,7 @@ mission:
 
 ###################################### funfacts ####################################
 funfacts:
-  enable : true
+  enable : false
   bg_image : images/background/cta.jpg
   counter:
     - title : Productos Done
