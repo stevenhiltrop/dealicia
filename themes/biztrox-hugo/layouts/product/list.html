@@ -13,14 +13,14 @@
           {{ .Content }}
         </div>
       </div>
-      <div class="row img-fluid col-lg-6">
-        {{ range .Data.Pages }}
-        {{ .Render "product" }}
-        {{ end }}
+      <div class="row position-relative col-lg-6" style="height: 0;">
+          {{ range .Data.Pages }}
+          {{ .Render "product" }}
+          {{ end }}
 
-        {{ if .Params.Image2 }}
-        <img src=" {{ .Params.Image2 | absURL }} ">
-        {{ end }}
+          {{ if .Params.Image2 }}
+          <img src=" {{ .Params.Image2 | absURL }} ">
+          {{ end }}
       </div>
     </div>
   </div>
