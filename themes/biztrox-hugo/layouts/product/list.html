@@ -19,6 +19,7 @@
           {{ .Render "product" }}
           {{ end }}
 
+          <!-- Image for zones that don't have products -->
           {{ if .Params.Image2 }}
           <img src=" {{ .Params.Image2 | absURL }} ">
           {{ end }}
