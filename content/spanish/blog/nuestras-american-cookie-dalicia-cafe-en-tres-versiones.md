@@ -5,7 +5,7 @@ date: 2017-03-25T11:07:10+06:00
 description : "This is meta description"
 author: Yareri Aguilar
 image: images/blog/americanCookie_chocolate_dealicia_cafe.jpg
-temas: ["Postres"]
+temas: ["Viaja a través de la gastronomía"]
 tags: ["Brownie"]
 type: post
 

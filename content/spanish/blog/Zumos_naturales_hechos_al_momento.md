@@ -5,8 +5,8 @@ date: 2019-08-30T11:07:10+06:00
 description : "This is meta description"
 author: Yareri Aguilar
 image: images/blog/zumosnaturales_dealicia_cafe_estepona_guadalmina_sotogrande.jpeg
-temas: ["Zumos"]
-tags: ["Granola"]
+temas: ["Desayunos"]
+tags: ["Zumos"]
 type: post
 
 images:

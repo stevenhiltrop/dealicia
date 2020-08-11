@@ -5,7 +5,7 @@ date: 2018-10-25T11:11:24+06:00
 description: "Pan de muerto ¿Alguna vez habías escuchado sobre este pan?"
 author: Yareri Aguilar
 image: images/blog/Pan-muerto.png
-temas: ["Cultura"]
+temas: ["Viaja a través de la gastronomía"]
 tags: ["pan"]
 type: post
 ---

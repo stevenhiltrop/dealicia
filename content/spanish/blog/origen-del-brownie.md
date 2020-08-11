@@ -5,7 +5,7 @@ date: 2016-11-26T11:07:10+06:00
 description : "This is meta description"
 author: Yareri Aguilar
 image: images/blog/banner_brownie.jpg
-temas: ["Postres"]
+temas: ["Viaja a través de la gastronomía"]
 tags: ["Brownie"]
 type: post
 
