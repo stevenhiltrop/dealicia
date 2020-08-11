@@ -22,6 +22,8 @@
   translation: Contáctanos
 - id: contact_form
   translation: Formulario de Contacto
+- id: cake_form
+  translation: Formulario de Tartas
 - id: submit
   translation: Submit
 - id: buy_now
