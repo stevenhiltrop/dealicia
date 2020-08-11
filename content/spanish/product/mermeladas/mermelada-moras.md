@@ -13,7 +13,7 @@ overview:
     data : "250g"
 
   - label : Precio
-    data : 3.60€
+    data : 3.95€
 
 # meta description
 description : "Mermelada de naranja amarga de Málaga. Todas las mermeladas y confituras disponibles en d'Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano. Utilizamos un mínimo de 50% de naranjas enteras, azúcar y pectina de manzana."
@@ -27,7 +27,7 @@ images:
   - "images/product/mermelada-moras.jpg"
 
 # product Price
-price: "3.60"
+price: "3.95"
 priceBefore: ""
 
 # categories

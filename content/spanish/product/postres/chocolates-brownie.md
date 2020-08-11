@@ -11,10 +11,10 @@ overview:
     data : Brownie
 
   - label : Peso
-    data : "600g"
+    data : "400g"
 
   - label : Precio
-    data : 9.68€
+    data : 10.50€
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
 image : "images/product/thumbs/chocolates-brownie.jpg"
@@ -25,7 +25,7 @@ images:
   - "images/product/chocolates-brownie.jpg"
 
 # product Price
-price: "9.68"
+price: "10.50"
 priceBefore: ""
 
 # categories

@@ -13,7 +13,7 @@ overview:
     data : "250g"
 
   - label : Precio
-    data : 3.60€
+    data : 3.95€
 
 # meta description
 description : "Todas las mermeladas y confituras disponibles en d'Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano. Utilizamos un mínimo de 60% de higos con un poco de zumo y cascara de naranja, azúcar y pectina de manzana. Conseguimos una confitura menos dulce y mas aromática."
@@ -27,7 +27,7 @@ images:
   - "images/product/mermelada-higos-naranja.jpg"
 
 # product Price
-price: "3.60"
+price: "3.95"
 priceBefore: ""
 
 # categories

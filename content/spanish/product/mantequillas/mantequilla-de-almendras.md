@@ -10,7 +10,7 @@ overview:
     data : Mantequillas de Frutos Secos
 
   - label : Precio
-    data : 5.95€
+    data : 6.50€
 
 # meta description
 description : "Mantequilla de almendras naturales tostadas, sin conservantes. De producción limitada. Ideal para consumir en el desayuno o merienda. Su elaboración permite beneficiarse de todas las propiedades de la almendra."
@@ -24,7 +24,7 @@ images:
   - "images/product/mantequillas-frutos-secos.jpg"
 
 # product Price
-price: "5.95"
+price: "6.50"
 priceBefore: ""
 
 # categories

@@ -10,7 +10,7 @@ overview:
     data : Mantequillas de Frutos Secos
 
   - label : Precio
-    data : 2.50€
+    data : 2.75€
 
 # meta description
 description : "Mantequilla de cacahuete tostado sin sal. Hecho solo con cacahuetes tostados. Hecha con un proceso natural que conserva todas sus propiedades integras."
@@ -24,7 +24,7 @@ images:
   - "images/product/mantequillas-frutos-secos.jpg"
 
 # product Price
-price: "2.50"
+price: "2.75"
 priceBefore: ""
 
 # categories

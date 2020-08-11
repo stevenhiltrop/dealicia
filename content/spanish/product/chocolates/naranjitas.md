@@ -13,7 +13,7 @@ overview:
     data : "250g"
 
   - label : Precio
-    data : 3.60€
+    data : 3.95€
 
 # meta description
 description : "Las naranjitas son una de nuestras especialidades. Elaboramos nuestras naranjitas siguiendo un proceso exclusivo y 100% manual. "

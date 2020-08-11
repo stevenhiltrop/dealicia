@@ -13,7 +13,7 @@ overview:
     data : "100g"
 
   - label : Precio
-    data : 3.40€
+    data : 3.95€
 
 # meta description
 description : "Sablé de gouda con comino"
@@ -27,7 +27,7 @@ images:
   - "images/product/sable-gouda-comino.jpg"
 
 # product Price
-price: "3.40"
+price: "3.95"
 priceBefore: ""
 
 # categories

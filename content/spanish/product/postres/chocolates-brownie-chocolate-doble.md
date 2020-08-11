@@ -13,10 +13,10 @@ overview:
     data : Brownie
 
   - label : Peso
-    data : "600g"
+    data : "400g"
 
   - label : Precio
-    data : 9.68€
+    data : 10.50€
 
 # type
 type : product
@@ -25,11 +25,11 @@ type : product
 image : "images/product/chocolates-brownie-doble.jpg"
 
 # product Price
-price: "9.68"
+price: "10.50"
 priceBefore: ""
 
 # weight
-productWeight : "600g"
+productWeight : "400g"
 
 # in stock? (accepts true/false | yes/no | si/no | 1/0)
 stock: yes

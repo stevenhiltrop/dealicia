@@ -13,7 +13,7 @@ overview:
     data : "100g"
 
   - label : Precio
-    data : 3.40€
+    data : 4.10€
 
 # meta description
 description : "Clásico palito de rico hojaldre de mantequilla con Gruyère Suizo, realzado con un toque de sal y pimienta. Ideales para aperitivos o como acompañamiento de cremas de verduras."
@@ -27,7 +27,7 @@ images:
   - "images/product/galletas-palitos-gruyere.jpg"
 
 # product Price
-price: "3.40"
+price: "4.10"
 priceBefore: ""
 
 # categories

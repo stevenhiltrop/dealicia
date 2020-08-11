@@ -5,7 +5,7 @@ draft: false
 type: product
 category: "Saludables"
 # product Dets
-price: "3.00"
+price: "3.30"
 priceBefore: ""
 productWeight : "100g"
 # in stock? (accepts true/false | yes/no | si/no | 1/0)
@@ -29,7 +29,7 @@ overview:
     data : "2 por paquete"
 
   - label : Precio
-    data : 3.00€
+    data : 3.30€
 
 ---
 ![Barritas de Avena](/images/product/BarritasDeAvena.jpeg "Barritas de Avena")

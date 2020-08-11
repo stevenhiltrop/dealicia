@@ -13,7 +13,7 @@ overview:
     data : "100g"
 
   - label : Precio
-    data : 3.40€
+    data : 4.10€
 
 # meta description
 description : "Galletitas suaves de queso Emmental"
@@ -27,7 +27,7 @@ images:
   - "images/product/galletas-sable-emmental.jpg"
 
 # product Price
-price: "3.40"
+price: "4.10"
 priceBefore: ""
 
 # categories
