@@ -5,7 +5,7 @@ date: 2019-07-28T11:11:24+06:00
 description : "This is meta description"
 author: Yareri Aguilar
 image: images/blog/banner_MesaSalada.jpg
-temas: ["Mesa Salada"]
+temas: ["Monta tu Mesa"]
 tags: ["quiches","galletas","tartas","brioche","sandwiches"]
 type: post
 ---

@@ -5,7 +5,7 @@ date: 2019-03-02T11:11:24+06:00
 description: "Aprender de la gastronomía de otras culturas en las vacaciones con niños"
 author: Yareri Aguilar
 image: images/blog/dealicia-desayuno.jpg
-temas: ["Cultura"]
+temas: ["Viaja a través de la gastronomía"]
 tags: ["niños"]
 type: post
 ---
