@@ -23,11 +23,11 @@ En nuestras tiendas en Guadalmina, Estepona y Sotogrande encontrarás:
 - helados
 
 En nuestras tienda online  encontrarás:
-1. barritas de avena
+1. [barritas de avena](/product/saludables/barritasdeavena)
 2. chocolates (solo en temporada invierno)
-3. granola
-4. galletas dulces
-5. galletas saladas
-6. financier
-7. mermeladas
-8. mantequillas de frutos secos
+3. [granola](/product/saludables/granola)
+4. [galletas dulces](/product/galletas-dulces)
+5. [galletas saladas](/product/galletas-saladas)
+6. [financiers](/product/galletas-dulces/financiers-de-chocolate)
+7. [mermeladas](/product/mermeladas)
+8. [mantequillas de frutos secos](/product/mantequillas)
