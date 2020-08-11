@@ -18,4 +18,18 @@ Cuando estáis a punto de organizar el cumple de tu peque, os surgen miles de id
 
 El sabor se percibe con el cerebro donde cada alimento en nuestro paladar se queda grabado como una experiencia, el centro de recepción multisensorial que nos alerta del rechazo o aceptación y de ahí un buen momento o desagradable, por eso la importancia de ofrecer productos que dejen huella en todos vuestros invitados.
 
-![](/images/blog/MesaCumple_MesaDulce.jpg#img-thumbnail)
+![](/images/blog/MesaCumpleaños2_MesaDulce_dealicia_cafe.jpg#img-2)
+![](/images/blog/MesaCumpleaños3_MesaDulce_dealicia_cafe.jpg#img-2)
+
+![](/images/blog/MesaCumpleaños4_MesaDulce_dealicia_cafe.jpg#img-third)
+![](/images/blog/MesaCumpleaños5_MesaDulce_dealicia_cafe.jpg#img-third)
+![](/images/blog/MesaCumpleaños6_MesaDulce_dealicia_cafe.jpg#img-third)
+
+Para nosotros cuidar de vuestra alimentación es fundamental por eso en d’Alicia Café nos caracterizamos por brindar solo productos de alta calidad utilizando solo materia prima natural sin conservantes. Es importante encargar con tiempo vuestro pedido, ya que este necesita un proceso de elaboración para estar listo el día que lo necesitéis.
+
+A continuación mencionamos todo que necesitáis para organizar vuestra mesa de cumpleaños.
+
+#### Decoración
+
+Para decorar la mesa temática es muy sencillo, solo necesitáis un mantel, manteles individuales para dar color, algunos animales para poner de decoración, globos con los colores que más os gusten. Y diferentes platos y bandejas. Si no tienes fuentes con alturas podéis poner debajo del mantel una caja para que se quedé más alto.
+Botellas transparentes, pajitas de colores, servilletas.
