@@ -18,12 +18,12 @@ Cuando estáis a punto de organizar el cumple de tu peque, os surgen miles de id
 
 El sabor se percibe con el cerebro donde cada alimento en nuestro paladar se queda grabado como una experiencia, el centro de recepción multisensorial que nos alerta del rechazo o aceptación y de ahí un buen momento o desagradable, por eso la importancia de ofrecer productos que dejen huella en todos vuestros invitados.
 
-![](/images/blog/MesaCumpleaños2_MesaDulce_dealicia_cafe.jpg#img-2)
-![](/images/blog/MesaCumpleaños3_MesaDulce_dealicia_cafe.jpg#img-2)
+![](/images/blog/MesaCumple2_MesaDulce_dealicia_cafe.jpg#img-2)
+![](/images/blog/MesaCumple3_MesaDulce_dealicia_cafe.jpg#img-2)
 
-![](/images/blog/MesaCumpleaños4_MesaDulce_dealicia_cafe.jpg#img-third)
-![](/images/blog/MesaCumpleaños5_MesaDulce_dealicia_cafe.jpg#img-third)
-![](/images/blog/MesaCumpleaños6_MesaDulce_dealicia_cafe.jpg#img-third)
+![](/images/blog/MesaCumple4_MesaDulce_dealicia_cafe.jpg#img-third)
+![](/images/blog/MesaCumple5_MesaDulce_dealicia_cafe.jpg#img-third)
+![](/images/blog/MesaCumple6_MesaDulce_dealicia_cafe.jpg#img-third)
 
 Para nosotros cuidar de vuestra alimentación es fundamental por eso en d’Alicia Café nos caracterizamos por brindar solo productos de alta calidad utilizando solo materia prima natural sin conservantes. Es importante encargar con tiempo vuestro pedido, ya que este necesita un proceso de elaboración para estar listo el día que lo necesitéis.
 
