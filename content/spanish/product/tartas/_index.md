@@ -5,6 +5,7 @@ bg_image: images/background/page-title.jpg
 description : "This is meta description"
 image : "images/product/thumbs/tartas.jpg"
 image2 : "images/weddingcakes-dealicia.jpg"
+cakeform : yes
 ---
 
 ## Tartas
@@ -17,15 +18,11 @@ El valor de una tarta es su sabor y la presentación, en d’Alicia ofrecemos ta
 Para este tipo de tartas puedes elegir cualquier sabor de nuestra lista, para las tartas personalizadas  solo cambia la decoración y forma.  Reserva con tiempo tu tarta.
 
 Si te interesa reservar tu tarta, rellena el siguiente formulario (Ya tienes el formulario por email)
+
 Para ver más fotos de algunas tartas de boda visita nuestro perfil en [Pinterest](https://www.pinterest.es/dealicia_cafe/tartas-bodas/ "Pinterest").
 
 Echa un vistazo a nuestro video de tartas personalizadas sabor chocolate.
 
 ### Tartas personalizadas
 
-- Bodas
-- Cumpleaños
-- Bautizos
-- Comuniones
-- Aniversarios
-- Corporativas
+Bodas, Cumpleaños, Bautizos, Comuniones, Aniversarios, Corporativas.
