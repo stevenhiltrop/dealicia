@@ -63,6 +63,11 @@ img[src$='#img-third'] {
   width: auto;
 }
 
+img[src$='#img-second'] {
+  height: 273px;
+  width: auto;
+}
+
 @media (max-width: 400px) {
   h1, .h1 {
     font-size: 30px;

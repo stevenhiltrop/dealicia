@@ -33,3 +33,41 @@ A continuación mencionamos todo que necesitáis para organizar vuestra mesa de 
 
 Para decorar la mesa temática es muy sencillo, solo necesitáis un mantel, manteles individuales para dar color, algunos animales para poner de decoración, globos con los colores que más os gusten. Y diferentes platos y bandejas. Si no tienes fuentes con alturas podéis poner debajo del mantel una caja para que se quedé más alto.
 Botellas transparentes, pajitas de colores, servilletas.
+
+![](/images/blog/MesaCumple_MesaDulce_dealicia_cafe.jpg)
+
+![](/images/blog/MesaCumple8_MesaDulce_dealicia_cafe.jpg#img-second)
+![](/images/blog/MesaCumple9_MesaDulce_dealicia_cafe.jpg#img-second)
+![](/images/blog/MesaCumple10_MesaDulce_dealicia_cafe.jpg#img-second)
+
+#### Mesa Dulce
+- Tarta NY cheesecake con frambuesas
+- Merengues con chocolate
+- Brownie
+- Pastitas de té
+- Barritas de avena
+- Bizcochos de cerezas
+- Éclair de chocolate
+- Bizcochitos de limón y almendras
+- Caja de pastelitos
+- Financier de chocolate
+- Frangipane
+- Merengues
+- Croissant de mantequilla
+
+![](/images/blog/MesaCumple11_MesaDulce_dealicia_cafe.jpg#img-third)
+![](/images/blog/MesaCumple12_MesaDulce_dealicia_cafe.jpg#img-third)
+![](/images/blog/MesaCumple13_MesaDulce_dealicia_cafe.jpg#img-third)
+
+También os animamos a probar:
+- Muffins personalizados
+- Galletas decoradas
+- Helado para llevar
+- Galletas american cookie
+
+Como extra os dejamos algunos descargables gratis para utilizar en vuestra fiesta.
+
+- [Guirnalda mini para tarta](/pdf/guirnalda_Tarta_dealicia_cafe.pdf). Recortar y poner en un lazo con unos palos a los exteriores y ubicar en la tarta.
+- [Imprimible para muffins](/pdf/Muffin_dealicia_cafe.pdf)
+
+¡Que os la paséis genial!
