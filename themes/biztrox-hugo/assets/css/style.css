@@ -54,6 +54,10 @@ h1, .h1 {
   width: 140px;
 }
 
+img[src$='#img-thumbnail'] {
+  width:30%;
+}
+
 @media (max-width: 400px) {
   h1, .h1 {
     font-size: 30px;
