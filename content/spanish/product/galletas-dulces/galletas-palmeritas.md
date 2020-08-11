@@ -13,7 +13,7 @@ overview:
     data : "100g"
 
   - label : Precio
-    data : 3.10€
+    data : 3.40€
 
 # meta description
 description : "Palmeritas hojaldre de mantequilla, azúcar vainilla."
@@ -27,7 +27,7 @@ images:
   - "images/product/PalmeritasNaturales.jpg"
 
 # product Price
-price: "3.10"
+price: "3.40"
 priceBefore: ""
 
 # categories

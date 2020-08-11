@@ -13,7 +13,7 @@ overview:
     data : "100g"
 
   - label : Precio
-    data : 2.90€
+    data : 3.50€
 
 # meta description
 description : "Galletas de almendra con chocolate. Clásica galletita de mantequilla con trocitos de almendra y chocolate negro."
@@ -27,7 +27,7 @@ images:
   - "images/product/galletas-chocolate-almendra.jpg"
 
 # product Price
-price: "2.90"
+price: "3.50"
 priceBefore: ""
 
 # categories

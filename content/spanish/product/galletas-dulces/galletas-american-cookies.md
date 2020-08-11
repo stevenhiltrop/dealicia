@@ -10,7 +10,7 @@ overview:
     data : Galletas Dulces
 
   - label : Precio
-    data : 3.40€
+    data : 4.10€
 
 # meta description
 description : "CHOC CHIP COOKIES"
@@ -24,7 +24,7 @@ images:
   - "images/product/galletas-american-cookie.jpg"
 
 # product Price
-price: "3.40"
+price: "4.10"
 priceBefore: ""
 
 # categories

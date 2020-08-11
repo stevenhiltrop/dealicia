@@ -13,7 +13,7 @@ overview:
     data : "100g"
 
   - label : Precio
-    data : 2.90€
+    data : 3.50€
 
 
 # meta description
@@ -28,7 +28,7 @@ images:
   - "images/product/galletas-chocolate-avellana.jpg"
 
 # product Price
-price: "2.90"
+price: "3.50"
 priceBefore: ""
 
 # categories

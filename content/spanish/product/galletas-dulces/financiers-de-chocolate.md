@@ -13,7 +13,7 @@ overview:
     data : "100g"
 
   - label : Precio
-    data : 0.70€
+    data : 3.95€
 
 # meta description
 description : "Clásicos mini bizcochos de almendra y chocolate."
@@ -27,7 +27,7 @@ images:
   - "images/product/rochers-de-coco.jpg"
 
 # product Price
-price: "0.70"
+price: "3.95"
 priceBefore: ""
 
 # categories

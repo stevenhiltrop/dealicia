@@ -13,7 +13,7 @@ overview:
     data : "100g"
 
   - label : Precio
-    data : 2.90€
+    data : 3.50€
 
 # meta description
 description : "Galletitas de mantequilla con trocitos de avellana tostada y chocolate, sin azúcar, edulcoradas con sucralosa y maltitol, sin conservantes."
@@ -27,7 +27,7 @@ images:
   - "images/product/galletas-chocolate-negro-avellanas-sinazucar.jpg"
 
 # product Price
-price: "2.90"
+price: "3.50"
 priceBefore: ""
 
 # categories

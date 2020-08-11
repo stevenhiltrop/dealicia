@@ -9,11 +9,8 @@ overview:
   - label : Categoría
     data : Galletas Dulces
 
-  - label : Peso
-    data : "100g"
-
-  - label : Precio
-    data : 0.70€
+  - label : Precio (Unidad)
+    data : 0.80€
 
 # meta description
 description : "Clásico de coco"
@@ -27,7 +24,7 @@ images:
   - "images/product/rochers-de-coco.jpg"
 
 # product Price
-price: "0.70"
+price: "0.80"
 priceBefore: ""
 
 # categories

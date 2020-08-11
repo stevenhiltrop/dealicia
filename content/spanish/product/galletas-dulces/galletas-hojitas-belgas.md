@@ -13,7 +13,7 @@ overview:
     data : "100g"
 
   - label : Precio
-    data : 3.40€
+    data : 4.10€
 
 # meta description
 description : "Receta belga muy apreciada. Cortadas muy finas, estas galletas de azúcar moreno y almendras con un toque de canela, resultan crujientes y sabrosas. Irresistibles."

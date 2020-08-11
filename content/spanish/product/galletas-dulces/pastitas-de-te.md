@@ -10,10 +10,10 @@ overview:
     data : Galletas Dulces
 
   - label : Peso
-    data : "100g"
+    data : "350g"
 
   - label : Precio
-    data : 0.70€
+    data : 10.00€
 
 # meta description
 description : "Pastitas de té tipo vienés con chocolate con leche, frambuesas y nueces. con vainilla de Tahití, para comer sola o para acompañar postres, por ejemplo es recomendable como topping de helado."
@@ -27,7 +27,7 @@ images:
   - "images/product/pastas-de-te.jpg"
 
 # product Price
-price: "0.70"
+price: "10.00"
 priceBefore: ""
 
 # categories

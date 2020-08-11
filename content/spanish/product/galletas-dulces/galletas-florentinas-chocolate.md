@@ -6,14 +6,17 @@ type: product
 
 # Overview
 overview:
-  - label : Categoría
-    data : Galletas Dulces
+- label : Categoría
+  data : Galletas Dulces
 
-  - label : Peso
-    data : "100g"
+- label : Temporada
+  data : Invierno
 
-  - label : Precio
-    data : 5.60€
+- label : Peso
+  data : "100g"
+
+- label : Precio
+  data : 6.75€
 
 # meta description
 description : "Palmeritas hojaldre de mantequilla, azúcar vainilla."
@@ -27,11 +30,11 @@ images:
   - "images/product/florentina-chocolate.jpg"
 
 # product Price
-price: "5.60"
+price: "6.75"
 priceBefore: ""
 
 # categories
-category: "Galletas Dulces, Chocolates"
+category: "Galletas Dulces"
 
 # weight
 productWeight : "100g"
@@ -43,7 +46,7 @@ dimensions : "10 x 10 x 15 cm"
 ingredientes : "Leche, Cacao de Valrhona"
 
 # in stock? (accepts true/false | yes/no | si/no | 1/0)
-stock: si
+stock: no
 
 ---
 ![Florentinas de Chocolate](/images/product/florentina-chocolate.jpg "Florentinas de Chocolate")

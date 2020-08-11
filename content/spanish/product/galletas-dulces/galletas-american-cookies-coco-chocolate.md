@@ -10,7 +10,7 @@ overview:
     data : Galletas Dulces
 
   - label : Precio
-    data : 3.40€
+    data : 4.10€
 
 # meta description
 description : "Deliciosa combinación de coco y chocolate con leche en una galleta."
@@ -24,7 +24,7 @@ images:
   - "images/product/galletas-american-cookie-coco-chocolate.jpg"
 
 # product Price
-price: "3.40"
+price: "4.10"
 priceBefore: ""
 
 # categories

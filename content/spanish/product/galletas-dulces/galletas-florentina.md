@@ -15,7 +15,7 @@ overview:
     data : "100g"
 
   - label : Precio
-    data : 5.10€
+    data : 6.75€
 
 # meta description
 description : "Florentinas de almendra caramelizada"
@@ -29,7 +29,7 @@ Images:
   - "images/product/galletas-florentinas.jpg"
 
 # product Price
-price: "5.10"
+price: "6.75"
 priceBefore: ""
 
 # weight
