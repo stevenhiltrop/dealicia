@@ -8,4 +8,6 @@ image : "/images/product/thumbs/galletas-palitos-gruyere.jpg"
 
 ## Galletas Saladas
 
-Aquí va el texto.
+Para snacks o tentempiés, para una cena con amigos, para acompañar con vino, con quesos.  
+
+Echa un vistazo a nuestro [artículo de mesa salada](/blog/mesa_salada/). 
