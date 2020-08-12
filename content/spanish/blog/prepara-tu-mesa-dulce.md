@@ -4,13 +4,13 @@ bg_image: images/background/page-title.jpg
 date: 2017-10-19T11:07:10+06:00
 description : "Prepara tu Mesa Dulce"
 author: Yareri Aguilar
-image: images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_1.jpg
+image: images/blog/MesaDulce_Bautizo_comunion_cumple_Boda_daliciaCafe_1.jpg
 temas: ["Monta tu Mesa"]
 tags: ["mesa dulce"]
 type: post
 
 images:
-  - "/images/blog/MesaCumple_MesaDulce.jpg" 
+  - "/images/blog/MesaCumple_MesaDulce.jpg"
 ---
 #### ¿Tienes próximamente algún bautizo, comunión, boda ó cumpleaños? ¿Necesitas una mesa dulce? ¿Te gustaría saber como organizar y montar tu mesa dulce y por qué es tan importante la elección de los productos?
 
@@ -18,7 +18,7 @@ Una celebración implica muchos detalles, pero la comida y los postres deben ser
 
 Aquí les dejamos algunos tips para organizar y montar una mesa dulce.
 
-![](/images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_5.jpg)
+![](/images/blog/MesaDulce_Bautizo_comunion_cumple_Boda_daliciaCafe_5.jpg)
 
 ##### Para el montaje
 
@@ -42,7 +42,7 @@ Las alturas son importantes para destacar los productos, se pueden hacer con:
 - Fuentes altas para muffins
 - Fuentes de 3 pisos
 
-![](/images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_7.jpg)
+![](/images/blog/MesaDulce_Bautizo_comunion_cumple_Boda_daliciaCafe_7.jpg)
 
 ##### Para servir
 
