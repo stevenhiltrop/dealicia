@@ -3,9 +3,18 @@ philosophy:
   enable : true
   subtitle : Sobre nosotros
   title : Conócenos
-  content : "Han pasado más de 15 años desde la apertura de nuestro primer local físico en Guadalmina, una de las zonas más exclusivas de la **Costa del Sol** y en pleno corazón del municipio de **Marbella**, desde el primer día tuvimos claro que queríamos enfocar nuestros servicios a clientes que demandasen lo mejor y que además estuviese presentado de una forma original y **cumpliendo los más altos estándares** es por esto que en **d’Alicia** contamos con **productos frescos, naturales y sanos** que además están elaborados de manera artesanal a base de recetas tanto tradicionales como originales.\n
+  content : "**d’Alicia** surge de una persona sencilla y honesta que ofrece productos como ella los prepara en casa: panes de fermentación lenta con masa madre, galletas belgas, cookies y pastas tradicionales, pasteles y por supuesto, nuestras deliciosas y exclusivas tartas que surgen de la imaginación de un equipo de golosos pasteleros y pasteleras.
 
-  Los años han transcurrido deprisa y hoy en día contamos ya con 4 locales que se han extendido hasta zonas tan emblemáticas como **Sotogrande** en centro comercial Sotomarket y también estamos en el municipio de **Estepona** en el centro comercial El Pilar, ademas de continuar en **Guadalmina** en el municipio de San Pedro de Alcántara en el centro comercial Guadalmina Alta, donde los clientes pueden degustar nuestras **«delicias y caprichos»** que siguen contando con la misma calidad y sabor."
+    \n Hace 16 años abrimos un local con cafetería en Guadalmina, **Costa del Sol** en pleno corazón del municipio de **Marbella**. Aquí, nuestros clientes conocieron nuestra forma de elaborar tartas, galletas y bollitos, tal y como la hacían nuestras abuelas, con un nivel alto de conciencia sobre los ingredientes que se utilizan, todos 100%  naturales tales como el huevo, frutos secos, harinas, chocolates, leche y nata fresca.
+
+    \n El equipo de producción, amantes de los chocolates, panes y postres, está siempre dispuesto a evaluar y analizar la elaboración y procedencia de los ingredientes para mejorar siempre la calidad,
+
+    \n También nos preocupa el impacto medioambiental y por esto estudiamos regularmente la renovación de packaging para reutilizar o reciclar, utilizar ingredientes locales siempre que podemos y reducir el gasto energético de nuestra producción.
+
+    \n Los años han transcurrido deprisa y hoy en día d’Alicia se ha extendido hasta zonas tan emblemáticas como **Sotogrande** en centro comercial Sotomarket y también esta en el municipio de **Estepona** en el centro comercial El Pilar, además de continuar en **Guadalmina** en el municipio de San Pedro de Alcántara en el centro comercial Guadalmina Alta, donde los clientes pueden degustar las **“delicias y caprichos”** que siguen contando con la misma **calidad y sabor**.
+
+    \n La última aventura es nuestra tienda d’Alicia en internet, esta nueva tienda on-line creada con el mismo cariño y devoción como a cualquiera de los establecimientos. Por cuestiones de transporte solo están a le venta los productos que llegarán bien a tus manos sin estropearse en el camino.
+    "
 
   image : images/about/de-alicia-cafe-el-pilar-estepona-02.jpg
 
@@ -13,7 +22,7 @@ onlineshop:
   enable : true
   subtitle :
   title : Nuestra Tienda Online
-  content : "xNuestra última aventura es expandirnos nuestro negocio a internet, hemos querido tratar esta nueva tienda on-line de repostería con el mismo cariño y devoción como a cualquiera nuestros establecimientos, contando con la inestimable colaboración de una empresa especializada en este tipo de negocios on-line y que gracias a sus sus 15 años de experiencia en este sector contamos nos ha desarrollado un comercio o tienda on-line segura, funcional y que cumple con todas las normas de usabilidad y optimización actuales."
+  content : "Nuestra última aventura es expandirnos nuestro negocio a internet, hemos querido tratar esta nueva tienda on-line de repostería con el mismo cariño y devoción como a cualquiera nuestros establecimientos, contando con la inestimable colaboración de una empresa especializada en este tipo de negocios on-line y que gracias a sus sus 15 años de experiencia en este sector contamos nos ha desarrollado un comercio o tienda on-line segura, funcional y que cumple con todas las normas de usabilidad y optimización actuales."
 
   image : images/about/dalicia_healthy.jpg
 
