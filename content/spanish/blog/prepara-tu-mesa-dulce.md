@@ -10,7 +10,7 @@ tags: ["mesa dulce"]
 type: post
 
 images:
-  - "/images/blog/MesaCumple_MesaDulce.jpg"
+  - "/images/blog/MesaCumple_MesaDulce.jpg" 
 ---
 #### ¿Tienes próximamente algún bautizo, comunión, boda ó cumpleaños? ¿Necesitas una mesa dulce? ¿Te gustaría saber como organizar y montar tu mesa dulce y por qué es tan importante la elección de los productos?
 
