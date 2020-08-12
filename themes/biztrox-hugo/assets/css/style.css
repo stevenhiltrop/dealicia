@@ -1204,6 +1204,7 @@ code{
 @media (max-width: 575px) {
   .hero-slider .slick-dots li {
     width: 25%;
+    visibility: hidden;
   }
 }
 
@@ -1214,7 +1215,7 @@ code{
   top: -12px;
   height: 25px;
   width: 25px;
-  background: #303032;
+  background: pink;
   -webkit-transform: translateX(-50%) rotate(-45deg);
           transform: translateX(-50%) rotate(-45deg);
   opacity: 0;
@@ -1268,11 +1269,11 @@ code{
 }
 
 .hero-slider .slick-dots li.slick-active {
-  background: #303032;
+  background: pink;
 }
 
 .hero-slider .slick-dots li.slick-active a {
-  color: #fff;
+  color: black;
 }
 
 .hero-slider .slick-dots li.slick-active::before {
@@ -1321,7 +1322,7 @@ code{
   content: '';
   bottom: -5px;
   left: 50%;
-  background: #303032;
+  background: pink;
   height: 10px;
   width: 10px;
   -webkit-transform: translateX(-50%) rotate(-45deg);
@@ -2503,3 +2504,5 @@ blockquote{
 
 .productimage {height: 100%;}
 /*# sourceMappingURL=maps/style.css.map */
+
+.icons {width: 25%;}

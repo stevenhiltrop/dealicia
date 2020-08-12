@@ -8,7 +8,7 @@ slider:
       subtitle : Nutritivas
       title : Mantequillas
       content : de almendras, cacahuete y anacardos hechas con un solo ingrediente
-      pagination_icon : ti-bar-chart # themify icon pack : https://themify.me/themify-icons
+      pagination_icon : peanut-butter
       pagination_name : Mantequillas
       button:
         enable : true
@@ -21,7 +21,7 @@ slider:
       subtitle : Naturales
       title : mermeladas
       content : hechas con fruta fresca sin conservantes, ni colorantes
-      pagination_icon : ti-comments # themify icon pack : https://themify.me/themify-icons
+      pagination_icon : jam # themify icon pack : https://themify.me/themify-icons
       pagination_customicon : "ti-comments.png" # themify icon pack : https://themify.me/themify-icons
       pagination_name : Mermeladas
       button:
@@ -35,7 +35,7 @@ slider:
       subtitle : Exquisitas
       title : Galletas
       content : dulces o saladas hechas sin conservantes para compartir
-      pagination_icon : ti-money # themify icon pack : https://themify.me/themify-icons
+      pagination_icon : cookies # themify icon pack : https://themify.me/themify-icons
       pagination_name : Galletas
       button:
         enable : true
@@ -48,7 +48,7 @@ slider:
       subtitle : Productos
       title : Saludables
       content : Granola, frutos secos, mezcla de semillas y barritas de avena para tu despensa
-      pagination_icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      pagination_icon : healthy-food # themify icon pack : https://themify.me/themify-icons
       pagination_name : Saludables
       button:
         enable : true
@@ -61,7 +61,7 @@ slider:
       subtitle : Auténticas
       title : Tartas
       content : Hechas con ingredientes naturales, mezcla de sabores que dejan huella
-      pagination_icon : ti-package
+      pagination_icon : birthday-cake
       pagination_name : Tartas
       button:
         enable : true
@@ -74,7 +74,7 @@ slider:
       subtitle : Artesano
       title : Pan
       content : Hecho con masa madre y fermentación lenta
-      pagination_icon : ti-package # themify icon pack : https://themify.me/themify-icons
+      pagination_icon : bread # themify icon pack : https://themify.me/themify-icons
       pagination_name : Panes
       button:
         enable : true

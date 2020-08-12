@@ -24,9 +24,9 @@
 		nextArrow: '<button type=\'button\' class=\'nextArrow\'><i class=\'ti-arrow-right\'></i></button>',
 		dots: true,
 		customPaging: function (slider, i) {
-			var customicon = $(slider.$slides[i]).data('customicon');
+			var icon = $(slider.$slides[i]).data('icon');
 			var text = $(slider.$slides[i]).data('text');
-			return '<a><span>' + text + '</span></a>';
+			return '<a><img class="icons" src="https://img.icons8.com/wired/64/000000/' + icon + '.png"/> <span>' + text + '</span></a>';
 		},
 		responsive: [{
 			breakpoint: 576,
