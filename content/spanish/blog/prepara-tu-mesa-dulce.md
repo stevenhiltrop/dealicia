@@ -95,11 +95,11 @@ Les ofrecemos opciones sencillas, hechas con productos naturales de la mejor cal
 
 Caja de mini pastelitos variados. Para esos pequeños bocaditos de delicias.
 
-![](/images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_14.jpg)
+![](/images/blog/MesaDulce_Bautizo_comunion_cumple_Boda_daliciaCafe_14.jpg)
 
 ##### Tartaletas
 
-![](/images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_2.jpg)
+![](/images/blog/MesaDulce_Bautizo_comunion_cumple_Boda_daliciaCafe_2.jpg)
 
 - Tartaletas de frutas frescas (solo bajo pedido)
 - Tartaleta de limón
@@ -111,7 +111,7 @@ Caja de mini pastelitos variados. Para esos pequeños bocaditos de delicias.
 
 ##### Muffins y Magdalenas
 
-![](/images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_11.jpg)
+![](/images/blog/MesaDulce_Bautizo_comunion_cumple_Boda_daliciaCafe_11.jpg)
 
 - Muffins naturales personalizados (solo bajo pedido)
 - Frangipane
@@ -119,9 +119,9 @@ Caja de mini pastelitos variados. Para esos pequeños bocaditos de delicias.
 
 ##### Especiales bajo pedido
 
-![](/images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_8.jpg)
+![](/images/blog/MesaDulce_Bautizo_comunion_cumple_Boda_daliciaCafe_8.jpg)
 
-![](/images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_7.jpg)
+![](/images/blog/MesaDulce_Bautizo_comunion_cumple_Boda_daliciaCafe_7.jpg)
 
 - Vasitos de Brownie, Nata fresca y frambuesas
 - Helado porción individual de yogurt . Recomendamos yogurt pues es fresco, pero tenemos más opciones si queréis. (Sugerimos acompañar este helado con un bol grande con frutas del bosque fresca, así los invitados pueden servirse lo que quieran y se sentirse libres de elegir la cantidad deseada).
