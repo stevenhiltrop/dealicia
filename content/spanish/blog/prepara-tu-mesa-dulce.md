@@ -20,7 +20,7 @@ Aquí les dejamos algunos tips para organizar y montar una mesa dulce.
 
 ![](/images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_5.jpg)
 
-##### Para el montaje:
+##### Para el montaje
 
 Colocar los productos:
 
@@ -42,59 +42,94 @@ Las alturas son importantes para destacar los productos, se pueden hacer con:
 - Fuentes altas para muffins
 - Fuentes de 3 pisos
 
+![](/images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_7.jpg)
 
+##### Para servir
 
+- Para facilitar vuestra organización y poder disfrutar del evento, lo más recomendable es ofrecer productos que puedan ser consumidos con las manos, o con un solo cubierto.
+- Cucharas para el té, café, tarta, helado, etc.
+- Servilletas de papel o de tela (la ventaja de ser de tela es que las puedes reciclar y quedan monísimas)
+- Platos pequeños para la tarta, tartaletas o para los que quieren servirse más de una galleta.
 
+##### Para darle un toque fresco
 
-![](/images/blog/MesaCumple3_MesaDulce_dealicia_cafe.jpg#img-2)
+Las flores son un toque especial en todas las mesas, nosotros no las hemos colocado pues esto depende de las flores que más les gusten.
 
-![](/images/blog/MesaCumple4_MesaDulce_dealicia_cafe.jpg#img-third)
-![](/images/blog/MesaCumple5_MesaDulce_dealicia_cafe.jpg#img-third)
-![](/images/blog/MesaCumple6_MesaDulce_dealicia_cafe.jpg#img-third)
+Pueden colocarlas en pequeños frascos reciclados de las mermeladas, yogurts o con botellas vacías de vino. También se pueden colocar en latas de tés chocolates o hasta en botellas de plástico de cualquier tamaño, pintadas en blanco. Fotos Flores: Pinterest
 
-Para nosotros cuidar de vuestra alimentación es fundamental por eso en d’Alicia Café nos caracterizamos por brindar solo productos de alta calidad utilizando solo materia prima natural sin conservantes. Es importante encargar con tiempo vuestro pedido, ya que este necesita un proceso de elaboración para estar listo el día que lo necesitéis.
+![](/images/blog/pinterest.jpg#img-third)
+![](/images/blog/pinterestflores-200x300.jpg#img-third)
+![](/images/blog/pinterestflores3-187x300.jpg#img-third)
+![](/images/blog/pinterestflores5.jpg#img-third)
 
-A continuación mencionamos todo que necesitáis para organizar vuestra mesa de cumpleaños.
+##### Para colocar los productos
 
-#### Decoración
+- Platos llanos lisos (siempre lo más sencillo es lo más elegante y combina con todo)
+- Fuentes de cristal de diferentes formas, tamaños y alturas.
+- Si tienes una bandeja de plata, es perfecto para las galletas
+- También puedes utilizar cestas de mimbre de color natural para colocar las galletas.
+- Para las piruletas personalizadas, las puedes colocar en una jarrita pequeña o un macetero pequeño.
 
-Para decorar la mesa temática es muy sencillo, solo necesitáis un mantel, manteles individuales para dar color, algunos animales para poner de decoración, globos con los colores que más os gusten. Y diferentes platos y bandejas. Si no tienes fuentes con alturas podéis poner debajo del mantel una caja para que se quedé más alto.
-Botellas transparentes, pajitas de colores, servilletas.
+Para degustar y ofrecer una atinada elección de postres para tus invitados:
 
-![](/images/blog/MesaCumple_MesaDulce_dealicia_cafe.jpg)
+Les ofrecemos opciones sencillas, hechas con productos naturales de la mejor calidad, estamos seguros de que dejarás un recuerdo inolvidable a tus invitados.
 
-![](/images/blog/MesaCumple8_MesaDulce_dealicia_cafe.jpg#img-second)
-![](/images/blog/MesaCumple9_MesaDulce_dealicia_cafe.jpg#img-second)
-![](/images/blog/MesaCumple10_MesaDulce_dealicia_cafe.jpg#img-second)
+##### Galletas
 
-#### Mesa Dulce
-- Tarta NY cheesecake con frambuesas
-- Merengues con chocolate
-- Brownie
-- Pastitas de té
-- Barritas de avena
-- Bizcochos de cerezas
-- Éclair de chocolate
-- Bizcochitos de limón y almendras
-- Caja de pastelitos
-- Financier de chocolate
+- Choco almendra
+- Hojitas belgas
+- Lenguas de gato
+- Palmeritas
+- Palmeritas de Naranja
+- Rochers de Coco
+- Pastitas de té surtidas
+- Financiers de chocolate
+- Florentinas
+- Galletas integrales (Siempre hay que pensar en todos J)
+- Barritas de Avena (estás las puedes cortar y colocar como mini bocaditos)
+- Piruletas de Galletas personalizadas (solo bajo pedido)
+
+![](/images/blog/IMG_6419.jpg)
+
+##### Pastelitos y pasteles
+
+Caja de mini pastelitos variados. Para esos pequeños bocaditos de delicias.
+
+![](/images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_14.jpg)
+
+##### Tartaletas
+
+![](/images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_2.jpg)
+
+- Tartaletas de frutas frescas (solo bajo pedido)
+- Tartaleta de limón
+- Tartaleta almendras
+- Tartaleta de cerezas
+- Tartaleta de fresas
+- Tartaleta de manzana
+- Tartaleta de merengue
+
+##### Muffins y Magdalenas
+
+![](/images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_11.jpg)
+
+- Muffins naturales personalizados (solo bajo pedido)
 - Frangipane
-- Merengues
-- Croissant de mantequilla
+- Bizcochito de almendra y limón
 
-![](/images/blog/MesaCumple11_MesaDulce_dealicia_cafe.jpg#img-third)
-![](/images/blog/MesaCumple12_MesaDulce_dealicia_cafe.jpg#img-third)
-![](/images/blog/MesaCumple13_MesaDulce_dealicia_cafe.jpg#img-third)
+##### Especiales bajo pedido
 
-También os animamos a probar:
-- Muffins personalizados
-- Galletas decoradas
-- Helado para llevar
-- Galletas american cookie
+![](/images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_8.jpg)
 
-Como extra os dejamos algunos descargables gratis para utilizar en vuestra fiesta.
+![](/images/blog/MesaDulce_Bautizo_comunion_cumpleaños_Boda_daliciaCafe_7.jpg)
 
-- [Guirnalda mini para tarta](/pdf/guirnalda_Tarta_dealicia_cafe.pdf). Recortar y poner en un lazo con unos palos a los exteriores y ubicar en la tarta.
-- [Imprimible para muffins](/pdf/Muffin_dealicia_cafe.pdf)
+- Vasitos de Brownie, Nata fresca y frambuesas
+- Helado porción individual de yogurt . Recomendamos yogurt pues es fresco, pero tenemos más opciones si queréis. (Sugerimos acompañar este helado con un bol grande con frutas del bosque fresca, así los invitados pueden servirse lo que quieran y se sentirse libres de elegir la cantidad deseada).
 
-¡Que os la paséis genial!
+##### Para la tarta
+
+![](/images/blog/DSC9600copia.jpg)
+
+Tenemos varias opciones desde nuestras tartas tradicionales de todo el año o las de temporada. Echa un vistazo a nuestra lista de tartas para elegir la que más te guste. Las tartas para eventos que requieren decoración, deben ser reservadas con 3 días de antelación.
+
+Siempre contamos con todos los productos mencionados, sin embargo es bueno que reserves con tiempo. Gracias por permitirnos acompañar tus días especiales con nuestras delicias y caprichos de **d’Alicia Café**.
