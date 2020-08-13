@@ -2505,4 +2505,8 @@ blockquote{
 .productimage {height: 100%;}
 /*# sourceMappingURL=maps/style.css.map */
 
-.icons {width: 25%;}
+.icons {
+  width: 23%;
+  margin-top: -5px;
+  margin-right: 5px; 
+}
