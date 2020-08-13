@@ -5,7 +5,7 @@ date: 2019-07-09T11:07:10+06:00
 description : "This is meta description"
 author: Yareri Aguilar
 image: images/blog/ensalada-de-cabra.png
-temas: ["almuerzo"]
+temas: ["Almuerzo"]
 tags: ["Menú"]
 type: post
 ---

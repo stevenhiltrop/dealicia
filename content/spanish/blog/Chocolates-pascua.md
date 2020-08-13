@@ -5,7 +5,7 @@ date: 2019-04-07T11:07:10+06:00
 description: "Chocolates de Pascua"
 author: Yareri Aguilar
 image: images/blog/chocolates-pascua.jpg
-temas: ["Dulces"]
+temas: ["Viaja a través de la gastronomía"]
 tags: ["chocolate"]
 type: post
 ---

@@ -5,7 +5,7 @@ date: 2018-10-11T11:07:10+06:00
 description: "Mermeladas con frutas"
 author: Yareri Aguilar
 image: images/blog/Mermeladas.jpg
-temas: ["Mermeladas"]
+temas: ["Desayunos"]
 tags: ["frutas"]
 type: post
 ---
@@ -37,6 +37,4 @@ En nuestras tiendas d’Alicia Café en Estepona, Guadalmina y Sotogrande puedes
 - Naranja dulce
 - Ruibarbo
 
-Puedes acceder a nuestra tienda on-line de repostería para comprar mermeladas hechas con recetas caseras.
-
-También te puede interesar nuestro artículo sobre la historia de las mermeladas.
+Puedes acceder a nuestra [tienda on-line](/product/mermeladas) de repostería para comprar mermeladas hechas con recetas caseras.

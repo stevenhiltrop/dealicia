@@ -17,8 +17,6 @@ La mezcla de las texturas en el paladar son una explosión de sensaciones reflej
 El valor de una tarta es su sabor y la presentación, en d’Alicia ofrecemos tartas que podríamos definir así: frescas, sencillas, simples, suaves, crujientes, tiernas, esponjosas, pero sobre todo **auténticas y naturales**.
 Para este tipo de tartas puedes elegir cualquier sabor de nuestra lista, para las tartas personalizadas  solo cambia la decoración y forma.  Reserva con tiempo tu tarta.
 
-Si te interesa reservar tu tarta, rellena el siguiente formulario (Ya tienes el formulario por email)
-
 Para ver más fotos de algunas tartas de boda visita nuestro perfil en [Pinterest](https://www.pinterest.es/dealicia_cafe/tartas-bodas/ "Pinterest").
 
 Echa un vistazo a nuestro video de tartas personalizadas sabor chocolate.
@@ -26,3 +24,5 @@ Echa un vistazo a nuestro video de tartas personalizadas sabor chocolate.
 ### Tartas personalizadas
 
 Bodas, Cumpleaños, Bautizos, Comuniones, Aniversarios, Corporativas.
+
+Si te interesa reservar tu tarta, rellena el siguiente formulario:
