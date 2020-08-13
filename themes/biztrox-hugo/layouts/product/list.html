@@ -27,9 +27,18 @@
           {{ end }}
 
           <!-- Image for zones that don't have products -->
+          {{ if .Params.Image3 }}
+          <img class="productimage" src=" {{ .Params.Image3 | absURL }} ">
+          {{ end }}
+          &nbsp;
           {{ if .Params.Image2 }}
           <img class="productimage" src=" {{ .Params.Image2 | absURL }} ">
           {{ end }}
+          &nbsp;
+          {{ if .Params.Image4 }}
+          <img class="productimage" src=" {{ .Params.Image4 | absURL }} ">
+          {{ end }}
+
       </div>
     </div>
   </div>

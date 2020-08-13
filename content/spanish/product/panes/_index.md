@@ -4,6 +4,9 @@ date: 2018-07-12T18:19:33+06:00
 bg_image: images/product/headers/panes.jpg
 description : "This is meta description"
 image : "images/product/thumbs/panes.jpg"
+image2 : "images/product/panes1.jpg"
+image3 : "images/product/panes2.jpg"
+image4 : "images/product/panes3.jpg"
 ---
 
 ## Panes
