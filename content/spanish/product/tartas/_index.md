@@ -1,7 +1,7 @@
 ---
 title: "Tartas"
 date: 2018-07-12T18:19:33+06:00
-bg_image: images/background/page-title.jpg
+bg_image: images/product/headers/tartas.jpg
 description : "This is meta description"
 image : "images/product/thumbs/tartas.jpg"
 image2 : "images/weddingcakes-dealicia.jpg"
@@ -19,7 +19,7 @@ Para este tipo de tartas puedes elegir cualquier sabor de nuestra lista, para la
 
 Para ver más fotos de algunas tartas de boda visita nuestro perfil en [Pinterest](https://www.pinterest.es/dealicia_cafe/tartas-bodas/ "Pinterest").
 
-Echa un vistazo a nuestro video de tartas personalizadas sabor chocolate.
+Echa un vistazo a nuestro video de tartas personalizadas sabor chocolate. {{< youtube qLSoXPQ1lXg >}}
 
 ### Tartas personalizadas
 
