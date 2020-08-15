@@ -1197,7 +1197,7 @@ code{
 
 @media (max-width: 767px) {
   .hero-slider .slick-dots li {
-    width: 120px;
+    width: 60px;
   }
 }
 
@@ -2508,5 +2508,5 @@ blockquote{
 .icons {
   width: 23%;
   margin-top: -5px;
-  margin-right: 5px; 
+  margin-right: 5px;
 }
