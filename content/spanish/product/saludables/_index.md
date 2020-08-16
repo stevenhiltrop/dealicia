@@ -17,4 +17,6 @@ La granola se puede consumir en:
 - Con helado de yogur natural y granola
 
 ### Recetas
-Echa un vistazo a la receta d’Alicia de granola para hacer en casa. https://youtu.be/w4KBBbnscuY
+Echa un vistazo a la receta d’Alicia de granola para hacer en casa.
+
+{{< youtube w4KBBbnscuY >}}
