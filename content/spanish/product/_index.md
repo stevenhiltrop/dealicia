@@ -22,12 +22,12 @@ En nuestras tiendas en Guadalmina, Estepona y Sotogrande encontrarás:
 - mantequillas de frutos secos
 - helados
 
-En nuestras tienda online  encontrarás:
+Para ver nuestros productos disponibles en tienda puedes pedir desde tú casa u oficina y recoger en tienda a través de la [app BR Bars and Restaurants](https://apps.apple.com/es/app/br-bars-restaurants/id1495034970?fbclid=IwAR0U0I0xISVEe-bToYBfvrJ-z4lkuw-_eRjtbF8n-R4oHbZ7L946PHA4RLY) en horario de tienda de 8:30 a 14:30.
+
+En nuestras tienda online encontrarás:
 1. [barritas de avena](/product/saludables/barritasdeavena)
-2. chocolates (solo en temporada invierno)
 3. [granola](/product/saludables/granola)
-4. [galletas dulces](/product/galletas-dulces)
-5. [galletas saladas](/product/galletas-saladas)
+4. [galletas](/product/galletas)
 6. [financiers](/product/galletas-dulces/financiers-de-chocolate)
 7. [mermeladas](/product/mermeladas)
 8. [mantequillas de frutos secos](/product/mantequillas)

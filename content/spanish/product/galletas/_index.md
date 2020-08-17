@@ -8,7 +8,7 @@ image : "images/product/thumbs/galletas-dulces.jpg"
 
 ## Galletas
 
-Las galletas d’Alicia son recetas clásicas y con su propio toque, cada una tiene un sabor diferente, dulces como las clásicas american cookies que transportan a un sabor americano, hasta las hojitas Belga con su sabor peculiar, cada galleta está hecha y cortada a mano, el proceso de empaquetar también tiene su propio ritmo pues es un proceso hecho a mano. El único conservante natural que tienen es el azúcar que permite una caducidad corta.
+Las galletas d’Alicia son recetas clásicas y con su propio toque, cada una tiene un sabor diferente, dulces como las clásicas american cookies que transportan a un sabor americano, hasta las hojitas Belgas con su sabor peculiar, cada galleta está hecha y cortada a mano, el proceso de empaquetar también tiene su propio ritmo pues es un proceso hecho a mano. El único conservante natural que tienen es el azúcar que permite una caducidad corta.
 
 En todas nuestras tiendas físicas y online podrás encontrar opciones de galletas dulces y también saladas que son ideales como aperitivos o snacks.
 
