@@ -19,12 +19,12 @@ overview:
 description : "Clásicos mini bizcochos de almendra y chocolate."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/rochers-de-coco.jpg"
+image : "images/product/thumbs/financiers.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/rochers-de-coco.jpg"
+  - "images/product/financiers.jpg"
 
 # product Price
 price: "3.95"
@@ -40,6 +40,6 @@ productWeight : "100g"
 stock: si
 
 ---
-![Rochers de Coco](/images/product/rochers-de-coco.jpg "Rochers de Coco")
+![Rochers de Coco](/images/product/financiers.jpg "Rochers de Coco")
 
 Clásicos mini bizcochos de almendra y chocolate
