@@ -181,7 +181,7 @@ mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463e
 mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
 
 # snipcart public api key
-snipcartAPI = "ZDgxY2ZiM2EtMWRmMi00M2ZkLWI1MDAtNzA2MDc0Y2Q1MzJlNjM3MTAzNDIwOTQ1NDA4NjM4"
+snipcartAPI = "MmU3ZTUxYzctMzQwZC00ZDBjLThiZjctMjk3M2VjZDA1ZWQ3NjM3MzMwMTIzMTgzMTYyMDI4"
 currency = "€"
 
 # nav Button
