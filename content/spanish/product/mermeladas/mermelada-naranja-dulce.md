@@ -42,5 +42,5 @@ stock: si
 ---
 ![Mermelada de Naranja Dulce](/images/product/mermelada-naranja-dulce.jpg "Mermelada de Naranja Dulce")
 
-Mermelada de naranja dulce de Málaga.
-Todas las mermeladas y confituras disponibles en d'Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano. Utilizamos un mínimo de 50% de naranjas enteras, azúcar y pectina de manzana. Nuestra mermelada de naranjas dulces, al llevar cascara, tiene el toque amargo característico de la mermelada de naranja amarga con un aroma intenso de naranja.
+##### Mermelada de naranja dulce de Málaga.
+Todas las mermeladas y confituras disponibles en d'Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano. Utilizamos un mínimo de 50% de naranjas enteras, azúcar y pectina de manzana. Nuestra mermelada de naranjas dulces, al llevar cáscara, tiene el toque amargo característico de la mermelada de naranja amarga con un aroma intenso de naranja.

@@ -33,7 +33,7 @@ price: "6.75"
 priceBefore: ""
 
 # weight
-productWeight : "100g"
+productWeight : "103g"
 
 # in stock? (accepts true/false | yes/no | si/no | 1/0)
 stock: si

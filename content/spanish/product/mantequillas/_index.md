@@ -43,9 +43,6 @@ Le quitamos el exceso de agua en caso de que nos guste más espesa
 Lo trituramos y anexamos media cucharada sopera de mantequilla de almendras
 Servir y disfutar
 El toque de mantequilla de almendras lo notarás en el paladar, si te ha gustado puedes probar a poner una cuchara entera, pero es cuestión de probar poco a poco.
-Snack
-Untar la mantequilla de almendras o cacahuete en una tostadita de maíz
-Dejar como dipp la mantequilla para consumir con tiras de pepino o zanahoria.
 
 **Snack**
 - Untar la mantequilla de almendras o cacahuete en una tostadita de maíz

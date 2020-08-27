@@ -27,6 +27,9 @@ images:
 price: "4.10"
 priceBefore: ""
 
+# weight
+productWeight : "140g"
+
 # categories
 category: "Galletas Dulces"
 
