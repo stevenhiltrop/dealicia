@@ -16,7 +16,8 @@ collections:
       # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Temas", name: "temas", widget: "select", options: ["Almuerzo", "Desayunos", "Monta tu mesa", "Quiches", "Reutilizar / reciclar", "Tartas", "Viaja a través de la gastronomía"]}
+      - {label: "Tema", name: "temas", widget: "list"}
+      # - {label: "Temas", name: "temas", widget: "select", options: ["Almuerzo", "Desayunos", "Monta tu mesa", "Quiches", "Reutilizar / reciclar", "Tartas", "Viaja a través de la gastronomía"]}
       - {label: "Main Image", name: "image", widget: "image"}
       # - {label: "Thumbnail", name: "thumb", widget: "image"}
       - {label: "Description", name: "description", widget: "string"}
