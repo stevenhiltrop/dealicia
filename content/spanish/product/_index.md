@@ -28,6 +28,6 @@ En nuestras tienda online encontrarás:
 1. [barritas de avena](/product/saludables/barritasdeavena)
 3. [granola](/product/saludables/granola)
 4. [galletas](/product/galletas)
-6. [financiers](/product/galletas-dulces/financiers-de-chocolate)
+6. [financiers](/product/galletas/financiers-de-chocolate)
 7. [mermeladas](/product/mermeladas)
 8. [mantequillas de frutos secos](/product/mantequillas)
