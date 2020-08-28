@@ -21,8 +21,8 @@ Para este tipo de tartas puedes elegir cualquier sabor de nuestra lista, para la
 
 ![](/images/blog/tarta-cumpleanos-1.jpg)
 
-Para ver más fotos de algunas tartas de boda visita nuestro perfil en pinterest
+Para ver más fotos de algunas tartas de boda visita nuestro perfil en pinterest.
 
 ![](/images/blog/tarta-cumpleanos-2.jpg)
 
-Echa un vistazo a nuestro video de tartas personalizadas sabor chocolate en Facebook
+Echa un vistazo a nuestro video de tartas personalizadas sabor chocolate en Facebook.

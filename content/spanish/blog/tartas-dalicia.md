@@ -28,7 +28,7 @@ La practica diaria nos da la oportunidad de brindarte tartas cada día más rica
 
 Si quieres saber más sobre otros productos que ofrecemos en la pastelería pincha aquí.
 
-Puede interesarte [Tartas Personalizadas](/blog/tartas-personalizadas)
+Puede interesarte [Tartas Personalizadas](/blog/tartas-personalizadas).
 
 Echa un vistazo a nuestro [catálogo de tartas](/pdf/dealicia_listadodeTartas_ES-web.pdf).
 
