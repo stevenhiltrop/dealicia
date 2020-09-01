@@ -6,10 +6,8 @@ description : "This is meta description"
 category: "Mermeladas"
 image : "images/product/thumbs/mermelada-naranja-dulce.jpg"
 showsummary: yes
-intro: "La mermelada es uno de los métodos más antiguos que se conocen hoy día para conservar alimentos que en el caso de las frutas consistió en mezclarlas con miel. Este proceso fue desarrollado por los Romanos a través del cual consiguieron elaborar una sustancia similar a la mermelada. Básicamente se trataba de añadir a la fruta un peso equivalente en miel y cocinarla hasta obtener la consistencia deseada."
+intro: "Las mermeladas d’Alicia están hechas con fruta fresca y sin conservantes, siendo su conservante natural el azúcar."
 ---
-
-### Las mermeladas d’Alicia están hechas con fruta fresca y sin conservantes, siendo su conservante natural el azúcar.
 
 #### Historia de la mermelada
 
