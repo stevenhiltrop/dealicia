@@ -15,8 +15,6 @@ image4 : "images/product/panes3.jpg"
 
 En d’Alicia Café elaboramos diariamente cinco variedades de pan hecho a mano, están formados a mano, uno a uno, sin conservantes, sin ayudas, solo harina y agua. La producción es pequeña, así que te sugerimos reservar siempre tu pan con tiempo.
 
-<!--more-->
-
 Nuestras variedades son:
 
 ### Challah o Jalá
