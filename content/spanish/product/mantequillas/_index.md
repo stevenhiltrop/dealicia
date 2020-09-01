@@ -4,11 +4,11 @@ date: 2018-07-12T18:19:33+06:00
 bg_image: images/product/headers/mantequillas.jpg
 description : "This is meta description"
 image : "/images/product/thumbs/mantequillas-frutos-secos.jpg"
+showsummary: yes
+intro: "Beneficios de las almendras, cacahuetes y anacardos para consumo en mantequillas d’Alicia hechas sin conservantes."
 ---
 
-## Mantequillas
-
-Beneficios de las almendras, cacahuetes y anacardos para consumo en mantequillas d’Alicia  hechas sin conservantes.
+#### Beneficios de las almendras, cacahuetes y anacardos para consumo en mantequillas d’Alicia  hechas sin conservantes.
 Las almendras, cacahuetes y anacardos son una alternativa para incluir dentro de nuestra dieta y favorecer en el aumento de las hormonas como dopamina, serotonina, oxitocina que ayudan a nuestro cerebro y como consiguiente nuestro estado de ánimo. En d’Alicia Café te ofrecemos las mantequillas de cacahuete, anacardos y almendras.
 Mantequillas elaboradas sin ningún conservante ni añadido extra, únicamente el fruto seco, algunas frutos secos son más sanos naturales, pero otros frutos secos tienen que estar tostados porque al estar tostados es más fácil sacar su aceite natural y de esta manera sale más fluida la mantequilla, como es el caso de la almendra tostada y los anacardos. El cacahuete es otra legumbre que debe consumirse tostado y no crudo.
 Hoy día sabemos la importancia de cuidar nuestro cerebro y sabemos lo que activa la corteza prefrontal, sede del pensamiento elevado, y que fomenta la liberación de neurotransmisores como la dopamina, serotonina, la oxitocina, y los opiáceos cerebrales. Cada uno de estos químicos naturales del cerebro se relacionan con distintos aspectos de la felicidad y existen algunos alimentos que ayudan a la producción de estas hormonas.
@@ -21,7 +21,7 @@ Recuerda que todas las mantequillas vegetales pueden ser sustituidas por la mant
 #### Sugerencias de consumo
 
 - Para desayunos, snacks y  meriendas (Recordar que da mucha energía por eso no se sugiere para la noche).
-- Para  recetas de cremas de verduras
+- Para recetas de cremas de verduras
 - Para recetas de galletas
 
 #### Recetas con las mantequillas
