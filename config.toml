@@ -5,7 +5,7 @@ theme = "biztrox-hugo"
 # post pagination
 paginate = "6"
 # post excerpt
-summaryLength = "30"
+summaryLength = "120"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
