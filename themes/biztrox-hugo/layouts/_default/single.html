@@ -24,10 +24,7 @@
               </li>
             </ul>
             <div class="post-content">
-              {{ .Summary }}
-              {{ if .Truncated }}
-                <a href="{{ .RelPermalink }}">Read more</a>
-              {{ end }}
+              {{ .Content }}
             </div>
           </div>
         </div>
