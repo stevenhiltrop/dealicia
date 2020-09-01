@@ -1140,6 +1140,11 @@ code{
     display: inline-block;
   }
 
+  /* Mantequillas */
+  .hero-slider-item:nth-child(2) {
+    background-position: -860px 0;
+  }
+
   /* Saludables */
   .hero-slider-item:nth-child(6) {
     background-position: -720px 0;
