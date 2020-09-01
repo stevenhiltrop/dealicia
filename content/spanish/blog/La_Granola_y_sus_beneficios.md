@@ -26,3 +26,5 @@ Tomar granola en el desayuno nos saciará más que otros alimentos gracias a la 
 Las combinaciones para tomarla son múltiples: con yogur, con fruta, con leche, como topping en batidos y helados…si aún no has introducido la granola en tu dieta diaria, ¿a qué estás esperando?
 
 ¡Ven a probarla a nuestras cafeterías, también la puedes comprar online!
+
+<!--more-->
