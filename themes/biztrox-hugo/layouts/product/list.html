@@ -16,8 +16,12 @@
           <h2>{{ .Params.title }}</h2>
           <p>{{ .Params.intro }}</p>
 
-            <a data-toggle="collapse" href="#fullText" role="button"> ...Leer más</a>
-
+            <a data-toggle="collapse" href="#fullText" role="button" id="readmore" onclick="changelink()"> ...Leer más</a>
+            <script>
+            function changelink() {
+            document.getElementById("readmore").innerHTML="...Leer menos.";
+            }
+            </script>
           <div class="collapse" id="fullText">
             <div class="fullText">
               {{ .Content }}
