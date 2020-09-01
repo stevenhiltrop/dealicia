@@ -10,6 +10,9 @@
     <div class="row align-items-start">
       <div class="col-lg-6">
         <div class="post-content mb-5">
+          <!-- Looks for showsummary tag and shows intro with collapse div -->
+          {{ if .Params.showsummary }}
+
           <h2>{{ .Params.title }}</h2>
           <p>{{ .Params.intro }}</p>
 
@@ -20,7 +23,14 @@
               {{ .Content }}
             </div>
           </div>
+            <!-- if no showsummary tag present it shows content as usual -->
+          {{ else }}
 
+          {{ .Content }}
+
+          {{ end }}
+
+          <!-- Are we on the cake page? -->
           {{ if .Params.cakeform }}
 
           {{ partial "cakeform.html" . }}
