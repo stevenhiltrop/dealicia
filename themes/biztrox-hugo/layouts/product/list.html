@@ -10,7 +10,16 @@
     <div class="row align-items-start">
       <div class="col-lg-6">
         <div class="post-content mb-5">
-          {{ .Content }}
+          <h2>{{ .Params.title }}</h2>
+          <p>{{ .Params.intro }}</p>
+
+            <a data-toggle="collapse" href="#fullText" role="button"> ...Leer más</a>
+
+          <div class="collapse" id="fullText">
+            <div class="fullText">
+              {{ .Content }}
+            </div>
+          </div>
 
           {{ if .Params.cakeform }}
 
