@@ -19,6 +19,8 @@ De un tiempo hacia ahora la granola se ha convertido en un imprescindible en el 
 
 Tomar granola en el desayuno nos saciará más que otros alimentos gracias a la fibra que contiene y, además, aliviará posibles problemas de estreñimiento. Otra de las ventajas de comer granola a tener en cuenta es que también ayudará a mantener a raya los niveles de azúcar en sangre.
 
+<!--more-->
+
 ![Conoces la Granola?](/images/blog/VasodeGranola-pasteleria-cafeteria-desayunos-estepona-guadalmina-sotogrande-marbella.jpeg "Granola")
 
 ### Opciones para consumir
@@ -26,5 +28,3 @@ Tomar granola en el desayuno nos saciará más que otros alimentos gracias a la 
 Las combinaciones para tomarla son múltiples: con yogur, con fruta, con leche, como topping en batidos y helados…si aún no has introducido la granola en tu dieta diaria, ¿a qué estás esperando?
 
 ¡Ven a probarla a nuestras cafeterías, también la puedes comprar online!
-
-<!--more-->
