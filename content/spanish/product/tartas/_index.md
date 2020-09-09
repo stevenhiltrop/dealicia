@@ -19,7 +19,7 @@ Para este tipo de tartas puedes elegir cualquier sabor de nuestra lista, para la
 
 Para ver más fotos de algunas tartas de boda visita nuestro perfil en [Pinterest](https://www.pinterest.es/dealicia_cafe/tartas-bodas/ "Pinterest").
 
-Puede interesarte [Tartas Personalizadas](/blog/catalogo-tartas) sobre las tartas que puedes encontrar en nuestras tiendas de El Pilar, Guadalmina y Sotogrande.
+Pueden interesarte las [Tartas](/blog/catalogo-tartas) del menú d'Alicia que puedes encontrar en nuestras tiendas de El Pilar, Guadalmina y Sotogrande.
 
 Echa un vistazo a nuestro video de tartas personalizadas sabor chocolate. {{< youtube qLSoXPQ1lXg >}}
 
