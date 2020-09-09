@@ -13,7 +13,7 @@
   force = true
   query = {path = ":path"}
 
-[redirects]
+[[redirects]]
   from = "/tienda-online-reposteria"
   to = "/product"
   status = 301
