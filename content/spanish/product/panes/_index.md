@@ -53,7 +53,7 @@ Pan tierno típico de Antequera, hecho con harina de trigo y aceite de oliva vir
 mezcla de harinas integrales, con semillas de calabaza, girasol o sésamo.
 Las semillas de calabaza son ricas en proteínas, magnesio, zinc y potasio, las semillas de sésamo son fuente de calcio, hierro, magnesio, fósforo, cobre, manganeso y potasio y las de girasol son fuente de proteínas vegetales, hierro, vit B6 y E, magnesio, fósforo, cobre, manganeso, selenio y potasio.
 
-#### Producción
+## Producción
 Debido a que la producción es diaria únicamente se puede comprar directo en tienda físicas El Pilar, Guadalmina y Sotogrande.
 
 ## Beneficios
