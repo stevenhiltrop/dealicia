@@ -7,15 +7,17 @@
   HUGO_THEME = "repo"
 
 [[redirects]]
+  from = "/"
+  to = "/.netlify/functions/redirect"
+
+[[redirects]]
   from = "/cafeterias-guadalmina-sotogrande-elpilar-marbella"
   to = "/"
   status = 301
   force = true
-  query = {path = ":path"}
 
 [[redirects]]
   from = "/tienda-online-reposteria"
   to = "/product"
   status = 301
   force = true
-  query = {path = ":path"}
