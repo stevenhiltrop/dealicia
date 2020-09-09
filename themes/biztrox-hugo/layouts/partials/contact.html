@@ -11,7 +11,7 @@
 						<i class="round-icon mr-3 {{ .icon }}"></i>
 						<div class="align-self-center font-primary">
 							{{ range .contact }}
-							<div class="text-dark">{{ .contact_item | safeHTML }}</div>
+							<div class="text-dark"><a href="{{ .contact_link | safeHTML }}" target="_blank">{{ .contact_item | safeHTML }}</a></div>
 							{{ end }}
 						</div>
 					</li>
