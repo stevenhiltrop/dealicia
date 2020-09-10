@@ -16,10 +16,17 @@ collections:
       # - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      # - {label: "Tema", name: "temas", widget: "list"}
       - {label: "Temas", name: "temas", widget: "select", multiple: true, options: ["Almuerzo", "Desayunos", "Monta tu mesa", "Quiches", "Reutilizar / reciclar", "Tartas", "Viaja a través de la gastronomía"]}
       - {label: "Main Image", name: "image", widget: "image"}
       # - {label: "Thumbnail", name: "thumb", widget: "image"}
       - {label: "Meta Description", name: "description", widget: "string"}
       # - {label: "Rating (scale of 1-5)", name: "rating", widget: "number"}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  - name: "product" # Used in routes, e.g., /admin/collections/blog
+    label: "Tienda" # Used in the UI
+    folder: "content/spanish/product" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
