@@ -142,7 +142,7 @@ collections:
         file: "data/es/homepage.yml"
         description: "Homepage Slider items"
         fields:
-          - name: 'slider_item'
+          - name: 'slider_Item'
             label: 'Slider Items'
             label_singular: "Slider Item"
             widget: list
