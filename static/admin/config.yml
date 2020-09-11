@@ -110,8 +110,8 @@ collections:
           - {label: Body, name: body, widget: markdown}
         ## /END
       - label: "Aviso Legal"
-        name: "aviso_legal"
-        file: "content/spanish/legal/aviso_legal.md"
+        name: "avisolegal"
+        file: "content/spanish/legal/avisolegal.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
