@@ -24,4 +24,4 @@ type: product
 
 Barritas de Avena hechas con avena ecológica, panela, mantequilla, nuez moscada, coco y miel.
 
-Ideales para un snack o aperitivo energético.
+Ideales para un snack o aperitivo energético. Test.
