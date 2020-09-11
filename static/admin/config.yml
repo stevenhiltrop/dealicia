@@ -88,7 +88,7 @@ collections:
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
       - {label: "Main Image", name: "image", widget: "image"}
       - {label: "Slides Images", name: "images", widget: "image"}
-      - {label: "Categories", name: "categories", widget: "select", multiple: true, options: ["Saludables"]}
+      - {label: "Categories", name: "category", widget: "select", multiple: true, options: ["Saludables"]}
       # - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Descripcion", name: "description", widget: "string"}
       - {label: "Product Shipping Weight", name: "productWeight", widget: "string"}
