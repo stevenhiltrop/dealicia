@@ -141,11 +141,12 @@ collections:
         label: "Slider"
         file: "data/es/homepage.yml"
         description: "Homepage Slider items"
+        widget: "list"
         fields:
           - name: 'slider_Item'
             label: 'Slider Items'
             label_singular: "Slider Item"
-            widget: list
+            widget: "list"
             fields:
               - {label: 'title', name: 'title', widget: markdown}
               - {label: 'Subtitle', name: 'subtitle', widget: string}
