@@ -130,3 +130,22 @@ collections:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
         ## /END
+# SETTINGS ##############################################
+  - label: "Settings"
+    name: "settings"
+    delete: false # users shouldnt be able to delete here.
+    editor:
+      preview: false
+    files:
+      - label: "Slider"
+        name: "slider"
+        file: "data/es/homepage.yml"
+        widget: list
+        fields:
+          - label: 'Slider Item'
+            name: 'slider_Item'
+            widget: list
+            fields:
+              - {label: 'title', name: 'title', widget: markdown}
+              - {label: 'Subtitle', name: 'subtitle', widget: string}
+              - {label: 'Image', name: 'bg_image', widget: image}
