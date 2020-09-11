@@ -1,36 +1,24 @@
 ---
-title: "Barritas de Avena"
-date: 2020-05-25T13:39:07+06:00
+title: Barritas de Avena
 draft: false
-type: product
-category: "Saludables"
-# product Dets
-price: "3.30"
+image: images/thumbs/BarritasDeAvena.jpeg
+productWeight: 80g
 priceBefore: ""
-productWeight : "80g"
-# in stock? (accepts true/false | yes/no | si/no | 1/0)
-stock: si
-
-# meta description
-description : "Barritas de Avena hechas con avena ecológica, panela, mantequilla, nuez moscada, coco y miel."
-
-# needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/thumbs/BarritasDeAvena.jpeg"
-
-# product Images
-# first image will be shown in the product page
+date: 2020-05-25T13:39:07+06:00
 images:
-  - "images/BarritasDeAvena.jpeg"
-
-# Overview
+  - images/BarritasDeAvena.jpeg
+category:
+  - Saludables
+description: Barritas de Avena hechas con avena ecológica, panela, mantequilla,
+  nuez moscada, coco y miel.
+price: "3.30"
+stock: si
 overview:
-
-  - label : Unidades
-    data : "2 por paquete"
-
-  - label : Precio
-    data : 3.30€
-
+  - label: Unidades
+    data: 2 por paquete
+  - label: Precio
+    data: 3.30€
+type: product
 ---
 ![Barritas de Avena](/images/BarritasDeAvena.jpeg "Barritas de Avena")
 
