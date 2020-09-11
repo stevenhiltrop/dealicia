@@ -19,12 +19,12 @@ overview:
 description : "Galletas de almendra con chocolate. Clásica galletita de mantequilla con trocitos de almendra y chocolate negro."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/galletas-chocolate-almendra.jpg"
+image : "images/thumbs/galletas-chocolate-almendra.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/galletas-chocolate-almendra.jpg"
+  - "images/galletas-chocolate-almendra.jpg"
 
 # product Price
 price: "3.50"
@@ -40,6 +40,6 @@ productWeight : "102g"
 stock: si
 
 ---
-![Galletas de Chocolate y Almendra](/images/product/galletas-chocolate-almendra.jpg "Galletas de Chocolate y Almendra")
+![Galletas de Chocolate y Almendra](/images/galletas-chocolate-almendra.jpg "Galletas de Chocolate y Almendra")
 
 Galletas de almendra con chocolate. Clásica galletita de mantequilla con trocitos de almendra y chocolate negro.

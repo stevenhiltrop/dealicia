@@ -19,12 +19,12 @@ overview:
 description : "Palmeritas hojaldre de mantequilla, azúcar vainilla."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/PalmeritasNaturales.jpg"
+image : "images/thumbs/PalmeritasNaturales.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/PalmeritasNaturales.jpg"
+  - "images/PalmeritasNaturales.jpg"
 
 # product Price
 price: "3.40"
@@ -40,6 +40,6 @@ productWeight : "102g"
 stock: si
 
 ---
-![Palmeritas](/images/product/PalmeritasNaturales.jpg "Palmeritas")
+![Palmeritas](/images/PalmeritasNaturales.jpg "Palmeritas")
 
 Palmeritas hojaldre de mantequilla, azúcar vainilla.

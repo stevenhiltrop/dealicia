@@ -19,12 +19,12 @@ overview:
 description : "Deliciosas palmeritas de naranja"
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/galletas-palmeritas-naranja.jpg"
+image : "images/thumbs/galletas-palmeritas-naranja.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/galletas-palmeritas-naranja.jpg"
+  - "images/galletas-palmeritas-naranja.jpg"
 
 # product Price
 price: "3.40"
@@ -40,6 +40,6 @@ productWeight : "102g"
 stock: si
 
 ---
-![Palmeritas de Naranja](/images/product/galletas-palmeritas-naranja.jpg "Palmeritas de Naranja")
+![Palmeritas de Naranja](/images/galletas-palmeritas-naranja.jpg "Palmeritas de Naranja")
 
 Deliciosas palmeritas de naranja.

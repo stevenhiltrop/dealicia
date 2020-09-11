@@ -19,12 +19,12 @@ overview:
 description : "Todas las mermeladas y confituras disponibles en d'Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/mermeladas.jpg"
+image : "images/thumbs/mermeladas.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/mermeladas.jpg"
+  - "images/mermeladas.jpg"
 
 # product Price
 price: "3.95"
@@ -40,6 +40,6 @@ productWeight : "250g"
 stock: si
 
 ---
-![Mermelada de Mango](/images/product/mermeladas.jpg "Mermelada de Mango")
+![Mermelada de Mango](/images/mermeladas.jpg "Mermelada de Mango")
 
 Todas las mermeladas y confituras disponibles en d'Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano.

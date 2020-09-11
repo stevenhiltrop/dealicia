@@ -19,12 +19,12 @@ overview:
 description : "Pastitas de té tipo vienés con chocolate con leche, frambuesas y nueces. con vainilla de Tahití, para comer sola o para acompañar postres, por ejemplo es recomendable como topping de helado."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/pastas-de-te.jpg"
+image : "images/thumbs/pastas-de-te.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/pastas-de-te.jpg"
+  - "images/pastas-de-te.jpg"
 
 # product Price
 price: "10.00"
@@ -40,6 +40,6 @@ productWeight : "355g"
 stock: si
 
 ---
-![Pastas de Té](/images/product/pastas-de-te.jpg "Pastas de Té")
+![Pastas de Té](/images/pastas-de-te.jpg "Pastas de Té")
 
 Pastitas de té tipo vienés con chocolate con leche, frambuesas y nueces.

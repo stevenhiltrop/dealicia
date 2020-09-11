@@ -19,12 +19,12 @@ overview:
 description : "Galletitas suaves de queso Emmental"
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/galletas-sable-emmental.jpg"
+image : "images/thumbs/galletas-sable-emmental.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/galletas-sable-emmental.jpg"
+  - "images/galletas-sable-emmental.jpg"
 
 # product Price
 price: "4.10"
@@ -40,6 +40,6 @@ productWeight : "101g"
 stock: si
 
 ---
-![Sablé de emmental](/images/product/galletas-sable-emmental.jpg "Sablé de emmental")
+![Sablé de emmental](/images/galletas-sable-emmental.jpg "Sablé de emmental")
 
 Galletitas suaves de queso Emmental.

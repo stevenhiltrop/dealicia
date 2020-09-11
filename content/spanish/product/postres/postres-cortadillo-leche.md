@@ -19,12 +19,12 @@ overview:
 description : "Cortadillos de dulce de leche. Receta exclusiva, combinando un exquisito sablé de mantequilla prácticamente sin azúcar con dulce de leche cremoso."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/postres-cortadillo-leche.jpg"
+image : "images/thumbs/postres-cortadillo-leche.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/postres-cortadillo-leche.jpg"
+  - "images/postres-cortadillo-leche.jpg"
 
 # product Price
 price: "1.45"
@@ -40,7 +40,7 @@ productWeight : "80g"
 stock: no
 
 ---
-![Cortadillo de Leche](/images/product/postres-cortadillo-leche.jpg "Cortadillo de Leche")
+![Cortadillo de Leche](/images/postres-cortadillo-leche.jpg "Cortadillo de Leche")
 
 Cortadillos de dulce de leche. Receta exclusiva, combinando un exquisito sablé de mantequilla prácticamente sin azúcar con dulce de leche cremoso. Estos irresistibles pastelillos van envueltos en papel parafinado, recordando los tradicionales «Cortadillos de Cidra», de ahí el nombre…
 

@@ -1,12 +1,12 @@
 ---
 title: "Panes"
 date: 2018-07-12T18:19:33+06:00
-bg_image: images/product/headers/panes.jpg
+bg_image: images/headers/panes.jpg
 description : "This is meta description"
-image : "images/product/thumbs/panes.jpg"
-image2 : "images/product/panes1.jpg"
-image3 : "images/product/panes2.jpg"
-image4 : "images/product/panes3.jpg"
+image : "images/thumbs/panes.jpg"
+image2 : "images/panes1.jpg"
+image3 : "images/panes2.jpg"
+image4 : "images/panes3.jpg"
 intro: "¿Cómo es  el pan d’Alicia? es un pan hecho a mano conservando toda la tradición de la producción, elaborar pan es complejo, es un arte de sentir en las manos en qué momento la masa está bien para pasar al siguiente paso, un gramo de más en la receta puede modificar su proceso, es una dedicación para cada uno, por eso ninguno es igual, son hechos sin conservantes, solo ingredientes naturales, por eso su caducidad es muy corta, cuidar tu salud es nuestro objetivo y ofrecer a tu mesa un pan para deleitar. La mayoría de panes que hacemos últimamente están hechos con masa madre, fermentación lenta y harina ecológica. En d’Alicia Café elaboramos diariamente cinco variedades de pan hecho a mano, están formados a mano, uno a uno, sin conservantes, sin ayudas, solo harina y agua. La producción es pequeña, así que te sugerimos reservar siempre tu pan con tiempo, se puede comprar directo en tienda en el El Pilar, Guadalmina y Sotogrande.
 "
 showsummary: yes

@@ -16,12 +16,12 @@ overview:
 description : "Granola d’Alicia Café"
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/granola.jpg"
+image : "images/thumbs/granola.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/granola.jpg"
+  - "images/granola.jpg"
 
 # product Price
 price: "5.60"
@@ -37,6 +37,6 @@ productWeight : "456g"
 stock: si
 
 ---
-![Granola](/images/product/granola.jpg "Granola")
+![Granola](/images/granola.jpg "Granola")
 
 Granola d’Alicia Café ideal para consumir con yogur, fruta, leche o miel.

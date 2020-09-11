@@ -16,12 +16,12 @@ overview:
 description : "Nuestra versión de una tarta de almendras horneada: base de pasta quebrada de mantequilla y almendra, rellena de suave financier de almendra y recubierta de aromáticos piñones españoles."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/postres-tartaletas-almendras-pinones.jpg"
+image : "images/thumbs/postres-tartaletas-almendras-pinones.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/postres-tartaletas-almendras-pinones.jpg"
+  - "images/postres-tartaletas-almendras-pinones.jpg"
 
 # product Price
 price: "1.45"
@@ -34,7 +34,7 @@ category: "Postres"
 stock: si
 
 ---
-![Tartaletas de Almendras y Piñones](/images/product/postres-tartaletas-almendras-pinones.jpg "Tartaletas de Almendras y Piñones")
+![Tartaletas de Almendras y Piñones](/images/postres-tartaletas-almendras-pinones.jpg "Tartaletas de Almendras y Piñones")
 
 Nuestra versión de una tarta de almendras horneada: base de pasta quebrada de mantequilla y almendra, rellena de suave financier de almendra y recubierta de aromáticos piñones españoles.
 

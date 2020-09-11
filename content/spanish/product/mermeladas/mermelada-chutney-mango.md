@@ -19,12 +19,12 @@ overview:
 description : "Todas las mermeladas y confituras disponibles en d'Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/mermelada-chutney-mango.jpg"
+image : "images/thumbs/mermelada-chutney-mango.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/mermelada-chutney-mango.jpg"
+  - "images/mermelada-chutney-mango.jpg"
 
 # product Price
 price: "3.95"
@@ -40,6 +40,6 @@ productWeight : "250g"
 stock: si
 
 ---
-![Chutney de Mango](/images/product/mermelada-chutney-mango.jpg "Chutney de Mango")
+![Chutney de Mango](/images/mermelada-chutney-mango.jpg "Chutney de Mango")
 
 Deliciosa salsa de mango con un toque picante. Para acompañar con platillos salados como arroz o carne.  También se puede consumir en ensaladas para darle un toque dulce y picante.

@@ -19,12 +19,12 @@ overview:
 description : "Sablé de gouda con comino"
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/sable-gouda-comino.jpg"
+image : "images/thumbs/sable-gouda-comino.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/sable-gouda-comino.jpg"
+  - "images/sable-gouda-comino.jpg"
 
 # product Price
 price: "3.95"
@@ -40,6 +40,6 @@ productWeight : "102g"
 stock: si
 
 ---
-![Sablé de gouda con comino](/images/product/sable-gouda-comino.jpg "Sablé de gouda con comino")
+![Sablé de gouda con comino](/images/sable-gouda-comino.jpg "Sablé de gouda con comino")
 
 Galletitas suaves de queso Gouda con un toque de comino.

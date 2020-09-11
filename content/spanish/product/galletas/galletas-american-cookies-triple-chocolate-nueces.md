@@ -16,12 +16,12 @@ overview:
 description : "El cookie para los amantes del chocolate"
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/galletas-american-cookie-triple-chocolate-nueces.jpg"
+image : "images/thumbs/galletas-american-cookie-triple-chocolate-nueces.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/galletas-american-cookie-triple-chocolate-nueces.jpg"
+  - "images/galletas-american-cookie-triple-chocolate-nueces.jpg"
 
 # product Price
 price: "4.10"
@@ -37,7 +37,7 @@ productWeight : "140g"
 stock: si
 
 ---
-![Galletas American Cookie - Triple Chocolate y Nueces](/images/product/galletas-american-cookie-triple-chocolate-nueces.jpg "Galletas American Cookie - Triple Chocolate y Nueces")
+![Galletas American Cookie - Triple Chocolate y Nueces](/images/galletas-american-cookie-triple-chocolate-nueces.jpg "Galletas American Cookie - Triple Chocolate y Nueces")
 
 Es el cookie para los amantes del chocolate: trocitos de chocolate recubiertos de cookie de cacao. Se puede comer como galleta o calentándola unos segundos en el microondas para que adquiera consistencia de Brownie.
 

@@ -15,12 +15,12 @@ stock: si
 description : "Barritas de Avena hechas con avena ecológica, panela, mantequilla, nuez moscada, coco y miel."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/BarritasDeAvena.jpeg"
+image : "images/thumbs/BarritasDeAvena.jpeg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/BarritasDeAvena.jpeg"
+  - "images/BarritasDeAvena.jpeg"
 
 # Overview
 overview:
@@ -32,7 +32,7 @@ overview:
     data : 3.30€
 
 ---
-![Barritas de Avena](/images/product/BarritasDeAvena.jpeg "Barritas de Avena")
+![Barritas de Avena](/images/BarritasDeAvena.jpeg "Barritas de Avena")
 
 Barritas de Avena hechas con avena ecológica, panela, mantequilla, nuez moscada, coco y miel.
 

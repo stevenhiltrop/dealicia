@@ -19,12 +19,12 @@ overview:
 description : "Receta belga muy apreciada. Cortadas muy finas, estas galletas de azúcar moreno y almendras con un toque de canela, resultan crujientes y sabrosas. Irresistibles."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/galletas-hojitas-belgas.jpg"
+image : "images/thumbs/galletas-hojitas-belgas.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/galletas-hojitas-belgas.jpg"
+  - "images/galletas-hojitas-belgas.jpg"
 
 # product Price
 price: "3.40"
@@ -40,6 +40,6 @@ productWeight : "103g"
 stock: si
 
 ---
-![Galletas Hojitas Belgas](/images/product/galletas-hojitas-belgas.jpg "Galletas Hojitas Belgas")
+![Galletas Hojitas Belgas](/images/galletas-hojitas-belgas.jpg "Galletas Hojitas Belgas")
 
 Receta belga muy apreciada. Cortadas muy finas, estas galletas de azúcar moreno y almendras con un toque de canela, resultan crujientes y sabrosas. Irresistibles.

@@ -20,12 +20,12 @@ overview:
 description : "Clásica galletita de mantequilla con trocitos de avellana y chocolate con leche."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/product/thumbs/galletas-chocolate-avellana.jpg"
+image : "images/thumbs/galletas-chocolate-avellana.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/galletas-chocolate-avellana.jpg"
+  - "images/galletas-chocolate-avellana.jpg"
 
 # product Price
 price: "3.50"
@@ -41,6 +41,6 @@ productWeight : "102g"
 stock: si
 
 ---
-![Galletas de Chocolate y Avellanas](/images/product/galletas-chocolate-avellana.jpg "Galletas de Chocolate y Avellanas")
+![Galletas de Chocolate y Avellanas](/images/galletas-chocolate-avellana.jpg "Galletas de Chocolate y Avellanas")
 
 Clásica galletita de mantequilla con trocitos de avellana y chocolate con leche.

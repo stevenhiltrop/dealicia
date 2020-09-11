@@ -16,12 +16,12 @@ overview:
 description : "Mantequilla de almendras naturales tostadas, sin conservantes. De producción limitada. Ideal para consumir en el desayuno o merienda. Su elaboración permite beneficiarse de todas las propiedades de la almendra."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "/images/product/thumbs/mantequillas-almendras.jpg"
+image : "/images/thumbs/mantequillas-almendras.jpg"
 
 # product Images
 # first image will be shown in the product page
 images:
-  - "images/product/mantequillas-almendras.jpg"
+  - "images/mantequillas-almendras.jpg"
 
 # product Price
 price: "6.50"
@@ -34,7 +34,7 @@ category: "Mantequillas de Frutos Secos"
 stock: si
 
 ---
-![Mantequilla de Almendras](/images/product/mantequillas-almendras.jpg "Mantequilla de Almendras")
+![Mantequilla de Almendras](/images/mantequillas-almendras.jpg "Mantequilla de Almendras")
 
 Mantequilla de almendras naturales tostadas, sin conservantes. De producción limitada. Ideal para consumir en el desayuno o merienda. Su elaboración permite beneficiarse de todas las propiedades de la almendra.
 

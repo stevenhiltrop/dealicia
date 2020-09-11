@@ -17,17 +17,17 @@ Si pudieran oler ahora mismo, este intenso sabor a chocolate, combinado con mant
 #### Galletas American Choc Chip Cookies
 Estas galletas gigantes se toman en los EUA calentitas con un poco de helado y a veces, salsa de chocolate caliente. Calentando la galleta unos segundos en microondas se vuelve tierna como un Brownie. También están muy ricas tomadas como una galleta, resultando crujiente y rica en sabores por la almendra y los trocitos de chocolate negro.
 
-![](/images/product/galletas-american-cookie.jpg)
+![](/images/galletas-american-cookie.jpg)
 
 #### Galletas American Cookies Triple Chocolate Y Nueces
 Es el cookie para los amantes del chocolate: trocitos de chocolate recubiertos de cookie de cacao. Se puede comer como galleta o calentándola unos segundos en el microondas para que adquiera consistencia de Brownie.
 
-![](/images/product/galletas-american-cookie-triple-chocolate-nueces.jpg)
+![](/images/galletas-american-cookie-triple-chocolate-nueces.jpg)
 
 #### Galletas American Cookie De Coco Y Chocolate Con Leche
 Deliciosa combinación de coco y chocolate con leche en una galleta.
 
-![](/images/product/galletas-american-cookie-coco-chocolate.jpg)
+![](/images/galletas-american-cookie-coco-chocolate.jpg)
 
 
 
