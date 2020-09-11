@@ -137,15 +137,17 @@ collections:
     editor:
       preview: false
     files:
-      - label: "Slider"
-        name: "slider"
+      - name: "slider"
+        label: "Slider"
         file: "data/es/homepage.yml"
-        widget: list
+        description: "Homepage Slider items"
         fields:
-          - label: 'Slider Item'
-            name: 'slider_Item'
+          - name: 'slider_item'
+            label: 'Slider Items'
+            label_singular: "Slider Item"
             widget: list
             fields:
               - {label: 'title', name: 'title', widget: markdown}
               - {label: 'Subtitle', name: 'subtitle', widget: string}
+              - {label: 'Content', name: 'content', widget: string}
               - {label: 'Image', name: 'bg_image', widget: image}
