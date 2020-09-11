@@ -4,13 +4,15 @@ author: Yareri Aguilar
 title: "La granola y sus beneficios"
 date: 2020-01-27T11:07:10+06:00
 temas: ["Desayunos"]
+draft: false
 images:
   - /images/blog/granola-dealicia-sinconservantes-pasteleria-guadalmina-sotogrande-estepona-marbella.jpeg
+image: /images/blog/granola-dealicia-sinconservantes-pasteleria-guadalmina-sotogrande-estepona-marbella.jpeg
+description: La granola y sus beneficios
 tags:
   - granola
 type: post
-image: /images/blog/granola-dealicia-sinconservantes-pasteleria-guadalmina-sotogrande-estepona-marbella.jpeg
-description: This is meta description
+
 ---
 
 ### ¿Conoces la granola?
