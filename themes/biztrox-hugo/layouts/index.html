@@ -71,6 +71,11 @@
 {{ partial "cta.html" . }}
 {{ end }}
 
+{{ if $data.homepage.deal.enable }}
+{{ partial "deal.html" . }}
+{{ end }}
+
+
 {{ if $data.homepage.blog.enable }}
 {{ "<!-- blog -->" | safeHTML }}
 <section class="section bg-gray">
