@@ -1,16 +1,15 @@
 ---
-title: "Condiciones de Compra"
+title: Condiciones de Compra
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/background/page-title.jpg
-description : "This is meta description"
-layout : list
+description: This is meta description
+layout: list
 ---
-
 #### Tu pedido en solo 3 pasos:
 
-1. Añade a tu cesta los productos que desees
-2. Elige la forma de pago que prefieres: Tarjeta de crédito, paypal o transferencia bancaria
-3. Recibe tu pedido en 24-48 horas
+1. Añade a tu cesta los productos que desees.
+2. Elige la forma de pago que prefieres: Tarjeta de crédito, paypal o transferencia bancaria.
+3. Recibe tu pedido en 24-48 horas.
 4. Estará en tu casa en 24-48 horas si realizas tu pedido antes de las 13:00 cualquier día laborable.
 
 Si lo prefieres también puedes realizar tu pedido por teléfono.

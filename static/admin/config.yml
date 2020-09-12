@@ -96,3 +96,59 @@ collections:
       - {label: "Product Price", name: "price", widget: "string"}
       - {label: "In Stock", name: "stock", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
+
+  #EXTRA PAGES#####################################################################
+  - label: "Legal"
+    name: "pages"
+    files:
+        ## START
+      - label: "Condiciones de compra"
+        name: "condiciones_compra"
+        file: "content/spanish/legal/condiciones_compra.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+        ## /END
+      - label: "Aviso Legal"
+        name: "avisolegal"
+        file: "content/spanish/legal/avisolegal.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+        ## /END
+      - label: "Politica de Cookies"
+        name: "politica_cookies"
+        file: "content/spanish/legal/politica_cookies.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+        ## /END
+      - label: "Politica de privacidad"
+        name: "politica_privacidad"
+        file: "content/spanish/legal/politica_privacidad.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Body, name: body, widget: markdown}
+        ## /END
+# SETTINGS ##############################################
+  - label: "Settings"
+    name: "settings"
+    delete: false # users shouldnt be able to delete here.
+    editor:
+      preview: false
+    files:
+      - name: "slider"
+        label: "Slider"
+        file: "data/es/homepage.yml"
+        description: "Homepage Slider items"
+        widget: "list"
+        fields:
+          - name: 'slider_Item'
+            label: 'Slider Items'
+            label_singular: "Slider Item"
+            widget: "list"
+            fields:
+              - {label: 'title', name: 'title', widget: markdown}
+              - {label: 'Subtitle', name: 'subtitle', widget: string}
+              - {label: 'Content', name: 'content', widget: string}
+              - {label: 'Image', name: 'bg_image', widget: image}
