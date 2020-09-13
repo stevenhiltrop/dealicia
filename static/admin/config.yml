@@ -156,9 +156,11 @@ collections:
               - {label: 'Image', name: 'bg_image', widget: image}
 
   # Homepage Items ##############################################
+
+
   - label: "Homepage Items"
     name: "home"
-    files:
+    fields:
       - label: "Homepage Banner"
         name: "deal"
         file: "data/es/homepage.yml"
