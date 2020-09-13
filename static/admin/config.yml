@@ -131,33 +131,7 @@ collections:
           - {label: Body, name: body, widget: markdown}
         ## /END
 
-  # SETTINGS ##############################################
-  - label: "Settings"
-    name: "settings"
-    delete: false # users shouldnt be able to delete here.
-    editor:
-      preview: false
-
-    files:
-      - name: "slider"
-        label: "Slider"
-        file: "data/es/homepage.yml"
-        description: "Homepage Slider items"
-        widget: "list"
-        fields:
-          - name: 'slider_Item'
-            label: 'Slider Items'
-            label_singular: "Slider Item"
-            widget: "list"
-            fields:
-              - {label: 'title', name: 'title', widget: markdown}
-              - {label: 'Subtitle', name: 'subtitle', widget: string}
-              - {label: 'Content', name: 'content', widget: string}
-              - {label: 'Image', name: 'bg_image', widget: image}
-
   # Homepage Items ##############################################
-
-
   - label: "Homepage Items"
     name: "home"
     fields:
