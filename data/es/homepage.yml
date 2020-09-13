@@ -86,6 +86,23 @@ service:
   enable : false
   # service item comes from "content/service" folder
 
+############################## Deal ######################################
+deal:
+  enable : true
+  subtitle : "Oferta del mes"
+  title : "Barritas de avena"
+  content : "Date prisa! queda poco tiempo!"
+  bg_image : "images/background/cta.jpg"
+  button:
+    enable : true
+    label : "Comprar"
+    link : "product/saludables/barritasdeavena/"
+
+  # set timer
+  year: "2020"
+  month: "10"
+  day: "15"
+  hour: "01"
 
 ######################################## About #########################################
 about:

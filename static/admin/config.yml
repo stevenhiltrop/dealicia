@@ -152,3 +152,25 @@ collections:
               - {label: 'Subtitle', name: 'subtitle', widget: string}
               - {label: 'Content', name: 'content', widget: string}
               - {label: 'Image', name: 'bg_image', widget: image}
+
+  # SETTINGS ##############################################
+    - label: "Homepage Items"
+      name: "home"
+      delete: true # users shouldnt be able to delete here.
+      editor:
+        preview: true
+      files:
+        - name: "Hbanner"
+          label: "Homepage Banner"
+          file: "themes/biztrox-hugo//layouts/partials/deal.yml"
+          description: "Homepage Banner"
+          widget: "list"
+          fields:
+            - name: 'banner'
+              label: 'Homepage Banner'
+              label_singular: "Slider Item"
+              widget: "list"
+              fields:
+                - {label: 'title', name: 'title', widget: markdown}
+                - {label: 'Content', name: 'content', widget: string}
+                - {label: 'Image', name: 'bg_image', widget: image}
