@@ -137,6 +137,7 @@ collections:
     delete: false # users shouldnt be able to delete here.
     editor:
       preview: false
+
     files:
       - name: "slider"
         label: "Slider"
@@ -155,23 +156,13 @@ collections:
               - {label: 'Image', name: 'bg_image', widget: image}
 
   # Homepage Items ##############################################
-  - label: "Homepage Items"
-    name: "home"
-    delete: true # users shouldnt be able to delete here.
+  - label: "Homepage Banner"
+    name: "hbanner"
+    file: "themes/biztrox-hugo//layouts/partials/deal.yml"
+    delete: true
     editor:
       preview: true
-    files:
-      - name: "Hbanner"
-        label: "Homepage Banner"
-        file: "themes/biztrox-hugo//layouts/partials/deal.yml"
-        description: "Homepage Banner"
-        widget: "list"
-        fields:
-          - name: 'banner'
-            label: 'Homepage Banner'
-            label_singular: "Slider Item"
-            widget: "list"
-            fields:
-              - {label: 'title', name: 'title', widget: markdown}
-              - {label: 'Content', name: 'content', widget: string}
-              - {label: 'Image', name: 'bg_image', widget: image}
+    fields:
+      - {label: 'title', name: 'title', widget: markdown}
+      - {label: 'Content', name: 'content', widget: string}
+      - {label: 'Image', name: 'bg_image', widget: image}
