@@ -158,7 +158,7 @@ collections:
   # Homepage Items ##############################################
   - label: "Homepage Banner"
     name: "hbanner"
-    file: "themes/biztrox-hugo//layouts/partials/deal.yml"
+    file: "themes/biztrox-hugo/layouts/partials/deal.yml"
     delete: true
     editor:
       preview: true
