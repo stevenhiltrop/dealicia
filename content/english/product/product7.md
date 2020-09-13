@@ -3,7 +3,7 @@ title: "Finance Consultancy"
 date: 2018-09-24T14:48:03+06:00
 description : "This is meta description"
 bg_image: images/background/page-title.jpg
-image : images/product/product-7.jpg
+image : images/product-7.jpg
 live_demo : "#"
 case_study : "#"
 category: Dynamic Development
