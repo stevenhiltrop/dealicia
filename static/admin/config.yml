@@ -134,7 +134,8 @@ collections:
   # Homepage Items ##############################################
   - label: "Homepage Banner"
     name: "deal"
-    folder: "data/es" # The path to the folder where the documents are stored
+    file: "data/es/homepage.yml"
+
     create: true # Allow users to create new documents in this collection
     fields:
       - {label: 'title', name: 'title', widget: string}
