@@ -161,8 +161,8 @@ collections:
     files:
       - label: "Homepage Banner"
         name: "deal"
-        file: "themes/biztrox-hugo/layouts/partials/deal.yml"
+        file: "data/es/homepage.yml"
         fields:
-          - {label: 'title', name: 'title', widget: markdown}
-          - {label: 'Content', name: 'content', widget: markdown}
+          - {label: 'title', name: 'title', widget: string}
+          - {label: 'Content', name: 'content', widget: string}
           - {label: 'Image', name: 'bg_image', widget: image}
