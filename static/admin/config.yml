@@ -158,7 +158,7 @@ collections:
   # Homepage Items ##############################################
   - label: "Homepage Banner"
     name: "deal"
-    file: "themes/biztrox-hugo/layouts/partials/deal.yml"
+    files: "themes/biztrox-hugo/layouts/partials/deal.yml"
     fields:
       - {label: 'title', name: 'title', widget: string}
       - {label: 'Content', name: 'content', widget: string}
