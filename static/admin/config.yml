@@ -134,7 +134,7 @@ collections:
   # Homepage Items ##############################################
   - label: "Homepage Items"
     name: "home"
-    fields:
+    files:
       - label: "Homepage Banner"
         name: "deal"
         file: "data/es/homepage.yml"
