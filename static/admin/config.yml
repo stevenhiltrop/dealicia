@@ -132,12 +132,19 @@ collections:
         ## /END
 
   # Homepage Items ##############################################
-  - label: "Homepage Banner"
-    name: "deal"
-    file: "data/es/homepage.yml"
-
-    create: true # Allow users to create new documents in this collection
-    fields:
-      - {label: 'title', name: 'title', widget: string}
-      - {label: 'Content', name: 'content', widget: string}
-      - {label: 'Image', name: 'bg_image', widget: image}
+  - label: "Homepage"
+    name: "homez"
+    files:
+      - label: "Banner"
+        name: "deal"
+        file: "content/spanish/deal.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Content, name: content, widget: string}
+          - label: Deal
+            name: deal
+            widget: list
+            fields:
+              - {label: Title, name: title, widget: string}
+              - {label: Content, name: content, widget: string}
+              - {label: Image, name: bg_image, widget: image}
