@@ -137,8 +137,27 @@ collections:
     files:
       - label: "Banner"
         name: "deal"
-        file: "data/es/deal.yml"
+        file: "content/spanish/deal.md"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Content, name: content, widget: string}
           - {label: Image, name: bg_image, widget: image}
+
+  - label: "Settings"
+    name: "settings"
+    delete: false # users shouldnt be able to delete here.
+    editor:
+      preview: false
+    files:
+      - label: "Oferta"
+        name: "deal"
+        file: "data/es/homepage.yml"
+        fields:
+          - {label: 'Title', name: 'title', widget: string}
+          - {label: 'Subtitle', name: 'subtitle', widget: string}
+          - {label: 'Content', name: 'content', widget: string}
+          - {label: 'Year', name: 'year', widget: string}
+          - {label: 'Month', name: 'month', widget: string}
+          - {label: 'Day', name: 'day', widget: string}
+          - {label: 'Hour', name: 'hour', widget: string}
+          - {label: 'Enabled', name: 'enable', widget: boolean}
