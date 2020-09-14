@@ -1143,17 +1143,22 @@ code{
   .slick-dots {display: none !important;}
   /* Mantequillas */
   .hero-slider-item:nth-child(2) {
-    background-position: -160px 0;
+    background-position: -290px 0;
   }
 
-  /* Saludables */
+  /* Mermeladas */
+  .hero-slider-item:nth-child(3) {
+    background-position: -530px 0;
+  }
+
+  /* Tartas */
   .hero-slider-item:nth-child(6) {
-    background-position: -720px 0;
+    background-position: -680px 0;
   }
 
   /* Tartas */
   .hero-slider-item:nth-child(5) {
-    background-position: -780px 0;
+    background-position: -820px 0;
   }
 }
 
