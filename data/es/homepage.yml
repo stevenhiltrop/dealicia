@@ -96,7 +96,7 @@ promo_video:
 deal:
   month: "10"
   bg_image: images/background/cta.jpg
-  enable: true
+  enable: false
   hour: "01"
   button:
     enable: true
