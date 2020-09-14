@@ -137,7 +137,7 @@ collections:
     files:
       - label: "Banner"
         name: "deal"
-        file: "content/spanish/deal.md"
+        file: "data/es/deal.yml"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Content, name: content, widget: string}
