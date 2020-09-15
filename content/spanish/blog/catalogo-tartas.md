@@ -1,6 +1,6 @@
 ---
-title: "Menu de tartas personalizadas"
-bg_image: images/background/page-title.jpg
+title: "Menú de Tartas d'Alicia"
+bg_image: images/headers/tartas_menu.jpg
 date: 2019-11-11T11:07:10+06:00
 description : "Prepara tu Mesa Dulce"
 author: Yareri Aguilar
@@ -12,12 +12,24 @@ type: post
 images:
   - "/images/blog/MesaCumple_MesaDulce.jpg"
 ---
+15  opciones diferentes dentro del menú de las tartas d'Alicia. Para comprar las tartas del menú d'Alicia tienes dos posibilidades:
+
+1- Comprar directo en las tiendas El Pilar (Estepona), Guadalmina y Sotogrande (enlaces a google maps de las tiendas)
+
+2- Comprar desde la app para solo ir a recoger. Solo tienes que descargar la app de BR  (Enlace a la app BR)  y buscar d'Alicia.
+Todas las tartas d'Alicia están hechas con ingredientes naturales sin conservantes.
 
 ##### Tarta de Choco-Frambuesa
 
 Tierno bizcocho de chocolate con nata y frambuesas, recubierto de ganache de chocolate 70% cacao y decorada con discos de chocolate blanco.
 
 ![](/images/tartas/Tartas-d'Alicia-choco-fambuesa.jpg)
+
+##### Mousse de Frambuesa
+
+Base de galleta bretona crujiente, con chocolate blanco, mousse de frambuesa y frambuesas.
+
+![](/images/tartas/Tartas-d'Alicia-sable-frambuesa.jpg)
 
 ##### Choco Merengue
 
@@ -78,3 +90,15 @@ Base de merengue crujiente con nata y fruta de temporada.
 Nuestra famosa tarta de crema limón con merengue.
 
 ![](/images/tartas/Tartas-d'Alicia-primavera.jpg)
+
+##### Tarta Verano
+
+Capas de bizcocho blanco, mousse de mango y fruta de la pasión (Maracuyá), Dacqoise de almendra y avellana, Chantilly recubiertas con una fina capa de merengue flambeado.
+
+![](/images/tartas/Tartas-d'Alicia-verano.jpg)
+
+##### NY Cheesecake
+
+Nuestra tarta de queso crema, estilo New York con base crujiente de galleta de avena.
+
+![](/images/tartas/Tartas-d'Alicia-cheesecake.jpg)
