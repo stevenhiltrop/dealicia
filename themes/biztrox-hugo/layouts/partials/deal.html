@@ -1,6 +1,6 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
-{{ with $data.deal }}
-{{ "<!-- cta -->" | safeHTML }}
+{{ with $data.homepage.deal }}
+{{ "<!-- deal -->" | safeHTML }}
 <section class="cta overlay-primary py-50 text-center text-lg-left"
 	style="background-image: url('{{ .bg_image | absURL }}');">
 	<div class="container">
@@ -19,5 +19,5 @@
 		</div>
 	</div>
 </section>
-{{ "<!-- /cta -->" | safeHTML }}
+{{ "<!-- /deal -->" | safeHTML }}
 {{ end }}

@@ -96,7 +96,7 @@ promo_video:
 deal:
   month: "10"
   bg_image: images/background/cta.jpg
-  enable: false
+  enable: true
   hour: "01"
   button:
     enable: true
@@ -147,7 +147,7 @@ about:
 product:
   enable: true
 cta:
-  enable: true
+  enable: false
   bg_image: images/background/cta.jpg
   title: Barritas de Avena
   button:
