@@ -107,12 +107,8 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
       - {label: "Main Image", name: "image", widget: "image"}
-      - {label: "Slides Images", name: "images", widget: "image"}
       - {label: "Categories", name: "category", widget: "select", multiple: true, options: ["Tartas"]}
       - {label: "Descripción", name: "description", widget: "string"}
-      - {label: "Product Shipping Weight", name: "productWeight", widget: "string"}
-      - {label: "Product Price", name: "price", widget: "string"}
-      - {label: "In Stock", name: "stock", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
 
 
