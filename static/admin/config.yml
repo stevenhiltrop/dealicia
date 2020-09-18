@@ -104,10 +104,7 @@ collections:
     slug: "{{slug}}"
     fields:
       - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Draft", name: "draft", widget: "boolean", default: false}
       - {label: "Main Image", name: "image", widget: "image"}
-      - {label: "Categories", name: "category", widget: "select", multiple: true, options: ["Tartas"]}
       - {label: "Descripción", name: "description", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
 
