@@ -34,7 +34,7 @@ priceBefore: ""
 category: "Postres"
 
 # weight
-productWeight : "80g"
+productWeight : "80"
 
 # in stock? (accepts true/false | yes/no | si/no | 1/0)
 stock: no

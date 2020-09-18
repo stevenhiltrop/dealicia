@@ -34,7 +34,7 @@ priceBefore: ""
 category: "Chocolates"
 
 # weight
-productWeight : "250g"
+productWeight : "250"
 
 # in stock? (accepts true/false | yes/no | si/no | 1/0)
 stock: no

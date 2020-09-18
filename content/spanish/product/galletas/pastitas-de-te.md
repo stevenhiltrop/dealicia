@@ -34,7 +34,7 @@ priceBefore: ""
 category: "Galletas Dulces"
 
 # weight
-productWeight : "355g"
+productWeight : "355"
 
 # in stock? (accepts true/false | yes/no | si/no | 1/0)
 stock: si

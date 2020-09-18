@@ -37,7 +37,7 @@ priceBefore: ""
 category: "Galletas Dulces"
 
 # weight
-productWeight : "110g"
+productWeight : "110"
 
 # dimentions
 dimensions : "10 x 10 x 15 cm"
