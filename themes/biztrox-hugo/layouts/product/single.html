@@ -27,6 +27,7 @@
 					data-item-image="{{ with .Params.Images }} {{ range first 1 .}} {{ . | absURL }}{{ end }}{{ end }}"
 					data-item-price="{{ .Params.Price }}"
 					data-item-url="{{ .Permalink }}"
+					data-item-weight="{{ .Params.productWeight }}"
 					data-item-description="{{ .Params.Description | markdownify }}"
 					{{ if .Params.Colors }}
 					data-item-custom1-name="Choose Color"
