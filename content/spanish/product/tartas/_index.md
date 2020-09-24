@@ -1,13 +1,13 @@
 ---
-title: "Tartas"
+title: Tartas
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/headers/tartas.jpg
-description : "This is meta description"
-image : "images/thumbs/tartas.jpg"
-image2 : "images/weddingcakes-dealicia.jpg"
-cakeform : yes
+image: images/thumbs/tartas.jpg
+description: This is meta description
+image2: images/weddingcakes-dealicia.jpg
+cakeform: yes
 ---
-
+ 
 ## Tartas
 
 El sabor se percibe a través del cerebro donde cada alimento en nuestro paladar se queda grabado como una experiencia. La importancia de la  producción artesanal en d’Alicia es el conservar el sabor auténtico de cada ingrediente para poder deleitar en el paladar una combinación única de d’Alicia.
