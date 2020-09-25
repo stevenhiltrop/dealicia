@@ -20,7 +20,7 @@ El valor de una tarta es su sabor y la presentación, en d’Alicia ofrecemos ta
 
 Para ver el menú de nuestras tartas [](/blog/catalogo-tartas)d'Alicia que puedes encontrar en nuestras tiendas de El Pilar, Guadalmina y Sotogrande. Pincha en [Tartas](/blog/catalogo-tartas) 
 
-También puedes comprar tu tarta desde la app BR y recoger en tu tienda mas cercana El Pilar, Guadlamina y Sotogrande. Las tartas las encuentras en postres. Echa un vistazo para ver [como funciona la app](https://youtu.be/ZRNiR2jcL_w) 
+También puedes comprar tu tarta desde la app BR y recoger en tu tienda mas cercana El Pilar, Guadlamina y Sotogrande. Las tartas las encuentras en postres. Echa un vistazo para ver [como funciona la app](https://youtu.be/ZRNiR2jcL_w)
 
 Descarga para [IOS](https://apps.apple.com/es/app/br-bars-restaurants/id1495034970) 
 
