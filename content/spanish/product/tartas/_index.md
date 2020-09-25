@@ -28,7 +28,7 @@ Descarga para [android](https://play.google.com/store/apps/details?id=com.brbars
 
 ### Tartas personalizadas d'Alicia 
 
-Personalizamos tartas para: bodas, cumpleaños, bautizos, comuniones, aniversarios, corporativas. 
+Personalizamos tartas para: bodas, cumpleaños, bautizos, comuniones, aniversarios, corporativas o cualquier celebración especial. 
 
 Para este tipo de tartas puedes elegir cualquier sabor de nuestra lista, para las tartas personalizadas  solo cambia la decoración y forma.  Reserva con tiempo tu tarta.
 
