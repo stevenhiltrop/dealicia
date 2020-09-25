@@ -480,6 +480,20 @@ button {
   padding: 160px 0 100px;
 }
 
+@media (max-width: 575px) {
+  .page-title.overlay {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 60px 0px !important;
+  }
+  .breadcrumb,
+  .breadcrumb a {
+    margin: 0 0px 0 0px;
+    padding: 0 0 0 0;
+  }
+
+}
 /* breadcrumb */
 .breadcrumb {
   background-color: transparent !important;
