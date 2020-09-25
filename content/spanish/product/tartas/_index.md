@@ -16,7 +16,7 @@ La mezcla de las texturas en el paladar son una explosión de sensaciones reflej
 El valor de una tarta es su sabor y la presentación, en d’Alicia ofrecemos tartas que podríamos definir así: frescas, sencillas, simples, suaves, crujientes, tiernas, esponjosas, pero sobre todo **auténticas y naturales**.
 
 
-### Tartas Menú d'Alicia
+### Tartas menú d'Alicia
 
 Para ver el menú de nuestras tartas [](/blog/catalogo-tartas)d'Alicia que puedes encontrar en nuestras tiendas de El Pilar, Guadalmina y Sotogrande. Pincha en [Tartas](/blog/catalogo-tartas) 
 
