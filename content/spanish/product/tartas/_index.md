@@ -7,7 +7,7 @@ description: This is meta description
 image2: images/weddingcakes-dealicia.jpg
 cakeform: yes
 ---
-## Tartas
+## Tartas d'Alicia
 
 El sabor se percibe a través del cerebro donde cada alimento en nuestro paladar se queda grabado como una experiencia. La elaboración artesanal de las tartas d’Alicia te garantiza poder deleitar en el paladar una combinación única.
 
