@@ -2573,3 +2573,7 @@ blockquote{
 }
 
 .slidersubtext {font-weight: 600;}
+
+.horario strong {
+  margin-top: 3px;
+}
