@@ -22,6 +22,6 @@ description: Todas las mermeladas y confituras disponibles en d'Alicia son
   un mínimo de 60% de higos con un poco de zumo y cascara de naranja, azúcar y
   pectina de manzana. Conseguimos una confitura menos dulce y mas aromática.
 ---
-![Mermelada de Higos con Naranja](/images/mermelada-chutney-mango.jpg "Mermelada de Higos con Naranja")
+![Mermelada de Higos con Naranja](/images/uploads/mermeladadehigosconnaranja.jpg "Mermelada de Higos con Naranja")
 
 Todas las mermeladas y confituras disponibles en d'Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano. Utilizamos un mínimo de 60% de higos con un poco de zumo y cáscara de naranja, azúcar y pectina de manzana. Conseguimos una confitura menos dulce y más aromática.
