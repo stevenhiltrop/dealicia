@@ -1,6 +1,6 @@
 ---
 title: Galleta Halloween
-date: 2020-10-27T10:45:11.794Z
+date: 2020-10-28T12:17:50.706Z
 draft: false
 image: /images/uploads/dealicia_cafe_halloween_cookies-copia.jpg
 images: /images/uploads/dealicia_cafe_halloween_cookies-copia.jpg
