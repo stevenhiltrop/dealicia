@@ -10,5 +10,6 @@ description: "Galleta de sablé de almendras. "
 productWeight: 35 g
 price: 2,20
 stock: true
+type: product
 ---
 Galleta Gato Negro Halloween
