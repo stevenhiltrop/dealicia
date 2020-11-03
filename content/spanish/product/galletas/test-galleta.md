@@ -1,7 +1,7 @@
 ---
 title: Test Galleta
 date: 2020-11-03T15:55:54.404Z
-draft: false
+draft: true
 image: /images/uploads/testimage.jpg
 images: /images/uploads/testimage.jpg
 category:
