@@ -87,13 +87,14 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
-      - {label: "Main Image - 1024x768px", name: "image", widget: "image"}
-      - {label: "Thumb Image - 586x648px", name: "images", widget: "image"}
+      - {label: "Main Image - 1024x768px", name: "images", widget: "image"}
+      - {label: "Thumb Image - 586x648px", name: "image", widget: "image"}
       - {label: "Categories", name: "category", widget: "select", multiple: true, options: ["Saludables"]}
       # - {label: "Categories", name: "categories", widget: "list"}
-      - {label: "Descripción", name: "description", widget: "string"}
+      - {label: "Description", name: "description", widget: "string"}
+      - {label: "Product List Weight", name: "listWeight", widget: "string"}
       - {label: "Product Shipping Weight", name: "productWeight", widget: "string"}
-      - {label: "Product Price", name: "price", widget: "string"}
+      - {label: "Price", name: "price", widget: "string"}
       - {label: "In Stock", name: "stock", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
 
