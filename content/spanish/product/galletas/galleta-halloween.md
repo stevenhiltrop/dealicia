@@ -5,7 +5,7 @@ draft: false
 type: product
 
 image: /images/uploads/galletas_haloween.jpg
-category : Galletas Dulces
+category : sGalletas Dulces
 description: "Galleta de sablé de almendras."
 productWeight: "35"
 price: "2.20"
