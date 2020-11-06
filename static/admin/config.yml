@@ -87,8 +87,8 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
-      - {label: "Main Image - 1024x768px", name: "images", widget: "image"}
-      - {label: "Thumb Image - 586x648px", name: "image", widget: "image"}
+      - {label: "Main Image - 1024x768px", name: "image", widget: "image"}
+      - {label: "Thumb Image - 586x648px", name: "thumb", widget: "image"}
       - {label: "Categories", name: "category", widget: "select", multiple: true, options: ["Saludables"]}
       # - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Description", name: "description", widget: "string"}
