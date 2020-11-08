@@ -92,16 +92,15 @@ collections:
       - label: 'Overview'
         name: 'overview'
         widget: 'object'
-        collapsed: true
+        collapsed: false
         fields:
           - { label: 'Category Public', name: 'categoria', widget: 'string' }
-          - { label: 'Text', name: 'text', widget: 'text' }
           - { label: 'Weight Public (g)', name: 'number', widget: 'number' }
 
       - {label: "Categories", name: "category", widget: "select", multiple: true, options: ["Saludables"]}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Product List Weight", name: "listWeight", widget: "string"}
-      - {label: "Product Shipping Weight", name: "productWeight", widget: "string"}
+      - {label: "Product Shipping Weight (g)", name: "productWeight", widget: "number"}
       - {label: "Price", name: "price", widget: "string"}
       - {label: "In Stock", name: "stock", widget: "boolean", default: true}
       - {label: "Body", name: "body", widget: "markdown"}
