@@ -4,8 +4,8 @@ backend:
 logo_url: https://www.dealicia.com/images/logo.png
 
 # These lines should *not* be indented
-media_folder: "static/images" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images/uploads
+media_folder: "static/images" # Media files will be stored in the repo under static/images
+public_folder: "static/images" # The src attribute for uploaded media will begin with /images
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
@@ -88,9 +88,17 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
       - {label: "Main Image - 1024x768px", name: "image", widget: "image"}
-      - {label: "Thumb Image - 586x648px", name: "thumb", widget: "image"}
+      - {label: "Thumbnail - 586x648px", name: "thumb", widget: "image"}
+      - label: 'Overview'
+        name: 'overview'
+        widget: 'object'
+        collapsed: true
+        fields:
+          - { label: 'Category Public', name: 'categoria', widget: 'string' }
+          - { label: 'Text', name: 'text', widget: 'text' }
+          - { label: 'Weight Public (g)', name: 'number', widget: 'number' }
+
       - {label: "Categories", name: "category", widget: "select", multiple: true, options: ["Saludables"]}
-      # - {label: "Categories", name: "categories", widget: "list"}
       - {label: "Description", name: "description", widget: "string"}
       - {label: "Product List Weight", name: "listWeight", widget: "string"}
       - {label: "Product Shipping Weight", name: "productWeight", widget: "string"}
