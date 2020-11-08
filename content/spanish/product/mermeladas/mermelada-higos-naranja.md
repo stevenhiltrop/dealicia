@@ -15,7 +15,7 @@ overview:
   - label: Precio
     data: 3.95€
 type: product
-image: /images/uploads/mermeladadehigosconnaranja.jpg
+image: /images/uploads/Mermeladas.jpg
 category: Mermeladas
 description: Todas las mermeladas y confituras disponibles en d'Alicia son
   caseras y 100% naturales, cocidas a fuego lento y envasadas a mano. Utilizamos
