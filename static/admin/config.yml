@@ -51,8 +51,8 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: false}
-      - {label: "Main Image", name: "image", widget: "image"}
-      - {label: "Slides Images", name: "images", widget: "image"}
+      - {label: "Main Image - 1024x768px", name: "image", widget: "image"}
+      - {label: "Thumbnail - 586x648px", name: "images", widget: "image"}
       - {label: "Categories", name: "category", widget: "select", multiple: true, options: ["Mermeladas"]}
       - {label: "Descripción", name: "description", widget: "string"}
       - {label: "Product Shipping Weight", name: "productWeight", widget: "string"}
