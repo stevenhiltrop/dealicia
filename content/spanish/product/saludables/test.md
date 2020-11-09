@@ -1,5 +1,5 @@
 ---
-title: Test
+title: Tests
 date: 2020-11-08T22:33:07.721Z
 draft: true
 image: /images/uploads/galletas_haloween.jpg
