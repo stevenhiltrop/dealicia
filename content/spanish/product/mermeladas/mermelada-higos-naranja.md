@@ -2,7 +2,7 @@
 title: Mermelada de Higos con Naranja
 date: 2020-05-26T13:39:07+06:00
 draft: false
-images: /images/thumbs/mermeladasad.jpg
+images: /images/thumbs/mermeladas.jpg
 productWeight: "250"
 priceBefore: ""
 price: "3.95"
