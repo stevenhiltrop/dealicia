@@ -1,13 +1,13 @@
 ---
 title: Mermelada de Moras
 date: 2020-05-26T13:39:07+06:00
-draft: false
+draft: true
 images:
   - images/mermelada-moras.jpg
 productWeight: "250"
 priceBefore: ""
 price: "3.95"
-stock: si
+stock: false
 overview:
   - label: Categoría
     data: Mermeladas
