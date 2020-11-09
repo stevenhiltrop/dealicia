@@ -5,7 +5,7 @@ logo_url: https://www.dealicia.com/images/logo.png
 
 # These lines should *not* be indented
 media_folder: "static/images/uploads" # Media files will be stored in the repo under static/images
-public_folder: "/images/uploads" # The src attribute for uploaded media will begin with /images
+public_folder: "images/uploads" # The src attribute for uploaded media will begin with /images
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
@@ -96,7 +96,7 @@ collections:
         collapsed: false
         fields:
           - { label: 'Category Public', name: 'categoria', widget: 'string' }
-          - { label: 'Weight Public (g)', name: 'number', widget: 'number' }
+          - { label: 'Weight Public (g)', name: 'peso', widget: 'number' }
 
       - {label: "Meta Description", name: "description", widget: "string"}
       - {label: "Product Shipping Weight (g)", name: "productWeight", widget: "number"}
