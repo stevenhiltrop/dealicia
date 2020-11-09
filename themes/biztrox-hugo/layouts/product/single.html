@@ -13,8 +13,9 @@
 					<ul class="pl-0 mb-20">
 						<li class="py-3 border-bottom"><span class="d-inline-block" style="width: 140px;">{{ i18n "product_name" }}:</span><span class="rightdets">{{ .Title }}</span></li>
 						{{ range .Params.Overview }}
-						<li class="py-3 border-bottom"><span class="d-inline-block" style="width: 140px;">{{ .label }}:</span><span class="rightdets">{{ .data }}</span></li>
+						<li class="py-3 border-bottom"><span class="d-inline-block" style="width: 140px;">there:</span><span class="rightdets">hi</span></li>
 						{{ end }}
+						<li class="py-3 border-bottom"><span class="d-inline-block" style="width: 140px;">Precio:</span><span class="rightdets">{{ .Params.Price }}€</span></li>
 					</ul>
 					<!-- Product available in stock ? -->
 	{{if not .Params.stock }}
@@ -45,6 +46,8 @@
 			<div class="col-lg-8 order-lg-2 order-1">
 				<!-- <img class="img-fluid w-100 mb-60" src="{{ .Params.Image | absURL }}" alt="product image"> -->
 				<div class="product-content">
+
+
 					{{ .Content }}
 				</div>
 			</div>
