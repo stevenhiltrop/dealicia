@@ -8,9 +8,9 @@ category:
   - Saludables
 overview:
   categoria: Saludable
-  number: 44
-productWeight: 50
-price: "25"
+  number: 50
+productWeight: 60
+price: 25
 listWeight: "50"
 description: Meta desc here
 stock: true
