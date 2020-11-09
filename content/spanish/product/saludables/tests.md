@@ -10,7 +10,7 @@ category:
 description: Meta desc
 weight: 50
 productWeight: 60
-price: 3
+price: 3.5
 stock: true
 ---
 Body desc
