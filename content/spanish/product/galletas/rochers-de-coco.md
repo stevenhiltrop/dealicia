@@ -16,7 +16,7 @@ overview:
 description : "Clásico de coco"
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/thumbs/rochers-de-coco.jpg"
+thumb: "images/thumbs/rochers-de-coco.jpg"
 
 # product Images
 # first image will be shown in the product page

@@ -19,7 +19,7 @@ overview:
 description : "Fina, ligera y crujiente pasta clásica con vainilla de Tahití, para comer sola o para acompañar postres, por ejemplo es recomendable como topping de helado."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/thumbs/lenguas-de-gato.jpg"
+thumb: "images/thumbs/lenguas-de-gato.jpg"
 
 # product Images
 # first image will be shown in the product page

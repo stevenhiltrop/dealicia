@@ -22,7 +22,7 @@ overview:
 type : product
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/chocolates-brownie-doble.jpg"
+thumb: "images/chocolates-brownie-doble.jpg"
 
 # product Price
 price: "10.50"

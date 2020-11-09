@@ -19,7 +19,7 @@ overview:
 description : "Sablé de gouda con comino"
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/thumbs/sable-gouda-comino.jpg"
+thumb: "images/thumbs/sable-gouda-comino.jpg"
 
 # product Images
 # first image will be shown in the product page

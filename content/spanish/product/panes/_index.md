@@ -3,7 +3,7 @@ title: "Panes"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/headers/panes.jpg
 description : "This is meta description"
-image : "images/thumbs/panes.jpg"
+thumb: "images/thumbs/panes.jpg"
 image2 : "images/panes1.jpg"
 image3 : "images/panes2.jpg"
 image4 : "images/panes3.jpg"

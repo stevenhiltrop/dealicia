@@ -1,7 +1,7 @@
 ---
 title: Granola
 draft: false
-image: images/thumbs/granola.jpg
+thumb: images/thumbs/granola.jpg
 productWeight: 456
 priceBefore: ""
 date: 2020-05-25T13:39:07+06:00

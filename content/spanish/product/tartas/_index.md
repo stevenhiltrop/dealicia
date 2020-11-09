@@ -2,7 +2,7 @@
 title: Tartas
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/headers/tartas.jpg
-image: images/thumbs/tartas.jpg
+thumb: images/thumbs/tartas.jpg
 description: This is meta description
 image2: images/weddingcakes-dealicia.jpg
 cakeform: yes
@@ -18,17 +18,17 @@ El valor de una tarta es su sabor y la presentación, en d’Alicia ofrecemos ta
 
 ### Tartas menú d'Alicia
 
-Para ver el menú de nuestras tartas [](/blog/catalogo-tartas)d'Alicia que puedes encontrar en nuestras tiendas de El Pilar, Guadalmina y Sotogrande. Pincha en [Tartas](/blog/catalogo-tartas) 
+Para ver el menú de nuestras tartas [](/blog/catalogo-tartas)d'Alicia que puedes encontrar en nuestras tiendas de El Pilar, Guadalmina y Sotogrande. Pincha en [Tartas](/blog/catalogo-tartas)
 
 También puedes comprar tu tarta desde la app BR y recoger en tu tienda mas cercana El Pilar, Guadlamina y Sotogrande. Las tartas las encuentras en postres. Pincha para ver [como funciona la app ](https://youtu.be/ZRNiR2jcL_w)
 
-Descarga para [IOS](https://apps.apple.com/es/app/br-bars-restaurants/id1495034970) 
+Descarga para [IOS](https://apps.apple.com/es/app/br-bars-restaurants/id1495034970)
 
-Descarga para [android](https://play.google.com/store/apps/details?id=com.brbarsandrestaurants.br&hl=es_419) 
+Descarga para [android](https://play.google.com/store/apps/details?id=com.brbarsandrestaurants.br&hl=es_419)
 
-### Tartas personalizadas d'Alicia 
+### Tartas personalizadas d'Alicia
 
-Personalizamos tartas para: bodas, cumpleaños, bautizos, comuniones, aniversarios, corporativas o cualquier celebración especial. 
+Personalizamos tartas para: bodas, cumpleaños, bautizos, comuniones, aniversarios, corporativas o cualquier celebración especial.
 
 Para este tipo de tartas puedes elegir cualquier sabor de nuestra lista, para las tartas personalizadas  solo cambia la decoración y forma.  Reserva con tiempo tu tarta.
 

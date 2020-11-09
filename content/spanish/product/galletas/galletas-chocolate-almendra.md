@@ -19,7 +19,7 @@ overview:
 description : "Galletas de almendra con chocolate. Clásica galletita de mantequilla con trocitos de almendra y chocolate negro."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/thumbs/galletas-chocolate-almendra.jpg"
+thumb: "images/thumbs/galletas-chocolate-almendra.jpg"
 
 # product Images
 # first image will be shown in the product page

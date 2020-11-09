@@ -16,7 +16,7 @@ overview:
 description : "Mantequilla de cacahuetes frito con sal, sin conservantes, su propia grasa le permite tener una conservación natural."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "/images/thumbs/mantequillas-frutos-secos.jpg"
+thumb: "/images/thumbs/mantequillas-frutos-secos.jpg"
 
 # product Images
 # first image will be shown in the product page

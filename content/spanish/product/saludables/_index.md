@@ -3,7 +3,7 @@ title: "Saludables"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/headers/saludables.jpg
 description : "This is meta description"
-image : "images/thumbs/granola.jpg"
+thumb: "images/thumbs/granola.jpg"
 ---
 
 ## Saludables

@@ -19,7 +19,7 @@ overview:
 description : "Galletitas suaves de queso Emmental"
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/thumbs/galletas-sable-emmental.jpg"
+thumb: "images/thumbs/galletas-sable-emmental.jpg"
 
 # product Images
 # first image will be shown in the product page

@@ -16,7 +16,7 @@ overview:
 description : "Mantequilla de almendras naturales tostadas, sin conservantes. De producción limitada. Ideal para consumir en el desayuno o merienda. Su elaboración permite beneficiarse de todas las propiedades de la almendra."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "/images/thumbs/mantequillas-almendras.jpg"
+thumb: "/images/thumbs/mantequillas-almendras.jpg"
 
 # product Images
 # first image will be shown in the product page

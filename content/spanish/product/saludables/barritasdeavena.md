@@ -1,7 +1,7 @@
 ---
 title: Barritas de Avena
 draft: false
-image: images/thumbs/BarritasDeAvena.jpeg
+thumb: images/thumbs/BarritasDeAvena.jpeg
 productWeight: 80
 priceBefore: ""
 date: 2020-05-25T13:39:07+06:00

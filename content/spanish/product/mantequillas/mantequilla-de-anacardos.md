@@ -16,7 +16,7 @@ overview:
 description : "Mantequilla elaborada con anacardos tostados, sin conservantes, su propia grasa funciona como conservante."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "/images/thumbs/mantequillas-frutos-secos.jpg"
+thumb: "/images/thumbs/mantequillas-frutos-secos.jpg"
 
 # product Images
 # first image will be shown in the product page

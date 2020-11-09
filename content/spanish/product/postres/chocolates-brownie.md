@@ -17,7 +17,7 @@ overview:
     data : 10.50€
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/thumbs/chocolates-brownie.jpg"
+thumb: "images/thumbs/chocolates-brownie.jpg"
 
 # product Images
 # first image will be shown in the product page

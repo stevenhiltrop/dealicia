@@ -4,7 +4,7 @@ date: 2018-07-12T18:19:33+06:00
 bg_image: images/headers/mermeladas.jpg
 description : "This is meta description"
 category: "Mermeladas"
-image : "images/thumbs/mermelada-naranja-dulce.jpg"
+thumb: "images/thumbs/mermelada-naranja-dulce.jpg"
 showsummary: yes
 intro: "Las mermeladas d’Alicia están hechas con fruta fresca y sin conservantes, siendo su conservante natural el azúcar."
 ---

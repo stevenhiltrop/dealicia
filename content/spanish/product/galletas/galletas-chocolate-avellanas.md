@@ -20,7 +20,7 @@ overview:
 description : "Clásica galletita de mantequilla con trocitos de avellana y chocolate con leche."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/thumbs/galletas-chocolate-avellana.jpg"
+thumb: "images/thumbs/galletas-chocolate-avellana.jpg"
 
 # product Images
 # first image will be shown in the product page

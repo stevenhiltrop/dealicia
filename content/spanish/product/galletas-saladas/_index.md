@@ -3,7 +3,7 @@ title: "Galletas Saladas"
 date: 2018-07-12T18:19:33+06:00
 bg_image: images/headers/galletas-saladas.jpg
 description : "This is meta description"
-image : "/images/thumbs/galletas-palitos-gruyere.jpg"
+thumb: "/images/thumbs/galletas-palitos-gruyere.jpg"
 draft: true
 ---
 

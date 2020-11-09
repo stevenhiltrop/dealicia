@@ -16,7 +16,7 @@ overview:
 description : "Deliciosa combinación de coco y chocolate con leche en una galleta."
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/thumbs/galletas-american-cookie-coco-chocolate.jpg"
+thumb: "images/thumbs/galletas-american-cookie-coco-chocolate.jpg"
 
 # product Images
 # first image will be shown in the product page

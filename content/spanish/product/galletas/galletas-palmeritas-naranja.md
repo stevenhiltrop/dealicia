@@ -19,7 +19,7 @@ overview:
 description : "Deliciosas palmeritas de naranja"
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/thumbs/galletas-palmeritas-naranja.jpg"
+thumb: "images/thumbs/galletas-palmeritas-naranja.jpg"
 
 # product Images
 # first image will be shown in the product page

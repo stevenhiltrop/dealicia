@@ -16,7 +16,7 @@ overview:
 description : "CHOC CHIP COOKIES"
 
 # needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-image : "images/thumbs/galletas-american-cookie.jpg"
+thumb: "images/thumbs/galletas-american-cookie.jpg"
 
 # product Images
 # first image will be shown in the product page
