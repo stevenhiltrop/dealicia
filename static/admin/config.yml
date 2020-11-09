@@ -89,8 +89,8 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Draft", name: "draft", widget: "boolean", default: "false"}
       - {label: "Type", name: "type", widget: "hidden", default: "product"}
-      - {label: "Main Image - 1024x768px", name: "image", widget: "image"}
-      - {label: "Thumbnail - 586x648px", name: "thumb", widget: "image"}
+      - {label: "Main Image - 1024x768px", name: "image", widget: "image", default: "/images/template_l.png"}
+      - {label: "Thumbnail - 586x648px", name: "thumb", widget: "image", default: "/images/template_thumb.png"}
       - {label: "Categories", name: "category", widget: "select", multiple: true, options: ["Saludables"]}
       - {label: "Meta Description", name: "description", widget: "string"}
       - {label: "Product Weight (g)", name: "weight", widget: "number"}
