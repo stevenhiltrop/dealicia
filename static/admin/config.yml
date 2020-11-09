@@ -91,15 +91,8 @@ collections:
       - {label: "Main Image - 1024x768px", name: "image", widget: "image"}
       - {label: "Thumbnail - 586x648px", name: "thumb", widget: "image"}
       - {label: "Categories", name: "category", widget: "select", multiple: true, options: ["Saludables"]}
-      - label: 'Overview'
-        name: 'overview'
-        widget: 'object'
-        collapsed: false
-        fields:
-          - { label: 'Category Public', name: 'categoria', widget: 'string' }
-          - { label: 'Weight Public (g)', name: 'peso', widget: 'number' }
-
       - {label: "Meta Description", name: "description", widget: "string"}
+      - { label: 'Product Weight (g)', name: 'weight', widget: 'number' }
       - {label: "Product Shipping Weight (g)", name: "productWeight", widget: "number"}
       - {label: "Price", name: "price", widget: "number"}
       - {label: "In Stock", name: "stock", widget: "boolean", default: true}
