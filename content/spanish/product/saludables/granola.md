@@ -15,8 +15,6 @@ stock: si
 overview:
   - label: Categoría
     data: Saludable
-  - label: Precio
-    data: 5.60€
 type: product
 ---
 ![Granola](/images/granola.jpg "Granola")
