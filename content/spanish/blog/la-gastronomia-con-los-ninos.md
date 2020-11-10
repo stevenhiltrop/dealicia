@@ -8,7 +8,7 @@ temas:
 tags:
   - niños
 type: post
-image: images/img_6190.jpg
+image: images/viajaconlagastronomia-niños-pasteles.jpg
 description: Aprender de la gastronomía de otras culturas en las vacaciones con niños
 ---
 Para introducir los sabores de otras culturas es importante tomar en cuenta que los cambios de rutina suelen afectar a algunos niños, si lo piensas hasta un cambio de silla en la mesa a la hora de comer, suele distorsionar un poco su rutina, no todos los niños pero si algunos, obsérvalos y ve como reaccionan para evitar expectativas y simplemente aceptar su ritmo, algún día probará todo si respetas su ritmo, además de respetar que algún alimento no les guste, a todos nos pasa.
