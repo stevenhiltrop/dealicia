@@ -23,8 +23,7 @@ thumb: "images/thumbs/mermeladas.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/mermeladas.jpg"
+image: "images/Mermeladas.jpg"
 
 # product Price
 price: "3.95"
@@ -40,6 +39,4 @@ productWeight : "250"
 stock: si
 
 ---
-![Mermelada de Ruibarbo](/images/mermeladas.jpg "Mermelada de Ruibarbo")
-
 Todas las mermeladas y confituras disponibles en d'Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano.

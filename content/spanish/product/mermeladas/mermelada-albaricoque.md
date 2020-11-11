@@ -23,8 +23,7 @@ thumb: "images/thumbs/mermelada-chutney-mango.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/mermelada-chutney-mango.jpg"
+image: "images/mermelada-chutney-mango.jpg"
 
 # product Price
 price: "3.95"
@@ -40,6 +39,4 @@ productWeight : "250"
 stock: si
 
 ---
-![Mermelada de Albaricoque](/images/mermelada-chutney-mango.jpg "Mermelada de Albaricoque")
-
 Todas las mermeladas y confituras disponibles en d'Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano.

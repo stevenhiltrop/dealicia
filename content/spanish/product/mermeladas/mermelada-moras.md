@@ -2,8 +2,7 @@
 title: "Mermelada de Moras"
 date: 2020-05-26T13:39:07+06:00
 draft: true
-images:
-  - images/mermelada-moras.jpg
+image: images/mermelada-moras.jpg
 productWeight: "250"
 priceBefore: ""
 price: "3.95"
@@ -23,6 +22,4 @@ description: Mermelada de naranja amarga de Málaga. Todas las mermeladas y
   fuego lento y envasadas a mano. Utilizamos un mínimo de 50% de naranjas
   enteras, azúcar y pectina de manzana.
 ---
-![Mermelada de Moras](/images/mermelada-moras.jpg "Mermelada de Moras")
-
 Todas las mermeladas y confituras disponibles en d'Alicia son caseras y 100% naturales, cocidas a fuego lento y envasadas a mano.

@@ -23,8 +23,7 @@ thumb: "images/thumbs/galletas-palmeritas-naranja.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/galletas-palmeritas-naranja.jpg"
+image: "images/galletas-palmeritas-naranja.jpg"
 
 # product Price
 price: "3.40"
@@ -39,7 +38,5 @@ productWeight : "102"
 # in stock? (accepts true/false | yes/no | si/no | 1/0)
 stock: si
 
----
-![Palmeritas de Naranja](/images/galletas-palmeritas-naranja.jpg "Palmeritas de Naranja")
-
+--- 
 Deliciosas palmeritas de naranja.

@@ -23,8 +23,7 @@ thumb: "images/thumbs/pastas-de-te.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/pastas-de-te.jpg"
+image: "images/pastas-de-te.jpg"
 
 # product Price
 price: "10.00"
@@ -40,6 +39,4 @@ productWeight : "355"
 stock: si
 
 ---
-![Pastas de Té](/images/pastas-de-te.jpg "Pastas de Té")
-
 Pastitas de té tipo vienés con chocolate con leche, frambuesas y nueces.

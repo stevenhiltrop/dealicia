@@ -20,8 +20,7 @@ thumb: "images/thumbs/galletas-american-cookie.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/galletas-american-cookie.jpg"
+image: "images/galletas-american-cookie.jpg"
 
 # product Price
 price: "4.10"
@@ -37,6 +36,4 @@ category: "Galletas Dulces"
 stock: si
 
 ---
-![Galletas American Cookies](/images/galletas-american-cookie.jpg "Galletas American Cookies")
-
 (2 unidades) Estas galletas gigantes se comen en los Estados Unidos de America  calentitas con un poco de helado de vainilla, a veces también con salsa de chocolate caliente. Calentando la galleta american cookie unos segundos en microondas se vuelve tierna como un Brownie. También están muy ricas solas ya que son crujientes con un exquisito sabor de almendra y los trocitos de chocolate negro. Sin conservantes hechas con ingredientes naturales.

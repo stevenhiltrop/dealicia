@@ -23,8 +23,7 @@ thumb: "images/thumbs/galletas-sable-emmental.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/galletas-sable-emmental.jpg"
+image: "images/galletas-sable-emmental.jpg"
 
 # product Price
 price: "4.10"
@@ -40,6 +39,4 @@ productWeight : "101"
 stock: si
 
 ---
-![Sablé de emmental](/images/galletas-sable-emmental.jpg "Sablé de emmental")
-
 Galletitas suaves de queso Emmental.

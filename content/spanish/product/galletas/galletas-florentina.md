@@ -25,8 +25,7 @@ thumb: "images/thumbs/galletas-florentinas.jpg"
 
 # product Images
 # first image will be shown in the product page
-Images:
-  - "images/galletas-florentinas.jpg"
+Image: "images/galletas-florentinas.jpg"
 
 # product Price
 price: "6.75"
@@ -39,8 +38,6 @@ productWeight : "103"
 stock: si
 
 ---
-![Florentina](/images/galletas-florentinas.jpg "Florentinas de Almendra")
-
 Florentinas de almendra caramelizada. Esta receta fue creada en Florencia, bajo la influencia de la pastelería del imperio Austro – Húngaro. En d'Alicia hemos recuperado y adaptado la receta, utilizando las excelentes almendras malagueñas y formando unos discos extremadamente finos, consiguiendo unas Florentinas únicas en su textura y sabor. Hechas sin conservantes, solo ingredientes naturales.
 
 Finos y crujientes discos de almendra caramelizada.

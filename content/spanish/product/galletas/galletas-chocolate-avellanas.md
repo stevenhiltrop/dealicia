@@ -24,8 +24,7 @@ thumb: "images/thumbs/galletas-chocolate-avellana.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/galletas-chocolate-avellana.jpg"
+image: "images/galletas-chocolate-avellana.jpg"
 
 # product Price
 price: "3.50"
@@ -41,6 +40,4 @@ productWeight : "102"
 stock: si
 
 ---
-![Galletas de Chocolate y Avellanas](/images/galletas-chocolate-avellana.jpg "Galletas de Chocolate y Avellanas")
-
 Clásica galletita de mantequilla con trocitos de avellana y chocolate con leche.

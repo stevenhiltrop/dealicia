@@ -23,8 +23,7 @@ thumb: "images/thumbs/galletas-palitos-gruyere.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/galletas-palitos-gruyere.jpg"
+image: "images/galletas-palitos-gruyere.jpg"
 
 # product Price
 price: "4.10"
@@ -40,6 +39,4 @@ productWeight: "112"
 stock: si
 
 ---
-![Palitos de Gruyère](/images/galletas-palitos-gruyere.jpg "Palitos de Gruyère")
-
 Clásico palito de rico hojaldre de mantequilla con Gruyère Suizo, realzado con un toque de sal y pimienta. Ideales para aperitivos o como acompañamiento de cremas de verduras.

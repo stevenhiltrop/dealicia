@@ -20,8 +20,7 @@ thumb: "images/thumbs/postres-tartaletas-almendras-pinones.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/postres-tartaletas-almendras-pinones.jpg"
+image: "images/postres-tartaletas-almendras-pinones.jpg"
 
 # product Price
 price: "1.45"
@@ -34,8 +33,6 @@ category: "Postres"
 stock: si
 
 ---
-![Tartaletas de Almendras y Piñones](/images/postres-tartaletas-almendras-pinones.jpg "Tartaletas de Almendras y Piñones")
-
 Nuestra versión de una tarta de almendras horneada: base de pasta quebrada de mantequilla y almendra, rellena de suave financier de almendra y recubierta de aromáticos piñones españoles.
 
 Utilizamos un mínimo de 60% de fruta, azúcar y pectina de manzana. La combinación de Frambuesas con Ruibarbo es típica de Bélgica.

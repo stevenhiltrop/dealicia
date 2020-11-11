@@ -23,8 +23,7 @@ thumb: "images/thumbs/mermelada-chutney-mango.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/mermelada-chutney-mango.jpg"
+image: "images/mermelada-chutney-mango.jpg"
 
 # product Price
 price: "3.95"
@@ -40,6 +39,4 @@ productWeight : "250"
 stock: si
 
 ---
-![Chutney de Mango](/images/mermelada-chutney-mango.jpg "Chutney de Mango")
-
 Deliciosa salsa de mango con un toque picante. Para acompañar con platillos salados como arroz o carne.  También se puede consumir en ensaladas para darle un toque dulce y picante.

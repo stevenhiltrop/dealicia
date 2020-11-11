@@ -20,8 +20,7 @@ thumb: "/images/thumbs/mantequillas-frutos-secos.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/mantequillas-frutos-secos.jpg"
+image: "images/mantequillas-frutos-secos.jpg"
 
 # product Price
 price: "5.95"
@@ -34,6 +33,4 @@ category: "Mantequillas de Frutos Secos"
 stock: si
 
 ---
-![Mantequilla de Anacardos](/images/mantequillas-frutos-secos.jpg "Mantequilla de Anacardos")
-
 Mantequilla elaborada con anacardos tostados, sin conservantes, su propia grasa funciona como conservante.

@@ -26,8 +26,7 @@ thumb: "images/thumbs/florentina-chocolate.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/florentina-chocolate.jpg"
+image: "images/florentina-chocolate.jpg"
 
 # product Price
 price: "6.75"
@@ -49,8 +48,6 @@ ingredientes : "Leche, Cacao de Valrhona"
 stock: no
 
 ---
-![Florentinas de Chocolate](/images/florentina-chocolate.jpg "Florentinas de Chocolate")
-
 Galletas Florentinas están caramelizadas y bañadas con chocolate. Esta receta fue creada en Florencia, bajo la influencia de la pastelería del imperio Austro – Húngaro. En d'Alicia hemos recuperado y adaptado la receta de estas galletas florentinas, utilizando almendras malagueñas y formando unos discos extremadamente finos, que bañados en chocolate con leche, blanco y chocolate negro dan como resultado unas Florentinas únicas e irresistibles.
 
 Disponibles en época de chocolate (Invierno)

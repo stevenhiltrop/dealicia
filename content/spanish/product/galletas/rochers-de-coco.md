@@ -20,8 +20,7 @@ thumb: "images/thumbs/rochers-de-coco.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/rochers-de-coco.jpg"
+image: "images/rochers-de-coco.jpg"
 
 # product Price
 price: "0.80"
@@ -37,6 +36,4 @@ productWeight : "25"
 stock: si
 
 ---
-![Rochers de Coco](/images/rochers-de-coco.jpg "Rochers de Coco")
-
 Clásico de coco

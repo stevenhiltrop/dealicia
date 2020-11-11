@@ -20,8 +20,7 @@ thumb: "images/thumbs/galletas-american-cookie-triple-chocolate-nueces.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/galletas-american-cookie-triple-chocolate-nueces.jpg"
+image: "images/galletas-american-cookie-triple-chocolate-nueces.jpg"
 
 # product Price
 price: "4.10"
@@ -37,8 +36,6 @@ productWeight : "140"
 stock: si
 
 ---
-![Galletas American Cookie - Triple Chocolate y Nueces](/images/galletas-american-cookie-triple-chocolate-nueces.jpg "Galletas American Cookie - Triple Chocolate y Nueces")
-
 Es el cookie para los amantes del chocolate: trocitos de chocolate recubiertos de cookie de cacao. Se puede comer como galleta o calentándola unos segundos en el microondas para que adquiera consistencia de Brownie.
 
 2 galletas por paquete

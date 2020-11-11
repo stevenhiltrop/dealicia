@@ -21,8 +21,7 @@ thumb: "images/thumbs/chocolates-brownie.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/chocolates-brownie.jpg"
+image: "images/chocolates-brownie.jpg"
 
 # product Price
 price: "10.50"
@@ -38,6 +37,4 @@ productWeight : "600"
 stock: si
 
 ---
-![Brownie de Chocolate y Nueces](/images/chocolates-brownie.jpg "Brownie de Chocolate y Nueces")
-
 Brownie de chocolate negro y nueces. Auténtico Brownie delicioso preparado con chocolate de 70% de cacao y con trozos de nueces de California. Nuestra receta lleva tanto chocolate, que cuando se enfría es duro como una tableta de chocolate. Para desarrollar plenamente el aroma y la textura casi cremosa de nuestro Brownie, es preferible dejarlo a temperatura ambiente o calentarlo unos segundos en microondas antes de servirlo. Es ideal solo o acompañado con salsa de chocolate, helados e incluso fruta. Hecho sin conservantes.

@@ -23,8 +23,7 @@ thumb: "images/thumbs/financiers.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/financiers.jpg"
+image: "images/financiers.jpg"
 
 # product Price
 price: "3.95"
@@ -40,6 +39,4 @@ productWeight : "143"
 stock: si
 
 ---
-![Rochers de Coco](/images/financiers.jpg "Rochers de Coco")
-
 Clásicos mini bizcochos de almendra y chocolate

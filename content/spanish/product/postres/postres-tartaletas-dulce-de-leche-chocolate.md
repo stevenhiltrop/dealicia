@@ -20,8 +20,7 @@ thumb: "images/thumbs/postres-tartaletas-dulce-de-leche-chocolate.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/postres-tartaletas-dulce-de-leche-chocolate.jpg"
+image: "images/postres-tartaletas-dulce-de-leche-chocolate.jpg"
 
 # product Price
 price: "2.75"
@@ -34,6 +33,4 @@ category: "Postres"
 stock: si
 
 ---
-![Tartaletas de Dulce de Leche y Chocolate](/images/postres-tartaletas-dulce-de-leche-chocolate.jpg "Tartaletas de Dulce de Leche y Chocolate")
-
 Receta exclusiva d'Alicia de tarta de chocolate con leche rellena de dulce de leche. Desarrollada por y para golosos: Tartaleta de crujiente pasta quebrada de almendra rellena de dulce de leche y Ganache de chocolate con leche.

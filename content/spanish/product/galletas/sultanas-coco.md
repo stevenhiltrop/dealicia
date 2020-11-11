@@ -23,8 +23,7 @@ thumb: "images/thumbs/sultanas-coco.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/sultanas-coco.jpg"
+image: "images/sultanas-coco.jpg"
 
 # product Price
 price: "0.70"
@@ -40,6 +39,4 @@ productWeight : "100"
 stock: si
 
 ---
-![Sultanas de Coco](/images/sultanas-coco.jpg "Sultanas de Coco")
-
 Deliciosas sultanas de coco. Se venden por unidad para envío a domicilio pedido mínimo de 5 unidades.

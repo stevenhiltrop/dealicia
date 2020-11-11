@@ -20,8 +20,7 @@ thumb: "/images/thumbs/mantequillas-frutos-secos.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/mantequillas-frutos-secos.jpg"
+image: "images/mantequillas-frutos-secos.jpg"
 
 # product Price
 price: "2.75"
@@ -34,6 +33,4 @@ category: "Mantequillas de Frutos Secos"
 stock: si
 
 ---
-![Mantequilla de Cacahuetes sin sal](/images/mantequillas-frutos-secos.jpg "Mantequilla de Cacahuetes sin sal")
-
 Mantequilla de cacahuete tostado sin sal. Hecho solo con cacahuetes tostados. Hecha con un proceso natural que conserva todas sus propiedades integras. Si quieres saber más sobre estas mantequillas busca nuestro artículos en el blog.

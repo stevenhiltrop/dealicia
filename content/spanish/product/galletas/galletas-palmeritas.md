@@ -23,8 +23,7 @@ thumb: "images/thumbs/PalmeritasNaturales.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/PalmeritasNaturales.jpg"
+image: "images/PalmeritasNaturales.jpg"
 
 # product Price
 price: "3.40"
@@ -40,6 +39,4 @@ productWeight : "102"
 stock: si
 
 ---
-![Palmeritas](/images/PalmeritasNaturales.jpg "Palmeritas")
-
 Palmeritas hojaldre de mantequilla, azúcar vainilla.

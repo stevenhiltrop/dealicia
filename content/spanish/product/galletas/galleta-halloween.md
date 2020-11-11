@@ -20,6 +20,4 @@ overview:
     data : 2.20€
 
 ---
-![Galletas Halloween](/images/uploads/galletas_haloween.jpg "Galletas Halloween")
-
 Galleta Gato Negro Halloween

@@ -20,8 +20,7 @@ thumb: "images/thumbs/galletas-american-cookie-coco-chocolate.jpg"
 
 # product Images
 # first image will be shown in the product page
-images:
-  - "images/galletas-american-cookie-coco-chocolate.jpg"
+image: "images/galletas-american-cookie-coco-chocolate.jpg"
 
 # product Price
 price: "4.10"
@@ -37,6 +36,4 @@ productWeight : "140"
 stock: si
 
 ---
-![Galletas American Cookie - Coco y Chocolate con Leche](/images/galletas-american-cookie-coco-chocolate.jpg "Galletas American Cookie - Coco y Chocolate con Leche")
-
 (2 unidades) Deliciosa combinación de coco y chocolate con leche en una galleta.
