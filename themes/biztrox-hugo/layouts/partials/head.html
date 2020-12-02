@@ -27,6 +27,16 @@
 
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
+    <!-- open graph -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="{{ .Page.Title }}"/>
+    <meta property="og:image" content="{{ .Params.image | absURL }}"/>
+    <meta property="og:description" content="{{ .Site.Params.description }}"/>
+    <meta property="og:site_name" content="{{ .Site.Title }}"/>
+    <meta property="og:url" content="{{ .Site.BaseURL }}"/>
+    <meta property="og:locale" content="es">
+
+
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109525867-1"></script>
     <script>
