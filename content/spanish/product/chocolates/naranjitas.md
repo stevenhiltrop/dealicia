@@ -3,9 +3,10 @@ title: Naranjitas
 date: 2020-05-26T13:39:07+06:00
 draft: false
 type: product
-image: images/mermelada-naranjitas.jpg
-thumb: images/thumbs/mermelada-naranjitas.jpg
-category: Chocolates
+image: images/naranjitas-chocolates-dealiciav2-1.png
+thumb: images/naranjitas-chocolate-dealiciav2-2.png
+category:
+  - Chocolates
 description: "Las naranjitas son una de nuestras especialidades. Elaboramos
   nuestras naranjitas siguiendo un proceso exclusivo y 100% manual. "
 weight: 100
