@@ -15,20 +15,20 @@ En d’Alicia utilizamos chocolate negro Belga de origen, del 70%, es un clásic
 
 ## Sugerencias de consumo
 
-### **Chocolates con frutos secos** 
+###### **Chocolates con frutos secos**
 
-### **Naranjitas con chocolate**
+###### **Naranjitas con chocolate**
 
-### **Higos sorpresa con chocolate negro**
+###### **Higos sorpresa con chocolate negro**
 
-### **Alfajores con chocolate** 
+###### **Alfajores con chocolate**
 
-### **Financiers**
+###### **Financiers**
 
-### **Brownie** 
+###### **Brownie**
 
-### **American Cookies** 
+###### **American Cookies**
 
-### **Galletas con chocolate con leche**
+###### **Galletas con chocolate con leche**
 
-### **Chocolate caliente Belga**
+###### **Chocolate caliente Belga**
