@@ -15,20 +15,15 @@ En d’Alicia utilizamos chocolate negro Belga de origen, del 70%, es un clásic
 
 ## Sugerencias de consumo
 
-###### **Chocolates con frutos secos**
+Para alguna merienda o choco-picnic o una quedada especial con amigos: 
 
-###### **Naranjitas con chocolate**
-
-###### **Higos sorpresa con chocolate negro**
-
-###### **Alfajores con chocolate**
-
-###### **Financiers**
-
-###### **Brownie**
-
-###### **American Cookies**
-
-###### **Galletas con chocolate con leche**
-
-###### **Chocolate caliente Belga**
+* Chocolates con frutos secos 
+* Naranjitas con chocolate
+* Higos sorpresa con chocolate negro (No contiene azúcar, solo el higo seco con una sorpresa saludable dentro y bañados con chocolate negro. 
+* Alfajores con chocolate
+* Financiers
+* Brownie con helado de vainilla 
+* American Cookies con helado de vainilla o batido 
+* Galletas con chocolate con leche
+* Chocolate caliente Belga con Brioche 
+* Brioche Navideño con chocolate con leche
