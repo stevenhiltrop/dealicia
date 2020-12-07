@@ -3,7 +3,7 @@ bg_image: images/headers/galletas-dulces.jpg
 title: Chocolates
 date: 2018-07-12T18:19:33+06:00
 draft: false
-image: images/banner-chocolates-dealiciav2-1.png
+image: images/chocolates-dealicia-1024x768.jpg
 thumb: images/banner-chocolate-dealiciav2-2.png
 category:
   - Chocolates
