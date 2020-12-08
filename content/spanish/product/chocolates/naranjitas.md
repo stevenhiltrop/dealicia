@@ -13,7 +13,7 @@ weight: 100
 productWeight: "250"
 priceBefore: ""
 price: 6.5
-stock: no
+stock: true
 overview:
   - label: Categoría
     data: Mermeladas
