@@ -10,6 +10,7 @@ category:
 description: Alfajores pasta de almendra, avellanas tostadas y miel.
 weight: 100
 productWeight: 110
+price: 6.5
 stock: true
 ---
 # Alfajores
