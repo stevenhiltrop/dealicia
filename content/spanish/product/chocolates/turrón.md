@@ -3,7 +3,7 @@ title: Turrón
 date: 2020-12-09T11:01:33.722Z
 draft: false
 type: product
-image: images/turron-chocolateconleche-dealicia-1024.png
+image: images/turron-chocolateconleche-dealicia-1024.jpg
 thumb: images/turron-chocolateconleche-dealicia-586.png
 category:
   - Chocolates
