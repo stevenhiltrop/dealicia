@@ -8,9 +8,9 @@ thumb: images/alfajores-dealicia-568.png
 category:
   - Chocolates
 description: Alfajores pasta de almendra, avellanas tostadas y miel.
-weight: 100
-productWeight: 110
-price: 6.5
+weight: 115
+productWeight: 115
+price: 4.31
 stock: true
 ---
 # Alfajores
