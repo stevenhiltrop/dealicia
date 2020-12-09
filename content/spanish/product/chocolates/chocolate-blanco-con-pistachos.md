@@ -3,7 +3,7 @@ title: Chocolate blanco con pistachos
 date: 2020-12-09T11:53:31.088Z
 draft: false
 type: product
-image: images/chocolateconlecheconpistachos-dealicia-1024.jpg
+image: images/chocolateblancoconpistachos-dealicia-1024.jpg
 thumb: images/chocolateblancoconpistachos-dealicia-586.jpg
 category:
   - Chocolates
