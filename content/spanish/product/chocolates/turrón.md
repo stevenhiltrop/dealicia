@@ -8,11 +8,13 @@ thumb: images/turron-chocolateconleche-dealicia-586.png
 category:
   - Chocolates
 description: "Turrón "
-weight: ""
-productWeight: ""
+weight: 160
+productWeight: 160
 price: 5.25
 stock: true
 ---
-# Turron d'Alicia 
+# Turrón d'Alicia
 
-Arroz inflado, mantequilla de almendra y chocolate con leche de origen.
+Arroz inflado, mantequilla de almendra y chocolate con leche de origen. Es una receta original d'Alicia. 
+
+Una pieza de turrón de 160 g aprox.
