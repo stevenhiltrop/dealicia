@@ -4,7 +4,7 @@ date: 2020-12-09T11:53:31.088Z
 draft: false
 type: product
 image: images/chocolateconlecheconpistachos-dealicia-1024.jpg
-thumb: images/chocolateconlecheconpistachos-dealicia-586.jpg
+thumb: images/chocolateblancoconpistachos-dealicia-586.jpg
 category:
   - Chocolates
 description: "Chocolate blanco con pistachos tostados sin conservantes. "
