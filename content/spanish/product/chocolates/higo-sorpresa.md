@@ -1,7 +1,7 @@
 ---
 title: "Higos Sorpresa "
 date: 2020-12-08T23:51:02.753Z
-draft: true
+draft: false
 type: product
 image: images/chocolates-dealicia-1024x768.jpg
 thumb: images/chocolates-dealicia-586.jpg
