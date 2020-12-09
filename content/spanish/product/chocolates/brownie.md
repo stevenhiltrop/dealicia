@@ -10,7 +10,7 @@ category:
 description: "Placa Brownie de chocolate y nueces 450g artesanal sin conservantes. "
 weight: 450
 productWeight: 460
-price: ""
+price: 10.5
 stock: true
 ---
 Placa Brownie de chocolate Belga y nueces frescas 450g
