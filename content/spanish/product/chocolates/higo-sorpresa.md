@@ -9,8 +9,9 @@ category:
   - Chocolates
 description: "Higos Sorpresa: Higos secos rellenos de almendra de Málaga y
   bañados en chocolate negro 70%. "
-weight: 100
-productWeight: 105
+weight: 112
+productWeight: 112
+price: 4.1
 stock: true
 ---
 # **Higos Sorpresa** 
