@@ -14,8 +14,8 @@ productWeight: 112
 price: 4.1
 stock: true
 ---
-# **Higos Sorpresa** 
+# **Higos Sorpresa**
 
 Higos secos rellenos de almendra de Málaga y bañados en chocolate negro 70%. 
 
-Un bocado gourmet para deleitar.
+Un bocado gourmet para deleitar. Una bolsita con 112 gr
