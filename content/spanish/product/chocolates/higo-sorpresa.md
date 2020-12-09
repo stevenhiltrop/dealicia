@@ -1,5 +1,5 @@
 ---
-title: "Higo Sorpresa "
+title: "Higos Sorpresa "
 date: 2020-12-08T23:51:02.753Z
 draft: true
 type: product
