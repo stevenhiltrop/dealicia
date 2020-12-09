@@ -9,8 +9,8 @@ category:
   - Chocolates
 description: "Chocolate blanco con mandarina confitada "
 weight: 100
-productWeight: 110
-price: 6.5
+productWeight: 100
+price: 4.5
 stock: true
 ---
 Chocolate blanco con madarina confitada. Deliciosos bocaditos para disfrutar.
