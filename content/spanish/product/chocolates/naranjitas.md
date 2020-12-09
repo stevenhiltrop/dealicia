@@ -10,9 +10,9 @@ category:
 description: "Las naranjitas son una de nuestras especialidades. Elaboramos
   nuestras naranjitas siguiendo un proceso exclusivo y 100% manual. "
 weight: 100
-productWeight: "250"
+productWeight: 107
 priceBefore: ""
-price: 6.5
+price: 6.96
 stock: true
 overview:
   - label: Categoría
