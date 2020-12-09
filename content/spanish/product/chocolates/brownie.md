@@ -3,8 +3,8 @@ title: "Brownie "
 date: 2020-12-03T11:09:06.136Z
 draft: false
 type: product
-image: images/placabrownie-dealicia-1.png
-thumb: images/placabrownie-dealicia-2.png
+image: images/brownie-dealicia-1024.png
+thumb: images/brownie-dealicia-568.png
 category:
   - Chocolates
 description: "Placa Brownie de chocolate y nueces 450g artesanal sin conservantes. "
