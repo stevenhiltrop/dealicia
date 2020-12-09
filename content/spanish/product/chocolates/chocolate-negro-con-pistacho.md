@@ -11,7 +11,7 @@ description: "Chocolate negro con pistacho "
 weight: 100
 productWeight: 110
 price: 4.5
-stock: true
+stock: false
 ---
 **Chocolate negro con pistacho.**
 
