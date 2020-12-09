@@ -164,6 +164,26 @@ collections:
       - {label: "In Stock", name: "stock", widget: "boolean", default: true, required: false}
       - {label: "Body", name: "body", widget: "markdown"}
 
+  - name: "cafe_illy" # Used in routes, e.g., /admin/collections/blog
+    label: "Café Illy" # Used in the UI
+    folder: "content/spanish/product/cafe_illy" # The path to the folder where the documents are stored
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Draft", name: "draft", widget: "boolean", default: false}
+      - {label: "Type", name: "type", widget: "hidden", default: "product"}
+      - {label: "Main Image - 1024x768px", name: "image", widget: "image", default: "/images/template_l.png"}
+      - {label: "Thumbnail - 586x648px", name: "thumb", widget: "image", default: "/images/template_thumb.png"}
+      - {label: "Categories", name: "category", widget: "select", multiple: true, options: ["Café"]}
+      - {label: "Meta Description", name: "description", widget: "string"}
+      - {label: "Product Weight (g)", name: "weight", widget: "number", required: false}
+      - {label: "Product Shipping Weight (g)", name: "productWeight", widget: "number", required: false}
+      - {label: "Price", name: "price", widget: "number", value_type: "float", required: false}
+      - {label: "In Stock", name: "stock", widget: "boolean", default: true, required: false}
+      - {label: "Body", name: "body", widget: "markdown"}
+
   - name: "tartas" # Used in routes, e.g., /admin/collections/blog
     label: "Tartas" # Used in the UI
     folder: "content/spanish/product/tartas" # The path to the folder where the documents are stored
