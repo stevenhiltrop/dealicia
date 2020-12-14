@@ -10,7 +10,7 @@ category:
 description: "Chocolate Caliente Belga para servir "
 weight: 500
 productWeight: 510
-price: ""
+price: 4.95
 stock: true
 ---
 # Chocolate Caliente Belga 
