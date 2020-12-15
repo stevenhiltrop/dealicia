@@ -9,6 +9,8 @@ category:
   - Cestas Regalo
 description: "Canasta Marroquí Navideña de productos gourmet hechos a mano como
   alfajores, turrón, chocolates, higos con chocolate negro, mazapán y más.. "
+weight: 2000
+productWeight: 2000
 price: 44.56
 stock: true
 ---
