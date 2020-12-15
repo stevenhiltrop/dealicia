@@ -7,14 +7,16 @@ image: images/pastel-navidad-dealicia-1024.jpg
 thumb: images/pastel-navidad-dealicia-586.jpg
 category:
   - Productos de Navidad
-description: "Pastel de Navidad individual para regalar, producción artesana. "
-weight: 100
-productWeight: 100
+description: "Pastel de Navidad individual típico inglés para regalar,
+  producción artesana. "
+weight: 180
+productWeight: 180
+price: 4.95
 stock: true
 ---
 Pastel de Navidad 
 
-Pastel de Navidad tamaño individual de producción artesana. Disponible también en las tres tiendas;  
+Pastel de Navidad típico inglés tamaño individual de producción artesana. Disponible también en las tres tiendas;  
 
 · d'Alicia Pastelería Estepona 
 
