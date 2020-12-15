@@ -8,8 +8,8 @@ thumb: images/brioche-chocolate-con-leche-navidad-dealicia-586.jpg
 category:
   - Productos de Navidad
 description: "Brioche de chocolate con leche Navidad "
-weight: 300
-productWeight: 350
+weight: 500
+productWeight: 510
 price: 7.95
 stock: true
 ---
