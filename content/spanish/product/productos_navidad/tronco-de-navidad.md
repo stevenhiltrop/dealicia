@@ -9,12 +9,12 @@ category:
   - Productos de Navidad
 description: "Tronco de Navidad artesanal costa del sol, Marbella, Estepona,
   Guadalmina, Sotogrande. "
-price: 46
+price: 35
 stock: true
 ---
 # Tronco de Navidad artesanal d'Alicia
 
-Tronco de Navidad de chocolate grande, Delicioso tronco de Navidad hecho a mano con ingredientes naturales sin nada de aditivos, ni colorantes, solo ingredientes naturales y chocolate de origen de la mejor calidad en el sector. 
+Tronco de Navidad de chocolate grande. Delicioso tronco de Navidad hecho a mano con ingredientes naturales sin nada de aditivos, ni colorantes, solo ingredientes naturales y chocolate de origen de la mejor calidad en el sector. 
 
 La decoración también esta hecha en nuestro obrador, cada detalle está muy cuidado para que puedas disfrutar de un auténtico y artesano tronco de Navidad.
 
