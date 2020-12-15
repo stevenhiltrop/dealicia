@@ -8,6 +8,8 @@ thumb: images/bolsa-regalo-navidad-dealicia-586.jpg
 category:
   - Cestas Regalo
 description: "Bolsa regalo de dulces típicos de Navidad, una "
+weight: 1600
+productWeight: 1600
 price: 20.4
 stock: true
 ---
@@ -15,7 +17,7 @@ stock: true
 
 ¿Buscas un regalo original? Una bolsa de productos gourmet es un regalo estupendo de Navidad, es algo que siempre alegra a todos, además la bolsa se puede reutilizar para todos los días, para poner la fruta, pan o simplemente para guardar cosas. 
 
-Esta bolsa contiene: 
+Está bolsa contiene 5 productos: 
 
 · Bolsa de Alfajores de chocolate negro de origen, alfajores de chocolate con leche y alfajores con chocolate blanco. 
 
