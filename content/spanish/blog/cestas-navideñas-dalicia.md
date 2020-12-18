@@ -1,14 +1,14 @@
 ---
-title: "Cestas Navideñas d'Alicia "
+title: "Cestas Navidad d'Alicia "
 date: 2020-11-30T11:58:28.300Z
 temas:
   - Viaja a través de la gastronomía
 image: images/banner-cestanavidad-dealiciav2-1.png
 thumb: images/banner-cestanavidad-dealiciav2-2.png
-description: "Cestas Navidad con chocolates, alfajores, turrón, mazapán,
-  galletas, brownie, brioche Navideño personalizadas. "
+description: "Cestas pastelería online para Navidad con chocolates, alfajores,
+  turrón, mazapán, galletas, brownie, brioche Navideño personalizadas. "
 ---
-# **Cestas Navideñas d'Alicia** 
+# **Cestas** pastelería online **para Navidad** 
 
 Las tradiciones son lo que hacen parte de una familia, de una cultura, desde hace mucho tiempo regalamos en estas fechas, es una manera de celebrar. La propuesta de regalar una cesta de Navidad es un regalo amable con el planeta ya que la cesta se puede reutilizar como frutero, para poner pan, para muchas alternativas, los productos son para disfrutar y compartir con amigos, 
 
