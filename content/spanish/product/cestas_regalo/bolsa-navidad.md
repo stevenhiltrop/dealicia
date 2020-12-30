@@ -1,7 +1,7 @@
 ---
 title: "Bolsa Navidad "
 date: 2020-12-15T00:56:58.898Z
-draft: false
+draft: true
 type: product
 image: images/bolsa-regalo-navidad-dealicia-1024.jpg
 thumb: images/bolsa-regalo-navidad-dealicia-586.jpg
