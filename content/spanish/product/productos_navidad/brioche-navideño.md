@@ -1,7 +1,7 @@
 ---
 title: "Brioche Navideño "
 date: 2020-12-14T23:27:44.962Z
-draft: false
+draft: true
 type: product
 image: images/brioche-chocolate-con-leche-navidad-dealicia-1024.jpg
 thumb: images/brioche-chocolate-con-leche-navidad-dealicia-586.jpg
