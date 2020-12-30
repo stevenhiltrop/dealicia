@@ -1,7 +1,7 @@
 ---
 title: Canasta Marroquí Navideña
 date: 2020-12-14T19:10:15.606Z
-draft: false
+draft: true
 type: product
 image: images/canastamarroqui-dealicia-1024.jpg
 thumb: images/canastamarroqui-dealicia-586.jpg
