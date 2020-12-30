@@ -1,7 +1,7 @@
 ---
 title: "Tronco de Navidad Pequeño de Chocolate "
 date: 2020-12-15T12:14:44.770Z
-draft: false
+draft: true
 type: product
 image: images/tronco-de-navidad-artesanal-dealicia-1024.jpg
 thumb: images/tronco-de-navidad-artesanal-dealicia-586.jpg
