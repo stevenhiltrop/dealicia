@@ -1,13 +1,14 @@
 ---
 bg_image: images/headers/galletas-dulces.jpg
-title: "Cestas Regalo"
+title: Cestas Regalo
 date: 2018-07-12T18:19:33+06:00
-draft: false
+draft: true
 image: images/cestanavidad-dealicia-1024.jpg
 thumb: images/cestanavidad-dealicia-586.jpg
 category:
   - Cestas Regalo
-description: "Cestas Navideñas con productos Gourmet, turrón, alfajores, chocolates, mazapán, mermeladas sin conservantes. "
+description: "Cestas Navideñas con productos Gourmet, turrón, alfajores,
+  chocolates, mazapán, mermeladas sin conservantes. "
 ---
 # Cestas Navideñas d'Alicia
 
