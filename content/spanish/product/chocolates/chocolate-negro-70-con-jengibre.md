@@ -1,7 +1,7 @@
 ---
 title: "Chocolate Negro 70 % con Jengibre "
 date: 2020-12-09T10:44:53.463Z
-draft: false
+draft: true
 type: product
 image: images/chocolatenegro70conjengibre-dealicia-1024.png
 thumb: images/chocolatenegro70conjengibre-dealicia-586.png
