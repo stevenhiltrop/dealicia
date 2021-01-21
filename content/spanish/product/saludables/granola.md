@@ -1,19 +1,22 @@
 ---
 title: Granola
-draft: false
-thumb: images/thumbs/granola.jpg
-productWeight: 456
-priceBefore: ""
 date: 2020-05-25T13:39:07+06:00
-image: images/granola.jpg
+draft: false
+type: product
+image: images/granola-casera-dealicia-1024.jpg
+thumb: images/granola-casera-dealicia-586.jpg
 category:
   - Saludables
 description: Granola d’Alicia Café
-price: "5.60"
+weight: 450
+productWeight: 456
+priceBefore: ""
+price: 6.1
 stock: si
 overview:
   - label: Categoría
     data: Saludable
-type: product
 ---
-Granola d’Alicia Café ideal para consumir con yogur, fruta, leche o miel.
+Granola d’Alicia Café ideal para consumir con yogur, fruta, leche o miel. 
+
+Pack de 450g
