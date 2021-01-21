@@ -1,39 +1,21 @@
 ---
-title: "Galletas American Cookie - Coco y Chocolate con Leche"
+title: Galletas American Cookie - Coco y Chocolate con Leche
 date: 2020-05-25T13:39:07+06:00
-draft: false
+draft: true
 type: product
-
-# Overview
-overview:
-  - label : Categoría
-    data : Galletas Dulces
-
-  - label : Precio
-    data : 4.10€
-
-# meta description
-description : "Deliciosa combinación de coco y chocolate con leche en una galleta."
-
-# needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-thumb: "images/thumbs/galletas-american-cookie-coco-chocolate.jpg"
-
-# product Images
-# first image will be shown in the product page
-image: "images/galletas-american-cookie-coco-chocolate.jpg"
-
-# product Price
-price: "4.10"
+image: images/galletas-american-cookie-coco-chocolate.jpg
+thumb: images/thumbs/galletas-american-cookie-coco-chocolate.jpg
+category: Galletas Dulces
+description: Deliciosa combinación de coco y chocolate con leche en una galleta.
+weight: 140
+productWeight: "140"
 priceBefore: ""
-
-# categories
-category : "Galletas Dulces"
-
-# weight
-productWeight : "140"
-
-# in stock? (accepts true/false | yes/no | si/no | 1/0)
+price: "4.10"
 stock: si
-
+overview:
+  - label: Categoría
+    data: Galletas Dulces
+  - label: Precio
+    data: 4.10€
 ---
 (2 unidades) Deliciosa combinación de coco y chocolate con leche en una galleta.
