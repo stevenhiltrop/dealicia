@@ -1,7 +1,7 @@
 ---
 title: "Chocolate Caliente Belga "
 date: 2020-12-14T18:50:05.105Z
-draft: false
+draft: true
 type: product
 image: images/chocolatecalientebelga-dealicia-1024.jpg
 thumb: images/chocolatecalientebelga-dealicia-586.jpg
