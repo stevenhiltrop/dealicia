@@ -1,7 +1,7 @@
 ---
 title: "Chocolate negro con pistacho "
 date: 2020-11-19T11:37:56.117Z
-draft: false
+draft: true
 type: product
 image: images/banner-chocolates-dealicia-.jpg
 thumb: images/banner-chocolates-dealicia-586.jpg
