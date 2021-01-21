@@ -2,7 +2,7 @@
 bg_image: images/headers/saludables.jpg
 title: Saludables
 date: 2018-07-12T18:19:33+06:00
-draft: true
+draft: false
 image: images/barritasdeavene-dealicia-estepona-guadalmina-sotogrande-1024.jpg
 thumb: images/barritasdeavene-dealicia-estepona-guadalmina-sotogrande.jpg
 category:
