@@ -1,7 +1,7 @@
 ---
 title: Chocolate con leche con pistachos
 date: 2020-12-09T11:48:55.218Z
-draft: false
+draft: true
 type: product
 image: images/chocolateconlecheconpistachos-dealicia-1024.jpg
 thumb: images/chocolateconlecheconpistachos-dealicia-586.jpg
