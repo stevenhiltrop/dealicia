@@ -2,7 +2,7 @@
 bg_image: images/headers/galletas-dulces.jpg
 title: Chocolates
 date: 2018-07-12T18:19:33+06:00
-draft: true
+draft: false
 image: images/chocolates-dealicia-1024x768.jpg
 thumb: images/chocolates-dealicia-586.jpg
 category:
@@ -17,13 +17,17 @@ En d’Alicia utilizamos chocolate negro Belga de origen, del 70%, es un clásic
 
 Para alguna merienda o choco-picnic o una quedada especial con amigos: 
 
+**Temporada de Invierno:** 
+
 * Chocolates con frutos secos 
 * Naranjitas con chocolate
 * Higos sorpresa con chocolate negro (No contiene azúcar, solo el higo seco con una sorpresa saludable dentro y bañados con chocolate negro. 
 * Alfajores con chocolate
-* Financiers
+* Brioche Navideño con chocolate con leche
+
+  **Todo el año:** 
 * Brownie con helado de vainilla 
 * American Cookies con helado de vainilla o batido 
 * Galletas con chocolate con leche
-* Chocolate caliente Belga con Brioche 
-* Brioche Navideño con chocolate con leche
+* Chocolate caliente Belga 
+* Financiers
