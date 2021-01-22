@@ -10,7 +10,7 @@ category:
 description: "Merengue Navideño decorado para comer o para regalar. "
 weight: 30
 productWeight: 35
-price: 1.2
+price: 1.21
 stock: true
 ---
 Merengue Navideño 
