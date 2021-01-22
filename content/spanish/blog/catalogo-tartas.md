@@ -1,22 +1,24 @@
 ---
-title: "Menú de Tartas d'Alicia"
 bg_image: images/headers/tartas_menu.jpg
-date: 2019-11-11T11:07:10+06:00
-description : "Prepara tu Mesa Dulce"
 author: Yareri Aguilar
-image: images/tartas/Tartas-d'Alicia.jpg
-temas: ["Tartas"]
-tags: ["tartas"]
-type: post
-
+title: Menú de Tartas d'Alicia
+date: 2019-11-11T11:07:10+06:00
+temas:
+  - Tartas
+thumb: images/tartaspasteleriaartesana-estepona-guadalmina-sotogrande.jpg
 images:
-  - "/images/blog/MesaCumple_MesaDulce.jpg"
+  - /images/blog/MesaCumple_MesaDulce.jpg
+tags:
+  - tartas
+type: post
+image: images/tartaspasteleria-artesanal-estepona-guadalmina-sotogrande.jpg
+description: Prepara tu Mesa Dulce
 ---
 15  opciones diferentes dentro del menú de las tartas d'Alicia. Para comprar las tartas del menú d'Alicia tienes dos posibilidades:
 
 1- Comprar directo en las tiendas El Pilar (Estepona), Guadalmina y Sotogrande (enlaces a google maps de las tiendas)
 
-2- Comprar desde la app para solo ir a recoger. Solo tienes que descargar la app de BR  (Enlace a la app BR)  y buscar d'Alicia.
+2- Llamar a la tienda para ir a recoger. Solo tienes que llamar a la tienda. 
 Todas las tartas d'Alicia están hechas con ingredientes naturales sin conservantes.
 
 ##### Tarta de Choco-Frambuesa
