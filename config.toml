@@ -1,5 +1,5 @@
 ######################### default configuration ###############################
-baseURL = "https://dealicia.com/"
+baseURL = "dealicia.com/"
 title = "Tienda de repostería en la costa del Sol | d'Alicia • Delicias y Caprichos"
 theme = "biztrox-hugo"
 # post pagination
@@ -168,6 +168,8 @@ logo = "images/logo.png"
 logo_white = "images/logo-footer.png"
 mail = "hola@dealicia.com"
 mobile = "952 92 71 99"
+og_image = "images/logo.png"
+
 # Meta data
 description = "d'Alicia • Delicias y Caprichos"
 author = "normal media"

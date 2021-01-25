@@ -12,7 +12,7 @@ description: La granola y sus beneficios
 tags:
   - granola
 type: post
-
+og_image: /images/blog/granola-dealicia-sinconservantes-pasteleria-guadalmina-sotogrande-estepona-marbella.jpeg
 ---
 
 ### ¿Conoces la granola?
