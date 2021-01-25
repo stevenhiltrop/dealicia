@@ -1,5 +1,5 @@
 ######################### default configuration ###############################
-baseURL = "dealicia.com/"
+baseURL = "https://dealicia.com/"
 title = "Tienda de repostería en la costa del Sol | d'Alicia • Delicias y Caprichos"
 theme = "biztrox-hugo"
 # post pagination
