@@ -40,6 +40,10 @@ h1, .h1 {
     margin-left: 10px;
 }
 
+.snipcart-error-message {
+    padding-top: 4px;
+    color: red;
+}
 
 .dropdown.cart-nav.dropdown-slide:hover .cart-dropdown{
     display: block;

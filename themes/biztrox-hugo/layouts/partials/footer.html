@@ -170,7 +170,20 @@
 </script>
 {{ end }}
 <!-- Snipcart public key -->
-<div hidden id="snipcart" data-api-key="{{ .Site.Params.snipcartAPI }}"></div>
+<div hidden id="snipcart" data-api-key="{{ .Site.Params.snipcartAPI }}">
+	<billing section="bottom">
+		<fieldset class="snipcart-form__set">
+			<div class="snipcart-form__field">
+				<snipcart-label class="snipcart__font--tiny" for="phone">Número de Teléfono</snipcart-label>
+				<snipcart-input name="phone"></snipcart-input>
+			</div>
+			<div class="snipcart-form__field-checkbox">
+				<snipcart-checkbox name="subscribeToNewsletter"></snipcart-checkbox>
+				<snipcart-label class="snipcart__font--tiny snipcart-form__label--checkbox" for="subscribeToNewsletter">Darme de alta en la newsletter</snipcart-label>
+			</div>
+		</fieldset>
+	</billing>
+</div>
 
 <script src="https://cdn.snipcart.com/themes/v3.0.17/default/snipcart.js"></script>
 
