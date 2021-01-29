@@ -2,7 +2,7 @@
 bg_image: images/headers/galletas-dulces.jpg
 title: "Productos de Navidad"
 date: 2018-07-12T18:19:33+06:00
-draft: false
+draft: true
 category:
   - Productos de Navidad
 bg_image: images/headers/galletas-dulces.jpg
