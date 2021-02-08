@@ -15,9 +15,12 @@
 						{{ if .Params.weight }}
 						<li class="py-3 border-bottom"><span class="d-inline-block" style="width: 140px;">Peso:</span><span class="rightdets">{{ .Params.weight }}g</span></li>
 						{{ end }}
+						{{ if .Params.Category }}
 						<li class="py-3 border-bottom"><span class="d-inline-block" style="width: 140px;">Categoría:</span><span class="rightdets">{{ index (.Params.Category) 0 }}</span></li>
-
+						{{ end }}
+						{{ if .Params.Price }}
 						<li class="py-3 border-bottom"><span class="d-inline-block" style="width: 140px;">Precio:</span><span class="rightdets">{{ lang.NumFmt 2 .Params.Price }}€</span></li>
+						{{ end }}
 					</ul>
 					<!-- Product available in stock ? -->
 	{{if not .Params.stock }}
