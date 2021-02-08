@@ -8,7 +8,7 @@ thumb: images/pack-sanvalentin-promo-dealicia-pasteleriaconpieldemariposa-v.jpg
 category:
   - Galletas Dulces
 description: "Pack San Valentin de piruleta y galletas de corazón para ayudar a
-  piel de mariposa.  "
+  la asociación piel de mariposa.  "
 weight: 200
 productWeight: 200
 price: 12.45
@@ -16,7 +16,7 @@ stock: true
 ---
 # Pack de San Valentin
 
-Pack especial de San Valentin creado para ayudar a la [asociación  Piel de Mariposa](https://www.pieldemariposa.es), con tu compra ayudas a Piel de Mariposa. 
+Pack especial de San Valentin creado para ayudar a la [asociación  Piel de Mariposa](https://www.pieldemariposa.es), con tu compra ayudas a la asociación Piel de Mariposa. 
 
 **\#TuApoyoMiEscudo** 
 
