@@ -9,8 +9,8 @@ category:
   - Galletas Dulces
 description: Pack San Valentin de piruleta y galletas de corazón para ayudar a
   la asociación piel de mariposa.
-weight: 200
-productWeight: 200
+weight: 100
+productWeight: 100
 priceBefore: ""
 price: 12.45
 stock: si
