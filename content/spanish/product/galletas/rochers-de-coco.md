@@ -1,39 +1,39 @@
 ---
-title: "Rochers de Coco"
+title: Pack San Valentin ayuda Piel Mariposa
 date: 2020-05-25T13:39:07+06:00
 draft: false
 type: product
-
-# Overview
-overview:
-  - label : Categoría
-    data : Galletas Dulces
-
-  - label : Precio (Unidad)
-    data : 0.80€
-
-# meta description
-description : "Clásico de coco"
-
-# needs a separate image for the CMS thumbnails because it doesnt take arrays (slideshow images)
-thumb: "images/thumbs/rochers-de-coco.jpg"
-
-# product Images
-# first image will be shown in the product page
-image: "images/rochers-de-coco.jpg"
-
-# product Price
-price: "0.80"
+image: images/pack-sanvalentin-promo-dealicia-pasteleriaconpieldemariposa.jpg
+thumb: images/pack-sanvalentin-promo-dealicia-pasteleriaconpieldemariposa-v.jpg
+category:
+  - Galletas Dulces
+description: Pack San Valentin de piruleta y galletas de corazón para ayudar a
+  la asociación piel de mariposa.
+weight: 200
+productWeight: 200
 priceBefore: ""
-
-# categories
-category: "Galletas Dulces"
-
-# weight
-productWeight : "25"
-
-# in stock? (accepts true/false | yes/no | si/no | 1/0)
+price: 12.45
 stock: si
-
+overview:
+  - label: Categoría
+    data: Galletas Dulces
+  - label: Precio (Unidad)
+    data: 0.80€
 ---
-Clásico de coco
+**Pack de San Valentin**
+
+Pack especial de San Valentin creado para ayudar a la [asociación Piel de Mariposa](https://www.pieldemariposa.es), con tu compra ayudas a la asociación Piel de Mariposa. 
+
+**\#TuApoyoMiEscudo**
+
+**Contiene:**
+
+1 piruleta de bizcocho de chocolate bañana con cobertura de chocolate con leche. 
+
+2 merengues de corazón 
+
+2 galletas de corazón con mermelada de frambuesas d'Alicia. 
+
+Todos nuestros productos son hechos a mano sin conservantes, ni colorantes, ni aditivos. 
+
+Recuerda que el envío tarda de 1-3 días para que lo pidas con tiempo.
