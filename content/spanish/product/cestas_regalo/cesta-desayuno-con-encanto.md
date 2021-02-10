@@ -9,7 +9,7 @@ category:
   - Cestas Regalo
 description: "Cesta desayuno sorpresa a domicilio o para recoger. "
 weight: ""
-productWeight: 3000
+productWeight: 3100
 price: 36.95
 stock: true
 ---
