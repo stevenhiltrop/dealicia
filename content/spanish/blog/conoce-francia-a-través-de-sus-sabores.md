@@ -1,5 +1,5 @@
 ---
-title: Conoce Francia a través de sus sabores
+title: Viajamos a Francia desde casa
 date: 2021-02-23T09:39:15.719Z
 temas:
   - Viaja a través de la gastronomía
