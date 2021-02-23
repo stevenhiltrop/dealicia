@@ -40,10 +40,6 @@ Para una merienda gourmet: 
 * Pan chocolat
 * Caracola de pasas 
 
-![Croissant de almendras](images/croissantalmendras-francia-pasteleria-dealicia.jpg "Croissant de almendras")
-
-![Brioche con mermelada](images/briocheconmermelada-francia-pasteleria-dealicia.jpg "Brioche con mermelada")
-
 ## Cena gourmet y saludable d’Alicia: 
 
 Alguna de nuestras Quichés que se preparan en el obrador, se hace desde la base, las verduras, pasando por nuestro horno de piedra que le da el toque final de un auténtico sabor, lista solo para consumir. 
