@@ -50,7 +50,7 @@ Para seguir aprendiendo sobre Francia podemos sugerirte durante la semana:
 
 **Actividad visual:** 
 
-* Video sobre Francia 
+* [Video sobre Francia ](https://youtu.be/XjktU-9AooU)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XjktU-9AooU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -58,11 +58,11 @@ Para seguir aprendiendo sobre Francia podemos sugerirte durante la semana:
 
 Este tipo de actividades favorece la concentración, la creatividad, ayuda a la motricidad pero sobre todo la relajación. 
 
-* Dibujar la Torre Eiffel 
+* [Dibujar la Torre Eiffel ](https://youtu.be/WM14KNKisVg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WM14KNKisVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Torre Eiffel 
+[Actividad Torre Eiffel ](https://youtu.be/myrB1C0p1sk)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/myrB1C0p1sk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
