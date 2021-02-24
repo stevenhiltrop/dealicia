@@ -16,6 +16,8 @@ Reutilizar es darle una segunda oportunidad y larga vida a cosas que posiblement
 
 Les proponemos crear un teatro de sombras con las cajas de tartas inspirado en el libro de «[Versos para Ilustrar](https://www.amazon.es/dp/1095863843/ref=cm_sw_em_r_mt_dp_iyd7Fb92K8FS1)» de Elena Mayorga. Es un libro ilustrado por Adriana una niña de 10 años, lo que nos parece fascinante que existan este tipo de libros que motiven a las niñas y niños para confiar es sus propias habilidades con el acompañamiento de sus padres. El libro explica más a a detalle sobre los teatros de sombras y propone una actividad de cómo utilizar el teatro de sombras, una actividad en familia. En d’Alicia nos encanta promover los momentos para compartir en familia o con amigos al mismo tiempo nos gusta promover el arte y la cultura. El libro contiene mucha información sobre datos culturales, así como de arte, seguidos de un verso relacionado con cada tema.
 
-Necesitarás una de las cajas de las tartas d’Alicia, cúter, regla, lápiz, papel de seda o blanco, pegamento y cinta adhesiva para pegar bien la caja por los  lados.
+Necesitarás una de las cajas de las tartas d’Alicia, cúter, regla, lápiz, papel de seda o blanco, pegamento y cinta adhesiva para pegar bien la caja por los  lados. 
+
+[Ve el tutorial ](https://youtu.be/nWEUfKJ1Lkk)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nWEUfKJ1Lkk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
