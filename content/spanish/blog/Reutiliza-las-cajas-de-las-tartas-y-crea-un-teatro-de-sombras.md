@@ -18,5 +18,4 @@ Les proponemos crear un teatro de sombras con las cajas de tartas inspirado en e
 
 Necesitarás una de las cajas de las tartas d’Alicia, cúter, regla, lápiz, papel de seda o blanco, pegamento y cinta adhesiva para pegar bien la caja por los  lados.
 
-Aquí les dejamos un tutorial, también lo puedes ver en nuestro instagram.
-...link video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWEUfKJ1Lkk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
