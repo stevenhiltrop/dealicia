@@ -20,6 +20,8 @@ Para asociar los sabores y platillos con el nombre de un país o una ciudad, lo 
 
 Se dice que todo aquello que detectas a través del sentido del gusto crea un recuerdo en tu cerebro, por eso es una buena forma de aprender y recordar sobre los lugares. Puedes jugar a asociar por ejemplo; Francia me recuerda a croissants.
 
+{{< youtube q4xKvHANqjk >}}
+
  No presionarles a probar, respetar su ritmo sin embargo predicar con el ejemplo ya que los niños imitan su entorno, probar de todo cuando estés con ellos y si algo no te gusta, puedes decir “por el momento no me gusta” ya que nuestros gustos van cambiando y a lo mejor en unos años algo que antes no solía gustarte ahora sí, predisponer a nuestro cerebro a algo negativo es limitarlo a un pensamiento positivo de la posibilidad de probar nuevos y futuros sabores.
 
 La comida hecha sin conservantes, ni colorantes, solo hechos con ingredientes naturales es la misión que todos los padres buscan para ofrecer a sus hijos, sobre todo cuando estás de vacaciones o quieres comer fuera de casa.
