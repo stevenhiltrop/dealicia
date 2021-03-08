@@ -15,8 +15,24 @@ Una excelente opción nutritiva para un almuerzo ligero, una merienda o una cena
 
 También se puede servir como dip con palitos de zanahoria, pepino y apio fresco. 
 
+Ingredientes:
+
+250 g de garbanzos remojados o 1 bote de garbanzos conserva
+
+Zumo de limón
+
+1 ajo
+
+1 cs de tahín
+
+3-4 cs aceite de oliva
+
+comino
+
+pimienta
+
+sal al gusto
+
 Buen provecho! 
 
 Para la receta en video [clic ](https://youtu.be/CmBo6_8aEks)
-
-{{< youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/CmBo6_8aEks" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> >}}
