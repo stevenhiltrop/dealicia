@@ -58,6 +58,8 @@ Para seguir aprendiendo sobre Francia podemos sugerirte durante la semana:
 
 Este tipo de actividades favorece la concentración, la creatividad, ayuda a la motricidad pero sobre todo la relajación. 
 
+{{< youtube WM14KNKisVg >}}
+
 * [Dibujar la Torre Eiffel ](https://youtu.be/WM14KNKisVg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WM14KNKisVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
