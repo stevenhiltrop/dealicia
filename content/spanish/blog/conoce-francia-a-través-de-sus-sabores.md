@@ -52,13 +52,13 @@ Para seguir aprendiendo sobre Francia podemos sugerirte durante la semana:
 
 * [Video sobre Francia ](https://youtu.be/XjktU-9AooU)
 
-{{< youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/XjktU-9AooU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> >}}
+{{< youtube {{< youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/XjktU-9AooU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> >}} >}}
 
 **Actividades que promueven la relajación y concentración:** 
 
 Este tipo de actividades favorece la concentración, la creatividad, ayuda a la motricidad pero sobre todo la relajación. 
 
-{{< youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/WM14KNKisVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> >}}
+{{< youtube {{< youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/WM14KNKisVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> >}} >}}
 
 * [Dibujar la Torre Eiffel ](https://youtu.be/WM14KNKisVg)
 
@@ -66,7 +66,7 @@ Este tipo de actividades favorece la concentración, la creatividad, ayuda a la 
 
 [Actividad Torre Eiffel ](https://youtu.be/myrB1C0p1sk)
 
-{{< youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/myrB1C0p1sk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> >}}
+{{< youtube {{< youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/myrB1C0p1sk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> >}} >}}
 
 Libro con recetas sobre gastronomia mundial 
 
