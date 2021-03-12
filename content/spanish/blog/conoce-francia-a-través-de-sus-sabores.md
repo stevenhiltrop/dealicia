@@ -58,7 +58,7 @@ Para seguir aprendiendo sobre Francia podemos sugerirte durante la semana:
 
 Este tipo de actividades favorece la concentración, la creatividad, ayuda a la motricidad pero sobre todo la relajación. 
 
-{{< youtube WM14KNKisVg >}}
+{{< youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/WM14KNKisVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> >}}
 
 * [Dibujar la Torre Eiffel ](https://youtu.be/WM14KNKisVg)
 
@@ -68,8 +68,8 @@ Este tipo de actividades favorece la concentración, la creatividad, ayuda a la 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/myrB1C0p1sk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-![Libro Calle Babel No. 10](images/librocallebabelno10.jpg "Libro de recetas Calle Babel No 10")
+![https://amzn.to/2PLTXTd](images/librocallebabelno10.jpg "https://amzn.to/2PLTXTd")
 
-Una alternativa para conocer más sobre la gastronomía de otros países es un libro precioso con unos dibujos muy auténticos que te invitan a tirar del hilo para investigar de dónde son los platillos y poder compartir un momento juntos en familia cocinando. 
+Una alternativa para conocer más sobre la gastronomía de otros países es un libro precioso con unos dibujos muy auténticos que te invitan a tirar del hilo para investigar de dónde son los platillos y poder compartir un momento juntos en familia cocinando.  [Enlace comprar este libro](https://amzn.to/2PLTXTd)
 
 Recuerda que los pasteles en d'Alicia son hechos sin conservantes, son de producción diaria así que asegúrate de reservar con tiempo.
