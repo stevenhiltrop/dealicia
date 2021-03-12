@@ -68,7 +68,9 @@ Este tipo de actividades favorece la concentración, la creatividad, ayuda a la 
 
 {{< youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/myrB1C0p1sk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> >}}
 
-![https://amzn.to/2PLTXTd](images/librocallebabelno10.jpg "https://amzn.to/2PLTXTd")
+Libro con recetas sobre gastronomia mundial 
+
+![](images/librocallebabelno10.jpg)
 
 Una alternativa para conocer más sobre la gastronomía de otros países es un libro precioso con unos dibujos muy auténticos que te invitan a tirar del hilo para investigar de dónde son los platillos y poder compartir un momento juntos en familia cocinando.  [Enlace comprar este libro](https://amzn.to/2PLTXTd)
 
