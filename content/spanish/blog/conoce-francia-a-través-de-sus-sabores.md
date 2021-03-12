@@ -70,7 +70,7 @@ Este tipo de actividades favorece la concentración, la creatividad, ayuda a la 
 
 Libro con recetas sobre gastronomia mundial 
 
-![](images/librocallebabelno10.jpg)
+![](images/librocallebabelno10.jpg "Libro Calle Babel No. 10")
 
 Una alternativa para conocer más sobre la gastronomía de otros países es un libro precioso con unos dibujos muy auténticos que te invitan a tirar del hilo para investigar de dónde son los platillos y poder compartir un momento juntos en familia cocinando.  [Enlace comprar este libro](https://amzn.to/2PLTXTd)
 
