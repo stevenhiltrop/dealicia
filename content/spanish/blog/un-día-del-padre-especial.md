@@ -15,7 +15,7 @@ Celebra en la naturaleza, una tarde de picnic, una tarde de bicicleta, es una op
 
 Prepara una cesta con productos d’Alicia, puedes pedir por teléfono tu cesta para recoger sin tener que esperar mucho.  Te ayudamos a que la celebración sea más fácil de organizar. 
 
-![]()
+
 
 \- Quiche d’Alicia 
 
