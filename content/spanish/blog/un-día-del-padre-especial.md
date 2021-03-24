@@ -15,8 +15,6 @@ Celebra en la naturaleza, una tarde de picnic, una tarde de bicicleta, es una op
 
 Prepara una cesta con productos d’Alicia, puedes pedir por teléfono tu cesta para recoger sin tener que esperar mucho.  Te ayudamos a que la celebración sea más fácil de organizar. 
 
-
-
 \- Quiche d’Alicia 
 
 \- Ensalada que preparamos ese día
@@ -41,4 +39,4 @@ Aquí te dejamos algunas recomendaciones para estar preparad@ para el picnic
 
 \- [Mochila picnic](https://amzn.to/30Lh96f) que te sirve para cualquier actividad al aire libre. 
 
-![Mochila picnic](images/mochilapicnic.png)
+![Mochila picnic](images/mochilapicnic.png "Mochila picnic")
