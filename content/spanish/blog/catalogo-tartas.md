@@ -23,84 +23,84 @@ Todas las tartas d'Alicia están hechas con ingredientes naturales sin conservan
 
 ##### Tarta de Choco-Frambuesa
 
-Tierno bizcocho de chocolate con nata y frambuesas, recubierto de ganache de chocolate 70% cacao y decorada con discos de chocolate blanco.
+Tierno bizcocho de chocolate con nata y frambuesas, recubierto de ganache de chocolate 70% cacao y decorada con discos de chocolate blanco. 8 - 10 personas
 
-![](/images/tartas/Tartas-d'Alicia-choco-fambuesa.jpg)
+![Tarta de Choco-Frambuesa](/images/tartas/Tartas-d'Alicia-choco-fambuesa.jpg "Tarta de Choco-Frambuesa")
 
 ##### Mousse de Frambuesa
 
-Base de galleta bretona crujiente, con chocolate blanco, mousse de frambuesa y frambuesas.
+Base de galleta bretona crujiente, con chocolate blanco, mousse de frambuesa y frambuesas. Dos opciones pequeña y grande 
 
-![](/images/tartas/Tartas-d'Alicia-sable-frambuesa.jpg)
+![Mousse de Frambuesa](/images/tartas/Tartas-d'Alicia-sable-frambuesa.jpg "Mousse de Frambuesa")
 
 ##### Choco Merengue
 
-Tierno bizcocho de chocolate con nata y trozos de merengue crujiente, recubierta de ganache de chocolate 70% cacao y decorada con merenguitos.
+Tierno bizcocho de chocolate con nata y trozos de merengue crujiente, recubierta de ganache de chocolate extra-bitter y decorada con merenguitos. 8-10 personas
 
-![](/images/tartas/Tartas-d'Alicia-choco-merengue.jpg)
+![Tarta Choco Merengue](/images/tartas/Tartas-d'Alicia-choco-merengue.jpg "Tarta Choco Merengue ")
 
 ##### Choco rubio
 
-Tarta de mousse de chocolate blanco caramelizado “Dulcey”, crujiente de almendra y avellana y bizcocho blanco.
+Tarta de mousse de chocolate blanco caramelizado “Dulcey”, crujiente de almendra y avellana y bizcocho blanco. Dos opciones pequeña y grande. 
 
-![](/images/tartas/Tartas-d'Alicia-choco-rubio.jpg)
+![Choco Rubio](/images/tartas/Tartas-d'Alicia-choco-rubio.jpg "Choco Rubio ")
 
 ##### Florentina
 
-Capas de tierno bizcocho de chocolate, crujiente Florentina de almendra y dulce de leche, recubierto con nuestra ganache de chocolate 70% cacao y decorada con Florentinas.
+Capas de tierno bizcocho de chocolate, crujiente florentina de almendra y dulce de leche, recubierto con nuestra ganache de chocolate extra-bitter y decorada con Florentinas. 8-10 personas
 
-![](/images/tartas/Tartas-d'Alicia-florentina.jpg)
+![Tarta Florentina](/images/tartas/Tartas-d'Alicia-florentina.jpg "Tarta Florentina ")
 
 ##### Selva negra
 
-Tarta de chocolate con nata, cerezas ácidas ”Griotte” y copos de chocolate negro.
+Tarta de chocolate con nata, cerezas ácidas ”Griotte” y copos de chocolate negro. 8-10 personas
 
-![](/images/tartas/Tartas-d'Alicia-selva-negra.jpg)
+![Tarta Selva Negra](/images/tartas/Tartas-d'Alicia-selva-negra.jpg "Tarta Selva Negra ")
 
 ##### Tarta Brillante
 
-Bizcocho de chocolate extra bitter y almendras, crema de chocolate y salsa de chocolate brillante.
+Bizcocho de chocolate extra bitter y almendras, crema de chocolate y salsa de chocolate brillante. 8-10 personas
 
-![](/images/tartas/Tartas-d'Alicia-brillante.jpg)
+![Tarta Chocolate Brillante ](/images/tartas/Tartas-d'Alicia-brillante.jpg "Tarta Chocolate Brillante ")
 
 ##### Tarta de Barro
 
-Nuestro bizcocho de chocolate relleno de mousse de chocolate y café.
+Nuestro bizcocho de chocolate relleno de mousse de chocolate y café. Dos opciones pequeña y grande. 
 
-![](/images/tartas/Tartas-d'Alicia-barro.jpg)
+![Tarta Barro](/images/tartas/Tartas-d'Alicia-barro.jpg "Tarta Barro ")
 
 ##### Trio de Mousses
 
-Tarta de 3 mousses de chocolate: blanco, chocolate con leche y chocolate negro de 70% de cacao, con base de suave bizcocho de chocolate.
+Tarta de 3 mousses de chocolate: blanco, chocolate con leche y chocolate negro de 70% de cacao, con base de suave bizcocho de chocolate. Dos opciones pequeña y grande. 
 
-![](/images/tartas/Tartas-d'Alicia-3-mousses-chocolate.jpg)
+![Trio de Mousses](/images/tartas/Tartas-d'Alicia-3-mousses-chocolate.jpg "Trio de Mousses")
 
 ##### Lemon Meringue Pie
 
-Nuestra famosa tarta de crema limón con merengue.
+Nuestra famosa tarta de crema limón con merengue. 6-8 personas
 
-![](/images/tartas/Tartas-d'Alicia-lemon-meringue.jpg)
+![Lemon Meringue Pie](/images/tartas/Tartas-d'Alicia-lemon-meringue.jpg "Lemon Meringue Pie")
 
 ##### Pavlova
 
-Base de merengue crujiente con nata y fruta de temporada.
+Base de merengue crujiente con nata y fruta de temporada. Bajo reserva. 
 
-![](/images/tartas/Tartas-d'Alicia-pavlova.jpg)
+![Pavlova con fruta fresca ](/images/tartas/Tartas-d'Alicia-pavlova.jpg "Pavlova con fruta fresca")
 
 ##### Tarta Primavera
 
-Nuestra famosa tarta de crema limón con merengue.
+Capas de bizcocho blanco, mousse de frambuesas, Dacqoise de almendra y avellanas, chantilly y frutas del bosque recubiertas con una fina capa de merengue flambeado. 8-10 personas
 
-![](/images/tartas/Tartas-d'Alicia-primavera.jpg)
+![Tarta Primavera ](/images/tartas/Tartas-d'Alicia-primavera.jpg "Tarta Primavera")
 
 ##### Tarta Verano
 
-Capas de bizcocho blanco, mousse de mango y fruta de la pasión (Maracuyá), Dacqoise de almendra y avellana, Chantilly recubiertas con una fina capa de merengue flambeado.
+Capas de bizcocho blanco, mousse de mango y fruta de la pasión (Maracuyá), Dacqoise de almendra y avellana y chantilly recubiertas con una fina capa de merengue flambeado. 8-10 personas
 
-![](/images/tartas/Tartas-d'Alicia-verano.jpg)
+![Tarta Verano ](/images/tartas/Tartas-d'Alicia-verano.jpg "Tarta Verano ")
 
 ##### NY Cheesecake
 
 Nuestra tarta de queso crema, estilo New York con base crujiente de galleta de avena.
 
-![](/images/tartas/Tartas-d'Alicia-cheesecake.jpg)
+![NY Cheesecake](/images/tartas/Tartas-d'Alicia-cheesecake.jpg "NY Cheesecake")
