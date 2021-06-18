@@ -36,5 +36,3 @@ sal al gusto
 Buen provecho! 
 
 Para la receta en video [clic  ](https://youtu.be/CmBo6_8aEks)
-
-{{< youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/CmBo6_8aEks" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> >}}
