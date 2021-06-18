@@ -57,15 +57,12 @@ Para seguir aprendiendo sobre Francia podemos sugerirte durante la semana:
 
 Este tipo de actividades favorece la concentración, la creatividad, ayuda a la motricidad pero sobre todo la relajación. 
 
-{{< youtube {{< youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/WM14KNKisVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> >}} >}}
 
 * [Dibujar la Torre Eiffel ](https://youtu.be/WM14KNKisVg)
 
-{{< youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/WM14KNKisVg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> >}}
 
 [Actividad Torre Eiffel ](https://youtu.be/myrB1C0p1sk)
 
-{{< youtube {{< youtube <iframe width="560" height="315" src="https://www.youtube.com/embed/myrB1C0p1sk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> >}} >}}
 
 Libro con recetas sobre gastronomia mundial 
 
