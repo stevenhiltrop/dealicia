@@ -33,10 +33,6 @@ Si solo vas a llevar la propuesta que te hemos recomendado no necesitas la mochi
 
 Aquí te dejamos algunas recomendaciones para estar preparad@ para el picnic 
 
-\- [Termo para llevar tu té o café](https://amzn.to/3vxsjcY) caliente.  Te recomendamos este termo, mantiene el calor por mucho tiempo. 
+\- [Termo para llevar tu té o café](https://amzn.to/3vxsjcY) caliente.  Te recomendamos este termo, mantiene el calor por mucho tiempo.  En enlace puedes encontrar un termo de amazon. 
 
-![Termo para café o té](images/termokleankanteen.png "Termo Klean ")
-
-\- [Mochila picnic](https://amzn.to/30Lh96f) que te sirve para cualquier actividad al aire libre. 
-
-![Mochila picnic](images/mochilapicnic.png "Mochila picnic")
+\- [Mochila picnic](https://amzn.to/30Lh96f) que te sirve para cualquier actividad al aire libre. En enlace puedes encontrar un termo de amazon.
