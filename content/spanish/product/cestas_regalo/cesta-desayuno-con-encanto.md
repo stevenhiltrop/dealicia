@@ -26,7 +26,9 @@ stock: true
 * 1 pan de espelta hecho con masa madre 
 * Y de regalo una bolsa reutilizable d'Alicia
 
-  Los envíos se hacen de Lunes a Sábado desde las 9:30 
+  Los envíos se hacen de Lunes a Sábado desde las 9:30. 
+
+  En temporada de verano no contamos con el servicio pero puedes preguntar por opciones para envio con MRW. 
 
   Reserva 2 días antes para asegurarnos que tenemos todo. 
 
