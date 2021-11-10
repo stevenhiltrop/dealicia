@@ -1,7 +1,7 @@
 ---
 title: "Chocolate negro con pistacho "
 date: 2020-11-19T11:37:56.117Z
-draft: true
+draft: false
 type: product
 image: images/banner-chocolates-dealicia-.jpg
 thumb: images/banner-chocolates-dealicia-586.jpg
@@ -10,7 +10,7 @@ category:
 description: "Chocolate negro con pistacho "
 weight: 100
 productWeight: 110
-price: 4.5
+price: 4.59
 stock: false
 ---
 **Chocolate negro con pistacho.**
