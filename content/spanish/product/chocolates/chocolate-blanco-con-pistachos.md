@@ -10,7 +10,7 @@ category:
 description: "Chocolate blanco con pistachos tostados sin conservantes. "
 weight: 100
 productWeight: 100
-price: ""
+price: 4.59
 stock: true
 ---
 **Chocolate blanco con pistachos**
