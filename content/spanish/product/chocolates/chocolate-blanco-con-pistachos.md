@@ -1,7 +1,7 @@
 ---
 title: Chocolate blanco con pistachos
 date: 2020-12-09T11:53:31.088Z
-draft: true
+draft: false
 type: product
 image: images/chocolateblancoconpistachos-dealicia-1024.jpg
 thumb: images/chocolateblancoconpistachos-dealicia-586.jpg
@@ -10,7 +10,7 @@ category:
 description: "Chocolate blanco con pistachos tostados sin conservantes. "
 weight: 100
 productWeight: 100
-price: 4.5
+price: 4.59
 stock: true
 ---
 **Chocolate blanco con pistachos**
