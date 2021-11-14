@@ -280,6 +280,10 @@ icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.facebook.com/dealicia.cafe/"
 
 [[params.social]]
+icon = "ti-telegram" # themify icon pack : https://themify.me/themify-icons
+link = "https://www.telegram.com/dealicia.cafe/"
+
+[[params.social]]
 icon = "ti-instagram" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.instagram.com/dealicia_cafe/"
 
