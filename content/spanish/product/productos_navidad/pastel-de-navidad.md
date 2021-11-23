@@ -10,7 +10,7 @@ category:
 description: "Pastel de Navidad individual típico inglés para regalar,
   producción artesana. "
 weight: 180
-productWeight: 180
+productWeight: 200
 price: 4.95
 stock: true
 ---
