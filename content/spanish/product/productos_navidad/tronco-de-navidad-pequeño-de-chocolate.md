@@ -1,7 +1,7 @@
 ---
 title: "Tronco de Navidad Pequeño de Chocolate "
 date: 2020-12-15T12:14:44.770Z
-draft: true
+draft: false
 type: product
 image: images/tronco-de-navidad-artesanal-dealicia-1024.jpg
 thumb: images/tronco-de-navidad-artesanal-dealicia-586.jpg
@@ -9,6 +9,7 @@ category:
   - Productos de Navidad
 description: "Tronco de Navidad artesanal costa del sol, Marbella, Estepona,
   Guadalmina, Sotogrande. "
+weight: ""
 price: 19
 stock: true
 ---

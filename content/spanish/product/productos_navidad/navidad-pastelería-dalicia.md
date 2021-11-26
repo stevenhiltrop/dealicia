@@ -1,7 +1,7 @@
 ---
 title: "Navidad Pastelería d'Alicia "
 date: 2020-12-14T23:42:44.606Z
-draft: true
+draft: false
 type: product
 image: images/productos-navidad-dealicia-1024.jpg
 thumb: images/productos-navidad-dealicia-586.jpg

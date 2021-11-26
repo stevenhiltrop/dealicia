@@ -1,7 +1,7 @@
 ---
 title: "Bolsa Navidad "
 date: 2020-12-15T00:56:58.898Z
-draft: true
+draft: false
 type: product
 image: images/bolsa-regalo-navidad-dealicia-1024.jpg
 thumb: images/bolsa-regalo-navidad-dealicia-586.jpg
@@ -19,14 +19,14 @@ stock: true
 
 Está bolsa contiene 5 productos: 
 
-· Bolsa de Alfajores de chocolate negro de origen, alfajores de chocolate con leche y alfajores con chocolate blanco. 
+· Bolsa de Alfajores de chocolate negro de origen, alfajores de chocolate con leche y alfajores con chocolate blanco.  100 g
 
-· Mazapán de nueces Navidad 
+· Mazapán de nueces Navidad 200g
 
-· Pastel de Navidad individual 
+· Pastel de Navidad individual 200g
 
-· 1 bote de mantequilla de cacahuetes naturales 
+· 1 bote de mantequilla de cacahuetes naturales 250g
 
-· 1 bote de mermelada 
+· 1 bote de mermelada 250g
 
 Todos son productos hechos en nuestro obrador a mano la producción es diaria para ofrecer productos frescos y sin conservantes.
