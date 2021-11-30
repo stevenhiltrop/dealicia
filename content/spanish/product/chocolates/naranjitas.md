@@ -3,7 +3,7 @@ title: Naranjitas
 date: 2020-05-26T13:39:07+06:00
 draft: false
 type: product
-image: images/naranjitasconchocolatenegro-dealicia-1024.jpg
+image: images/naranjitasconchocolatenegro-dealicia-586.jpg
 thumb: images/naranjitasconchocolatenegro-dealicia-586.jpg
 category:
   - Chocolates
