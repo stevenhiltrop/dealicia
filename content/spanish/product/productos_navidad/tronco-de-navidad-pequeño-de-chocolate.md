@@ -10,7 +10,8 @@ category:
 description: "Tronco de Navidad artesanal costa del sol, Marbella, Estepona,
   Guadalmina, Sotogrande. "
 weight: ""
-price: 19
+productWeight: -5
+price: 24.95
 stock: true
 ---
 # Tronco de Navidad artesanal d'Alicia
