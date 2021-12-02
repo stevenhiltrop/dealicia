@@ -1,5 +1,5 @@
 ---
-title: "Tronco de Navidad Pequeño de Chocolate "
+title: "Tronco de Navidad Pequeño "
 date: 2020-12-15T12:14:44.770Z
 draft: false
 type: product
