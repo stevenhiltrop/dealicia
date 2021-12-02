@@ -1,5 +1,5 @@
 ---
-title: "Tronco de Navidad Grande de Chocolate "
+title: "Tronco de Navidad Grande "
 date: 2020-12-15T00:41:28.153Z
 draft: false
 type: product
@@ -19,6 +19,8 @@ Tronco de Navidad de chocolate grande. Delicioso tronco de Navidad hecho a mano 
 La decoración también esta hecha en nuestro obrador, cada detalle está muy cuidado para que puedas disfrutar de un auténtico y artesano tronco de Navidad.
 
 Para 10 personas. 
+
+Sabores a elegir: Chocolate, Café o Mango y fruta de la pasion. 
 
 El tronco puedes pedirlo por la web pero es para recoger en tienda, no se puede enviar por mensajería, sin embargo si te interesa escribe a [hola@dealicia.com](hola@dealicia.com)
 
