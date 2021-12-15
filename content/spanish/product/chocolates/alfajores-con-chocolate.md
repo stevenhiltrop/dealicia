@@ -1,7 +1,7 @@
 ---
 title: Alfajores con chocolate
 date: 2020-12-09T02:03:50.572Z
-draft: false
+draft: true
 type: product
 image: images/alfajores-dealicia-1024.png
 thumb: images/alfajores-dealicia-568.png
