@@ -10,9 +10,9 @@ category:
 description: "Típicos dulces de Navidad en la pastelería d'Alicia, turrones,
   alfajores, chocolates, bombones, mazapán, tronco de Navidad, rosco de Navidad.
   "
-weight: 100
-productWeight: 100
-price: 4.5
+weight: ""
+productWeight: ""
+price: ""
 stock: true
 ---
 # Dulces de Navidad en d'Alicia 

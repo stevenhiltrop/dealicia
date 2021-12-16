@@ -1,7 +1,7 @@
 ---
 title: Alfajores con chocolate
 date: 2020-12-09T02:03:50.572Z
-draft: false
+draft: true
 type: product
 image: images/alfajores-dealicia-1024.png
 thumb: images/alfajores-dealicia-568.png
@@ -10,8 +10,8 @@ category:
 description: Alfajores con chocolate artesanal pasta de almendra, avellanas tostadas y miel.
 weight: 115
 productWeight: 115
-price: 4.73
-stock: true
+price: 46
+stock: false
 ---
 # Alfajores
 

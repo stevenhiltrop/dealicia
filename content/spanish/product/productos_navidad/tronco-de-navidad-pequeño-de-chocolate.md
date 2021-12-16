@@ -1,5 +1,5 @@
 ---
-title: "Tronco de Navidad Pequeño de Chocolate "
+title: "Tronco de Navidad Pequeño "
 date: 2020-12-15T12:14:44.770Z
 draft: false
 type: product
@@ -10,7 +10,8 @@ category:
 description: "Tronco de Navidad artesanal costa del sol, Marbella, Estepona,
   Guadalmina, Sotogrande. "
 weight: ""
-price: 19
+productWeight: ""
+price: 24.95
 stock: true
 ---
 # Tronco de Navidad artesanal d'Alicia
@@ -21,4 +22,8 @@ La decoración también esta hecha en nuestro obrador, cada detalle está muy cu
 
 Para 6 personas. 
 
+Sabores a elegir: Chocolate, Café o Mango y fruta de la pasion. 
+
 El tronco puedes pedirlo por la web pero es para recoger en tienda, no se puede enviar por mensajería, sin embargo si te interesa escribe a [hola@dealicia.com](hola@dealicia.com)
+
+Puedes reservar por whatsapp o telegram.
