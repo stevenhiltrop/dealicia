@@ -1,7 +1,7 @@
 ---
 title: Merengue Navideño
 date: 2020-12-15T00:15:39.992Z
-draft: false
+draft: true
 type: product
 image: images/merengue-navidad-dealicia-1024.jpg
 thumb: images/merengue-navidad-dealicia-586.jpg
