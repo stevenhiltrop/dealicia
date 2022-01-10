@@ -1,7 +1,7 @@
 ---
 title: "Tronco de Navidad Grande "
 date: 2020-12-15T00:41:28.153Z
-draft: false
+draft: true
 type: product
 image: images/tronco-de-navidad-artesanal-dealicia-1024.jpg
 thumb: images/tronco-de-navidad-artesanal-dealicia-586.jpg
