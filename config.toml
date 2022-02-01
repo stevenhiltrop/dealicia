@@ -58,33 +58,10 @@ toLower = false
 #################################### navigation ##################################
 [menu]
 
-### English ###
-
   [[menu.main]]
   name = "Contact"
   URL = "contact"
   weight = 1
-
-  # footer menu
-  [[menu.footer]]
-  name = "Legal"
-  URL = "#"
-  weight = 1
-
-  [[menu.footer]]
-  name = "Sitemap"
-  URL = "sitemap.xml"
-  weight = 2
-
-  [[menu.footer]]
-  name = "Privacy Policy"
-  URL = "#"
-  weight = 3
-
-  [[menu.footer]]
-  name = "Terms & Conditions"
-  URL = "#"
-  weight = 4
 
 ########################### default parameters #################################
 [params]
@@ -96,23 +73,13 @@ og_image = "images/logo.png"
 
 # Meta data
 description = "KH Plumbing • Dunedin's Best Plumbing Service"
-author = "normal media"
+author = "Kris Hiltrop"
 # contact form
-contact_form_action = "#"
-# Google Analitycs
-google_analitycs_id = "Your ID"
-
-# mailchimp subsciption
-mailchimp_form_action = "https://gmail.us4.list-manage.com/subscribe/post?u=463ee871f45d2d93748e77cad&amp;id=a0a2c6d074" # replace this url with yours
-mailchimp_form_name = "b_463ee871f45d2d93748e77cad_a0a2c6d074" # replace this code with yours
-
-# snipcart public api key
-snipcartAPI = "MmU3ZTUxYzctMzQwZC00ZDBjLThiZjctMjk3M2VjZDA1ZWQ3NjM3MzMwMTIzMTgzMTYyMDI4"
-currency = "€"
+contact_form_action = "/contact"
 
 # nav Button
 [params.nav_button]
-enable = false
+enable = true
 link = "contact"
 
 # preloader?
@@ -125,7 +92,7 @@ preloader = "images/preloader.gif"
 icon = "ti-mobile"
 
   [[params.contacts.contact]]
-  contact_item = "952 88 56 51 - Dunedin"
+  contact_item = "952 88 56 51"
   contact_link = "tel:952885651"
 
 [[params.contacts]]

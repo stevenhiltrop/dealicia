@@ -21,12 +21,6 @@
     <link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
     <link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
 
-    {{ "<!--Snipcart-->" | safeHTML }}
-    <link rel="preconnect" href="https://app.snipcart.com">
-    <link rel="preconnect" href="https://cdn.snipcart.com">
-
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
     <!-- open graph -->
     <meta property="og:type" content="website" />
     <meta property="og:title" content="{{ if ne .URL "/" }}{{ .Title }} &middot; {{ end }}{{ .Site.Title }}"/>
@@ -42,16 +36,5 @@
     <meta property="og:image:secure_url" content="{{ .Site.Params.image | absURL }}"/>
     {{ end }}
     <meta property="og:type" content="website"/>
-
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-109525867-1"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-109525867-1');
-    </script>
 
 </head>

@@ -4,11 +4,13 @@
   translation: For enquiries, please contact us by using the form or simply give us a call.
 - id: contact_form
   translation: Contact Form
-- id: submit
-  translation: Submit
 - id: contact_info
   translation: Contact Information
+- id: submit
+  translation: Submit
 - id: overview
   translation: Overview
 - id: all
   translation: All
+- id: nav_button
+  translation: Get quote

@@ -1,8 +1,0 @@
-<ol class="breadcrumb">
-    <li>Home</li>
-    {{ range (split .RelPermalink "/") }}
-        {{ if gt (len . ) 0 }}
-            <li>/&nbsp;&nbsp;&nbsp;&nbsp;{{ humanize (replace . "posts" "blog") }}</li>
-        {{ end }}
-    {{ end }}
-</ol>
