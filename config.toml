@@ -1,6 +1,6 @@
 ######################### default configuration ###############################
-baseURL = "https://dealicia.com/"
-title = "Tienda de repostería en la costa del Sol | d'Alicia • 1 y Caprichos"
+# baseURL = "https://dealicia.com/"
+title = "KH Plumbing"
 theme = "biztrox-hugo"
 # post pagination
 paginate = "6"
