@@ -12,10 +12,6 @@ disqusShortname = "" # get your shortname form here : https://disqus.com
 disableLanguages = "es" # disable language from here
 DefaultContentLanguage = "en"
 
-[taxonomies]
-  category = "categories"
-  tema = "temas"
-
 [related]
 threshold = 80.0
 includeNewer = true
@@ -98,7 +94,7 @@ toLower = false
 [params]
 logo = "images/logo.png"
 logo_white = "images/logo-footer.png"
-mail = "hola@dealicia.com"
+mail = "hiltropkris@gmail.com"
 mobile = "952 92 71 99"
 og_image = "images/logo.png"
 

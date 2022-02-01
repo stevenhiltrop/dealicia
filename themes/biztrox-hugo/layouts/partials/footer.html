@@ -20,22 +20,6 @@
 						</ul>
 					</div>
 				</div>
-				{{ "<!-- footer product links -->" | safeHTML }}
-				<div class="col-lg-2 col-md-4 col-6">
-					<h4 class="text mb-4">{{ i18n "products" }}</h4>
-					<ul class="footer-links">
-						<!-- {{ range ( where .Site.RegularPages "Type" "category") }}
-						<li><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></li>
-						{{ end }} -->
-						<li><a href="{{ "product/mantequillas" | absURL }}">Mantequillas</a></li>
-						<li><a href="{{ "product/mermeladas" | absURL }}">Mermeladas</a></li>
-						<li><a href="{{ "product/galletas" | absURL }}">Galletas</a></li>
-						<li><a href="/product/saludables">Saludables</a></li>
-						<li><a href="/product/tartas">Tartas</a></li>
-						<li><a href="/product/panes">Panes</a></li>
-
-					</ul>
-				</div>
 				{{ "<!-- footer links -->" | safeHTML }}
 				<div class="col-lg-2 col-md-4 col-6">
 					<h4 class="text mb-4">{{ i18n "quick_links" }}</h4>
@@ -50,32 +34,19 @@
 
 				<div class="col-md-6 col-lg-3 col-sm-6 text-center text-sm-left">
 					<div class="footer-widget horario">
-						<h4 class="mb-4">Horario de apertura</h4>
+						<h4 class="mb-4">Hours</h4>
 						<ul class="pl-0 list-unstyled mb-5">
 
-							<li class="d-lg-flex"><strong>El Pilar:</strong></li>
-							<li class="d-lg-flex justify-content-between">Lunes-Viernes &nbsp;<span>08:00-18:00</span></li>
-							<li class="d-lg-flex justify-content-between">Sábado &nbsp;<span>08:00-14:30</span></li>
-							<li class="d-lg-flex justify-content-between">Domingo &nbsp;<span>08:00-14:30</span></li>
-							<li class="d-lg-flex justify-content-between">Festivos &nbsp;<span>08:00-14:30</span></li>
-							<li class="d-lg-flex"><strong>Guadalmina:</strong></li>
-							<li class="d-lg-flex justify-content-between">Lunes-Sábado &nbsp;<span>08:00-15:00</span></li>
-							<li class="d-lg-flex justify-content-between">Domingo &nbsp;<span>08:00-14:00</span></li>
-							<li class="d-lg-flex"><strong>Sotogrande:</strong></li>
-							<li class="d-lg-flex justify-content-between">Lunes a Viernes &nbsp;<span>08:30-19:00</span></li>
-							<li class="d-lg-flex justify-content-between">Sábado &nbsp;<span>08:30-14:30</span></li>
-							<li class="d-lg-flex justify-content-between">Domingo &nbsp;<span>Cerrado</span></li>
-							<li class="d-lg-flex justify-content-between">Festivos &nbsp;<span>08:30-14:30</span></li>
+							<li class="d-lg-flex"><strong>Otago:</strong></li>
+							<li class="d-lg-flex justify-content-between">Dunedin<span>08:00-18:00</span></li>
 
 						</ul>
-						<h4 class="mb-4">Encúentranos</h4>
+						<h4 class="mb-4">Find Us</h4>
 						<!-- {{ .Site.Params.footer.address }}<br> -->
 						<ul class="footer-links">
-							<li><a href="https://www.google.com/maps/place/D%E2%80%99Alicia+Caf%C3%A9+Guadalmina/@36.474186,-5.0062314,17z/data=!3m1!4b1!4m5!3m4!1s0xd732a45d0b35113:0x97fb95c29e578bd4!8m2!3d36.4741817!4d-5.0040374?hl=es-ES" target="_blank">Guadalmina</a></li>
-							<li><a href="https://www.google.com/maps/place/d'Alicia+Caf%C3%A9+-+El+Pilar+(Estepona)/@36.4666336,-5.0283366,17z/data=!3m1!4b1!4m5!3m4!1s0xd732afb7990a1dd:0x4dca0d013859a719!8m2!3d36.4666293!4d-5.0261426?hl=es-ES" target="_blank">El Pilar</a></li>
-							<li><a href="https://www.google.com/maps/place/d'Alicia+Caf%C3%A9+Sotogrande/@36.2913249,-5.3034452,17z/data=!3m1!4b1!4m5!3m4!1s0xd0cc499f93c3f3b:0xd5dbbe47be949eb0!8m2!3d36.2913206!4d-5.3012512?hl=es-ES" target="_blank">Sotogrande</a></li>
+							<li><a href="https://www.google.com/maps/place/Dunedin,+New+Zealand/@43.45958,-88.5579274,3z/data=!4m5!3m4!1s0xa82be4e00f5f513d:0x500ef8684799941!8m2!3d-45.8795455!4d170.5005957" target="_blank">Dunedin</a></li>
 						</ul>
-						<strong>Teléfono : </strong> {{ .Site.Params.mobile }}<br>
+						<strong>Phone number : </strong> <a href="tel:{{ .Site.Params.mobile }}">{{ .Site.Params.mobile }}</a> <br>
 						<strong>Email : </strong> <a href="mailto:{{ .Site.Params.mail }}">{{ .Site.Params.mail }}</a>
 
 						{{  range .Site.Params.Share }}
