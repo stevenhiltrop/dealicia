@@ -3,13 +3,9 @@
 title = "KH Plumbing"
 theme = "biztrox-hugo"
 # post pagination
-paginate = "6"
+paginate = "2"
 # post excerpt
 summaryLength = "120"
-# disqus short name
-disqusShortname = "" # get your shortname form here : https://disqus.com
-# disable language
-disableLanguages = "es" # disable language from here
 DefaultContentLanguage = "en"
 
 [related]
@@ -200,15 +196,6 @@ link = "https://www.pinterest.es/dealicia_cafe/"
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UCNxq6F5v3u2R06gFaQfmoBg/"
-
-# opening hours
-[[params.footer.openingHour]]
-day = "Lunes-Sábado"
-time = "08.30-14.30"
-
-[[params.footer.openingHour]]
-day = "Domingo"
-time = "Cerrado"
 
 
 [Languages]
