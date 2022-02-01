@@ -1,6 +1,6 @@
 ---
-title: "John Doe"
-email: "email2@example.org"
+title: "Kris Hiltrop"
+email: "hiltropkris@gmail.com"
 image: ""
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons

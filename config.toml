@@ -1,6 +1,6 @@
 ######################### default configuration ###############################
 baseURL = "https://dealicia.com/"
-title = "Tienda de repostería en la costa del Sol | d'Alicia • Delicias y Caprichos"
+title = "Tienda de repostería en la costa del Sol | d'Alicia • 1 y Caprichos"
 theme = "biztrox-hugo"
 # post pagination
 paginate = "6"
@@ -68,36 +68,10 @@ toLower = false
 
 ### English ###
 
-  # main menu
-  [[menu.main]]
-  name = "About"
-  URL = "about"
-  weight = 1
-
-  [[menu.main]]
-  name = "Shop"
-  URL = "product"
-  weight = 2
-
-  [[menu.main]]
-  name = "Blog"
-  URL = "blog"
-  weight = 3
-
   [[menu.main]]
   name = "Contact"
   URL = "contact"
-  weight = 4
-
- [[menu.main]]
- weight = 5
- name = "Pages"
- hasChildren = true
-
-   [[menu.main]]
-   parent = "Pages"
-   name = "product"
-   URL = "product"
+  weight = 1
 
   # footer menu
   [[menu.footer]]
@@ -119,48 +93,6 @@ toLower = false
   name = "Terms & Conditions"
   URL = "#"
   weight = 4
-
-  ### Spanish ###
-  [[Languages.es.menu.main]]
-  name = "Conócenos"
-  URL = "about"
-  weight = 1
-
-  [[Languages.es.menu.main]]
-  name = "Tienda"
-  URL = "product"
-  weight = 2
-
-  [[Languages.es.menu.main]]
-  name = "Blog"
-  URL = "blog"
-  weight = 3
-
-  [[Languages.es.menu.main]]
-  name = "Contacto"
-  URL = "contact"
-  weight = 4
-
-  [[Languages.es.menu.footer]]
-  name = "Aviso Legal"
-  URL = "legal/avisolegal"
-  weight = 1
-
-  [[Languages.es.menu.footer]]
-  name = "Política de Privacidad"
-  URL = "legal/politica_privacidad"
-  weight = 2
-
-  [[Languages.es.menu.footer]]
-  name = "Política de Cookies"
-  URL = "legal/politica_cookies"
-  weight = 3
-
-  [[Languages.es.menu.footer]]
-  name = "Condiciones de Compra"
-  URL = "legal/condiciones_compra"
-  weight = 4
-
 
 ########################### default parameters #################################
 [params]
