@@ -81,7 +81,7 @@ toLower = false
 
   [[menu.footer]]
   name = "Sitemap"
-  URL = "#"
+  URL = "sitemap.xml"
   weight = 2
 
   [[menu.footer]]
@@ -244,49 +244,12 @@ time = "Cerrado"
   languageName = "En"
   languageCode = "en-us"
   contentDir = "content/english"
-  weight = 2
+  weight = 1
   home = "Home"
 
   # footer
   [Languages.en.params.footer]
   content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
 
-  # subscribe
-  subscribe = "Subscribe Us"
-  subscribe_content = "Lorem ipsum dolor sit amet, consect etur adipisicing. elit sed do eiusmod."
-
   # copyright
-  copyright = "Copyright &copy; 2020 d'Alicia & site made by [normal](https://normalmedia.com)"
-
-
-
-################################ Spanish language ################################
-  [Languages.es]
-  languageName = "Es"
-  languageCode = "es-ES"
-  contentDir = "content/spanish"
-  weight = 1
-  home = "Home"
-
-  # footer
-  [Languages.es.params.footer]
-  content = "Repostería artesanal a partir de recetas tradicionales y exclusivas."
-  address = "C.C. El Pilar, Local 9. Ctra. Nacional 340, 29680 Estepona (Málaga). España"
-  day = "Lunes-Sábado"
-  time = "08.30-14.30"
-  day2 = "Domingo"
-  time2 = "Cerrado"
-
-  # subscribe
-  subscribe = "Suscríbete"
-  subscribe_content = "Lorem ipsum dolore sit amet, consect etur adipisicing. elit sed do eiusmod."
-
-  # copyright
-  copyright = "Copyright &copy; 2020 d'Alicia • web creada por [normal](https://normalmedia.com)"
-
-  [[languages.es.params.footer.openingHour]]
-    day = "Monday-Saturday"
-    time = "08.30-14.30"
-  [[languages.es.params.footer.openingHour]]
-    day = "Sunday"
-    time = "Closed"
+  copyright = "Copyright &copy; 2022 KH Plumbing"
