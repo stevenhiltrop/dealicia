@@ -54,15 +54,6 @@ toLower = false
   [[params.plugins.js]]
   URL = "plugins/google-map/gmap.js"
 
-
-#################################### navigation ##################################
-[menu]
-
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 1
-
 ########################### default parameters #################################
 [params]
 logo = "images/logo.png"
@@ -81,11 +72,6 @@ contact_form_action = "/contact"
 [params.nav_button]
 enable = true
 link = "contact"
-
-# preloader?
-[params.preloader]
-enable = false
-preloader = "images/preloader.gif"
 
 ############################ Contact information ############################
 [[params.contacts]]
@@ -163,21 +149,3 @@ link = "https://www.pinterest.es/dealicia_cafe/"
 [[params.social]]
 icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
 link = "https://www.youtube.com/channel/UCNxq6F5v3u2R06gFaQfmoBg/"
-
-
-[Languages]
-
-  ################################### English language #####################################
-  [Languages.en]
-  languageName = "En"
-  languageCode = "en-us"
-  contentDir = "content/english"
-  weight = 1
-  home = "Home"
-
-  # footer
-  [Languages.en.params.footer]
-  content = "Lorem ipsum dolor amet consectetur adipisicing elit sed eiusm tempor incididunt labore dolore magna aliqua enim."
-
-  # copyright
-  copyright = "Copyright &copy; 2022 KH Plumbing"
