@@ -9,8 +9,8 @@ summaryLength = "120"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # disable language
-disableLanguages = "en" # disable language from here
-DefaultContentLanguage = "es"
+disableLanguages = "es" # disable language from here
+DefaultContentLanguage = "en"
 
 [taxonomies]
   category = "categories"
